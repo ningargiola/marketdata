@@ -1,10 +1,10 @@
-# 📊 Stock Data Fetcher (Finnhub + Static Merge)
+# Stock Data Fetcher (Finnhub + Static Merge)
 
 This project fetches **real-time market data** using the [Finnhub API](https://finnhub.io) and merges it with static company information to create clean, structured JSON files for use in apps or APIs.
 
 ---
 
-## 🔧 Features
+## Features
 
 - ✅ Fetches current stock prices and metadata via Finnhub
 - ✅ Merges with static data (e.g., company name, sector)
@@ -18,7 +18,7 @@ This project fetches **real-time market data** using the [Finnhub API](https://f
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 marketdata/
@@ -38,7 +38,7 @@ marketdata/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Install Dependencies
 
@@ -74,7 +74,7 @@ To automate updates every 15 minutes:
 
 ---
 
-## 📌 Notes
+## Notes
 
 - Free tier of Finnhub allows 60 requests/minute. Script batches accordingly.
 - You can store and serve JSON files from a CDN (e.g., Cloudflare R2 or Firebase).
