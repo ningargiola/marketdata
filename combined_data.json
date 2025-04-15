@@ -15,7 +15,7 @@
     "high": 203.51,
     "low": 199.8,
     "previousClose": 202.52,
-    "lastUpdated": "2025-04-15T21:35:39.358400"
+    "lastUpdated": "2025-04-15T21:46:21.639600"
   },
   "MSFT": {
     "symbol": "MSFT",
@@ -33,7 +33,7 @@
     "high": 391.89,
     "low": 384.1599,
     "previousClose": 387.81,
-    "lastUpdated": "2025-04-15T21:35:39.443658"
+    "lastUpdated": "2025-04-15T21:46:21.811950"
   },
   "NVDA": {
     "symbol": "NVDA",
@@ -51,7 +51,7 @@
     "high": 113.615,
     "low": 110.5,
     "previousClose": 110.71,
-    "lastUpdated": "2025-04-15T21:35:39.518788"
+    "lastUpdated": "2025-04-15T21:46:21.928419"
   },
   "AMZN": {
     "symbol": "AMZN",
@@ -69,7 +69,7 @@
     "high": 182.35,
     "low": 177.9331,
     "previousClose": 182.12,
-    "lastUpdated": "2025-04-15T21:35:39.580555"
+    "lastUpdated": "2025-04-15T21:46:22.032804"
   },
   "META": {
     "symbol": "META",
@@ -87,7 +87,7 @@
     "high": 537.94,
     "low": 517.5,
     "previousClose": 531.48,
-    "lastUpdated": "2025-04-15T21:35:39.640782"
+    "lastUpdated": "2025-04-15T21:46:22.208717"
   },
   "BRK.B": {
     "symbol": "BRK.B",
@@ -105,7 +105,7 @@
     "high": 535.92,
     "low": 527.36,
     "previousClose": 529.52,
-    "lastUpdated": "2025-04-15T21:35:39.699305"
+    "lastUpdated": "2025-04-15T21:46:22.351068"
   },
   "GOOGL": {
     "symbol": "GOOGL",
@@ -123,7 +123,7 @@
     "high": 159.65,
     "low": 155.21,
     "previousClose": 159.07,
-    "lastUpdated": "2025-04-15T21:35:39.793785"
+    "lastUpdated": "2025-04-15T21:46:22.534280"
   },
   "AVGO": {
     "symbol": "AVGO",
@@ -141,7 +141,7 @@
     "high": 182.2644,
     "low": 178.08,
     "previousClose": 178.36,
-    "lastUpdated": "2025-04-15T21:35:39.861279"
+    "lastUpdated": "2025-04-15T21:46:22.640905"
   },
   "GOOG": {
     "symbol": "GOOG",
@@ -159,7 +159,7 @@
     "high": 162.05,
     "low": 157.645,
     "previousClose": 161.47,
-    "lastUpdated": "2025-04-15T21:35:40.122191"
+    "lastUpdated": "2025-04-15T21:46:22.806753"
   },
   "TSLA": {
     "symbol": "TSLA",
@@ -177,7 +177,7 @@
     "high": 258.75,
     "low": 247.54,
     "previousClose": 252.35,
-    "lastUpdated": "2025-04-15T21:35:40.292484"
+    "lastUpdated": "2025-04-15T21:46:22.920628"
   },
   "JPM": {
     "symbol": "JPM",
@@ -195,7 +195,7 @@
     "high": 238.65,
     "low": 232.82,
     "previousClose": 234.72,
-    "lastUpdated": "2025-04-15T21:35:40.379974"
+    "lastUpdated": "2025-04-15T21:46:23.099790"
   },
   "LLY": {
     "symbol": "LLY",
@@ -213,7 +213,7 @@
     "high": 765.31,
     "low": 751.49,
     "previousClose": 754.35,
-    "lastUpdated": "2025-04-15T21:35:40.510963"
+    "lastUpdated": "2025-04-15T21:46:23.318234"
   },
   "V": {
     "symbol": "V",
@@ -231,7 +231,7 @@
     "high": 339.39,
     "low": 335,
     "previousClose": 335.18,
-    "lastUpdated": "2025-04-15T21:35:40.615237"
+    "lastUpdated": "2025-04-15T21:46:23.424486"
   },
   "UNH": {
     "symbol": "UNH",
@@ -249,7 +249,7 @@
     "high": 592.86,
     "low": 582.01,
     "previousClose": 587.06,
-    "lastUpdated": "2025-04-15T21:35:41.003278"
+    "lastUpdated": "2025-04-15T21:46:23.532941"
   },
   "XOM": {
     "symbol": "XOM",
@@ -267,7 +267,7 @@
     "high": 105.405,
     "low": 103,
     "previousClose": 103.39,
-    "lastUpdated": "2025-04-15T21:35:41.092696"
+    "lastUpdated": "2025-04-15T21:46:23.661614"
   },
   "COST": {
     "symbol": "COST",
@@ -285,7 +285,7 @@
     "high": 994,
     "low": 974.25,
     "previousClose": 979.32,
-    "lastUpdated": "2025-04-15T21:35:41.167398"
+    "lastUpdated": "2025-04-15T21:46:23.853102"
   },
   "MA": {
     "symbol": "MA",
@@ -303,7 +303,7 @@
     "high": 521.2873,
     "low": 513.38,
     "previousClose": 512.46,
-    "lastUpdated": "2025-04-15T21:35:41.263835"
+    "lastUpdated": "2025-04-15T21:46:23.983283"
   },
   "NFLX": {
     "symbol": "NFLX",
@@ -321,7 +321,7 @@
     "high": 993.4499,
     "low": 948,
     "previousClose": 931.28,
-    "lastUpdated": "2025-04-15T21:35:41.348304"
+    "lastUpdated": "2025-04-15T21:46:24.232926"
   },
   "WMT": {
     "symbol": "WMT",
@@ -339,7 +339,7 @@
     "high": 96.03,
     "low": 93.87,
     "previousClose": 94.73,
-    "lastUpdated": "2025-04-15T21:35:41.449526"
+    "lastUpdated": "2025-04-15T21:46:24.395617"
   },
   "PG": {
     "symbol": "PG",
@@ -357,7 +357,7 @@
     "high": 170.16,
     "low": 168.28,
     "previousClose": 169.13,
-    "lastUpdated": "2025-04-15T21:35:41.508911"
+    "lastUpdated": "2025-04-15T21:46:24.531970"
   },
   "JNJ": {
     "symbol": "JNJ",
@@ -375,7 +375,7 @@
     "high": 156.3,
     "low": 152.1,
     "previousClose": 154.36,
-    "lastUpdated": "2025-04-15T21:35:41.558939"
+    "lastUpdated": "2025-04-15T21:46:24.634655"
   },
   "HD": {
     "symbol": "HD",
@@ -393,7 +393,7 @@
     "high": 361.4446,
     "low": 353.3201,
     "previousClose": 357.2,
-    "lastUpdated": "2025-04-15T21:35:41.632208"
+    "lastUpdated": "2025-04-15T21:46:24.738159"
   },
   "ABBV": {
     "symbol": "ABBV",
@@ -411,7 +411,7 @@
     "high": 180.5,
     "low": 176.31,
     "previousClose": 179.1,
-    "lastUpdated": "2025-04-15T21:35:41.716270"
+    "lastUpdated": "2025-04-15T21:46:24.840397"
   },
   "KO": {
     "symbol": "KO",
@@ -429,7 +429,7 @@
     "high": 72.63,
     "low": 71.725,
     "previousClose": 72.45,
-    "lastUpdated": "2025-04-15T21:35:41.781083"
+    "lastUpdated": "2025-04-15T21:46:24.954013"
   },
   "CRM": {
     "symbol": "CRM",
@@ -447,7 +447,7 @@
     "high": 256.72,
     "low": 253.8,
     "previousClose": 254.55,
-    "lastUpdated": "2025-04-15T21:35:41.920720"
+    "lastUpdated": "2025-04-15T21:46:25.058676"
   },
   "BAC": {
     "symbol": "BAC",
@@ -465,7 +465,7 @@
     "high": 38.75,
     "low": 37.795,
     "previousClose": 36.67,
-    "lastUpdated": "2025-04-15T21:35:42.037104"
+    "lastUpdated": "2025-04-15T21:46:25.169567"
   },
   "PM": {
     "symbol": "PM",
@@ -483,7 +483,7 @@
     "high": 161.04,
     "low": 156.845,
     "previousClose": 157.59,
-    "lastUpdated": "2025-04-15T21:35:42.139974"
+    "lastUpdated": "2025-04-15T21:46:25.295493"
   },
   "CVX": {
     "symbol": "CVX",
@@ -501,7 +501,7 @@
     "high": 136.63,
     "low": 134.25,
     "previousClose": 135.32,
-    "lastUpdated": "2025-04-15T21:35:42.238815"
+    "lastUpdated": "2025-04-15T21:46:25.415455"
   },
   "CSCO": {
     "symbol": "CSCO",
@@ -519,7 +519,7 @@
     "high": 57.91,
     "low": 57.06,
     "previousClose": 57.41,
-    "lastUpdated": "2025-04-15T21:35:42.343289"
+    "lastUpdated": "2025-04-15T21:46:25.650868"
   },
   "MCD": {
     "symbol": "MCD",
@@ -537,7 +537,7 @@
     "high": 317.195,
     "low": 311.84,
     "previousClose": 316.07,
-    "lastUpdated": "2025-04-15T21:35:42.417998"
+    "lastUpdated": "2025-04-15T21:46:25.825882"
   },
   "ORCL": {
     "symbol": "ORCL",
@@ -555,7 +555,7 @@
     "high": 136.482,
     "low": 133.72,
     "previousClose": 134.64,
-    "lastUpdated": "2025-04-15T21:35:42.479007"
+    "lastUpdated": "2025-04-15T21:46:26.049258"
   },
   "ABT": {
     "symbol": "ABT",
@@ -573,7 +573,7 @@
     "high": 128.49,
     "low": 125.595,
     "previousClose": 127.96,
-    "lastUpdated": "2025-04-15T21:35:42.552310"
+    "lastUpdated": "2025-04-15T21:46:26.178701"
   },
   "IBM": {
     "symbol": "IBM",
@@ -591,7 +591,7 @@
     "high": 241.53,
     "low": 238.27,
     "previousClose": 239.06,
-    "lastUpdated": "2025-04-15T21:35:42.608900"
+    "lastUpdated": "2025-04-15T21:46:26.333390"
   },
   "WFC": {
     "symbol": "WFC",
@@ -609,7 +609,7 @@
     "high": 65.42,
     "low": 63.3,
     "previousClose": 63.1,
-    "lastUpdated": "2025-04-15T21:35:42.683067"
+    "lastUpdated": "2025-04-15T21:46:26.500835"
   },
   "LIN": {
     "symbol": "LIN",
@@ -627,7 +627,7 @@
     "high": 454.51,
     "low": 447.94,
     "previousClose": 446.03,
-    "lastUpdated": "2025-04-15T21:35:42.742604"
+    "lastUpdated": "2025-04-15T21:46:26.616804"
   },
   "PEP": {
     "symbol": "PEP",
@@ -645,7 +645,7 @@
     "high": 145.98,
     "low": 142.627387,
     "previousClose": 146.75,
-    "lastUpdated": "2025-04-15T21:35:42.817989"
+    "lastUpdated": "2025-04-15T21:46:26.750630"
   },
   "MRK": {
     "symbol": "MRK",
@@ -663,7 +663,7 @@
     "high": 79.96,
     "low": 77.72,
     "previousClose": 79.17,
-    "lastUpdated": "2025-04-15T21:35:42.897354"
+    "lastUpdated": "2025-04-15T21:46:26.864781"
   },
   "GE": {
     "symbol": "GE",
@@ -673,7 +673,15 @@
     "marketCap": 193765588992,
     "country": "United States",
     "website": "https://www.geaerospace.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 185.67,
+    "change": -0.33,
+    "percentChange": -0.1774,
+    "open": 183.88,
+    "high": 188.44,
+    "low": 182.29,
+    "previousClose": 186,
+    "lastUpdated": "2025-04-15T21:46:26.973826"
   },
   "T": {
     "symbol": "T",
@@ -683,7 +691,15 @@
     "marketCap": 192907821056,
     "country": "United States",
     "website": "https://www.att.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 27.5,
+    "change": 0.3,
+    "percentChange": 1.1029,
+    "open": 27.5,
+    "high": 27.63,
+    "low": 27.26,
+    "previousClose": 27.2,
+    "lastUpdated": "2025-04-15T21:46:27.159710"
   },
   "PLTR": {
     "symbol": "PLTR",
@@ -693,7 +709,15 @@
     "marketCap": 207681617920,
     "country": "United States",
     "website": "https://www.palantir.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 98.4,
+    "change": 5.78,
+    "percentChange": 6.2406,
+    "open": 93.53,
+    "high": 98.99,
+    "low": 93.05,
+    "previousClose": 92.62,
+    "lastUpdated": "2025-04-15T21:46:27.267661"
   },
   "VZ": {
     "symbol": "VZ",
@@ -703,7 +727,15 @@
     "marketCap": 187601698816,
     "country": "United States",
     "website": "https://www.verizon.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 44.48,
+    "change": 0.18,
+    "percentChange": 0.4063,
+    "open": 44.5,
+    "high": 44.685,
+    "low": 44.215,
+    "previousClose": 44.3,
+    "lastUpdated": "2025-04-15T21:46:27.364169"
   },
   "ACN": {
     "symbol": "ACN",
@@ -713,7 +745,15 @@
     "marketCap": 178004230144,
     "country": "Ireland",
     "website": "https://www.accenture.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 288.66,
+    "change": -1.13,
+    "percentChange": -0.3899,
+    "open": 288.91,
+    "high": 292.08,
+    "low": 287.34,
+    "previousClose": 289.79,
+    "lastUpdated": "2025-04-15T21:46:27.542334"
   },
   "ISRG": {
     "symbol": "ISRG",
@@ -723,7 +763,15 @@
     "marketCap": 176844554240,
     "country": "United States",
     "website": "https://www.intuitive.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 488.27,
+    "change": -1.86,
+    "percentChange": -0.3795,
+    "open": 487.46,
+    "high": 494.64,
+    "low": 483.69,
+    "previousClose": 490.13,
+    "lastUpdated": "2025-04-15T21:46:27.801366"
   },
   "RTX": {
     "symbol": "RTX",
@@ -733,7 +781,15 @@
     "marketCap": 171238637568,
     "country": "United States",
     "website": "https://www.rtx.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 128.64,
+    "change": -0.5,
+    "percentChange": -0.3872,
+    "open": 128.5,
+    "high": 129.95,
+    "low": 128.24,
+    "previousClose": 129.14,
+    "lastUpdated": "2025-04-15T21:46:27.928630"
   },
   "TMO": {
     "symbol": "TMO",
@@ -743,7 +799,15 @@
     "marketCap": 165398118400,
     "country": "United States",
     "website": "https://www.thermofisher.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 441,
+    "change": -8.33,
+    "percentChange": -1.8539,
+    "open": 447.59,
+    "high": 450.27,
+    "low": 438.4115,
+    "previousClose": 449.33,
+    "lastUpdated": "2025-04-15T21:46:28.106959"
   },
   "INTU": {
     "symbol": "INTU",
@@ -753,7 +817,15 @@
     "marketCap": 164114055168,
     "country": "United States",
     "website": "https://www.intuit.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 594.08,
+    "change": 0.53,
+    "percentChange": 0.0893,
+    "open": 598.97,
+    "high": 600.56,
+    "low": 591.35,
+    "previousClose": 593.55,
+    "lastUpdated": "2025-04-15T21:46:28.273074"
   },
   "NOW": {
     "symbol": "NOW",
@@ -763,7 +835,15 @@
     "marketCap": 162635251712,
     "country": "United States",
     "website": "https://www.servicenow.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 816.5,
+    "change": 16.68,
+    "percentChange": 2.0855,
+    "open": 800.96,
+    "high": 824.9,
+    "low": 799.21,
+    "previousClose": 799.82,
+    "lastUpdated": "2025-04-15T21:46:28.444959"
   },
   "PGR": {
     "symbol": "PGR",
@@ -773,7 +853,15 @@
     "marketCap": 161590116352,
     "country": "United States",
     "website": "https://www.progressive.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 276.11,
+    "change": -2.45,
+    "percentChange": -0.8795,
+    "open": 279.07,
+    "high": 282,
+    "low": 275.73,
+    "previousClose": 278.56,
+    "lastUpdated": "2025-04-15T21:46:28.614412"
   },
   "DIS": {
     "symbol": "DIS",
@@ -783,7 +871,15 @@
     "marketCap": 153463291904,
     "country": "United States",
     "website": "https://thewaltdisneycompany.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 85.01,
+    "change": 0.35,
+    "percentChange": 0.4134,
+    "open": 84.75,
+    "high": 85.98,
+    "low": 84.52,
+    "previousClose": 84.66,
+    "lastUpdated": "2025-04-15T21:46:28.732743"
   },
   "GS": {
     "symbol": "GS",
@@ -793,7 +889,15 @@
     "marketCap": 153667010560,
     "country": "United States",
     "website": "https://www.goldmansachs.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 507.89,
+    "change": 3.91,
+    "percentChange": 0.7758,
+    "open": 507.41,
+    "high": 518.65,
+    "low": 507,
+    "previousClose": 503.98,
+    "lastUpdated": "2025-04-15T21:46:28.928123"
   },
   "ADBE": {
     "symbol": "ADBE",
@@ -803,7 +907,15 @@
     "marketCap": 150222716928,
     "country": "United States",
     "website": "https://www.adobe.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 350.38,
+    "change": -0.53,
+    "percentChange": -0.151,
+    "open": 351.05,
+    "high": 356.49,
+    "low": 349.185,
+    "previousClose": 350.91,
+    "lastUpdated": "2025-04-15T21:46:29.062698"
   },
   "AMGN": {
     "symbol": "AMGN",
@@ -813,7 +925,15 @@
     "marketCap": 153757433856,
     "country": "United States",
     "website": "https://www.amgen.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 295.3,
+    "change": 1.38,
+    "percentChange": 0.4695,
+    "open": 294.305,
+    "high": 296.17,
+    "low": 292.14,
+    "previousClose": 293.92,
+    "lastUpdated": "2025-04-15T21:46:29.220947"
   },
   "BKNG": {
     "symbol": "BKNG",
@@ -823,7 +943,15 @@
     "marketCap": 150507896832,
     "country": "United States",
     "website": "https://www.bookingholdings.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 4612.44,
+    "change": 55.6,
+    "percentChange": 1.2201,
+    "open": 4599.99,
+    "high": 4617.51,
+    "low": 4524.09,
+    "previousClose": 4556.84,
+    "lastUpdated": "2025-04-15T21:46:29.412385"
   },
   "QCOM": {
     "symbol": "QCOM",
@@ -833,7 +961,15 @@
     "marketCap": 154010501120,
     "country": "United States",
     "website": "https://www.qualcomm.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 138.6,
+    "change": -0.59,
+    "percentChange": -0.4239,
+    "open": 139.46,
+    "high": 140.835,
+    "low": 138.03,
+    "previousClose": 139.19,
+    "lastUpdated": "2025-04-15T21:46:29.533579"
   },
   "UBER": {
     "symbol": "UBER",
@@ -843,7 +979,15 @@
     "marketCap": 151156277248,
     "country": "United States",
     "website": "https://www.uber.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 74.02,
+    "change": 0.92,
+    "percentChange": 1.2585,
+    "open": 73.1,
+    "high": 74.72,
+    "low": 73.1,
+    "previousClose": 73.1,
+    "lastUpdated": "2025-04-15T21:46:29.640130"
   },
   "SPGI": {
     "symbol": "SPGI",
@@ -853,7 +997,15 @@
     "marketCap": 142650540032,
     "country": "United States",
     "website": "https://www.spglobal.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 470.71,
+    "change": -0.88,
+    "percentChange": -0.1866,
+    "open": 472.54,
+    "high": 475.8145,
+    "low": 470.0301,
+    "previousClose": 471.59,
+    "lastUpdated": "2025-04-15T21:46:29.754246"
   },
   "AMD": {
     "symbol": "AMD",
@@ -863,7 +1015,15 @@
     "marketCap": 151740448768,
     "country": "United States",
     "website": "https://www.amd.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 95.29,
+    "change": 0.79,
+    "percentChange": 0.836,
+    "open": 94.66,
+    "high": 96.85,
+    "low": 94.62,
+    "previousClose": 94.5,
+    "lastUpdated": "2025-04-15T21:46:29.843672"
   },
   "TJX": {
     "symbol": "TJX",
@@ -873,7 +1033,15 @@
     "marketCap": 143156363264,
     "country": "United States",
     "website": "https://www.tjx.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 128.5,
+    "change": -2.1,
+    "percentChange": -1.608,
+    "open": 130.51,
+    "high": 131.3,
+    "low": 128.29,
+    "previousClose": 130.6,
+    "lastUpdated": "2025-04-15T21:46:29.942321"
   },
   "TXN": {
     "symbol": "TXN",
@@ -883,7 +1051,15 @@
     "marketCap": 134303907840,
     "country": "United States",
     "website": "https://www.ti.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 151.18,
+    "change": 0.2,
+    "percentChange": 0.1325,
+    "open": 151.415,
+    "high": 152.702,
+    "low": 149.85,
+    "previousClose": 150.98,
+    "lastUpdated": "2025-04-15T21:46:30.102176"
   },
   "CAT": {
     "symbol": "CAT",
@@ -893,7 +1069,15 @@
     "marketCap": 140249153536,
     "country": "United States",
     "website": "https://www.caterpillar.com",
-    "ipoYear": null
+    "ipoYear": null,
+    "currentPrice": 293.43,
+    "change": -4.69,
+    "percentChange": -1.5732,
+    "open": 296.83,
+    "high": 301.73,
+    "low": 292.39,
+    "previousClose": 298.12,
+    "lastUpdated": "2025-04-15T21:46:30.215950"
   },
   "NEE": {
     "symbol": "NEE",
@@ -911,7 +1095,7 @@
     "high": 68.435,
     "low": 67.525,
     "previousClose": 67.69,
-    "lastUpdated": "2025-04-15T21:36:44.731147"
+    "lastUpdated": "2025-04-15T21:47:30.407769"
   },
   "AXP": {
     "symbol": "AXP",
@@ -929,7 +1113,7 @@
     "high": 260.63,
     "low": 255.3,
     "previousClose": 255.38,
-    "lastUpdated": "2025-04-15T21:36:44.873932"
+    "lastUpdated": "2025-04-15T21:47:30.588498"
   },
   "BSX": {
     "symbol": "BSX",
@@ -947,7 +1131,7 @@
     "high": 95.12,
     "low": 93.69,
     "previousClose": 94.27,
-    "lastUpdated": "2025-04-15T21:36:44.966607"
+    "lastUpdated": "2025-04-15T21:47:30.681818"
   },
   "UNP": {
     "symbol": "UNP",
@@ -965,7 +1149,7 @@
     "high": 224.31,
     "low": 219.586,
     "previousClose": 222.27,
-    "lastUpdated": "2025-04-15T21:36:45.051566"
+    "lastUpdated": "2025-04-15T21:47:30.871716"
   },
   "MS": {
     "symbol": "MS",
@@ -983,7 +1167,7 @@
     "high": 112.1475,
     "low": 110.06,
     "previousClose": 109.11,
-    "lastUpdated": "2025-04-15T21:36:45.166033"
+    "lastUpdated": "2025-04-15T21:47:31.064914"
   },
   "CMCSA": {
     "symbol": "CMCSA",
@@ -1001,7 +1185,7 @@
     "high": 34.76,
     "low": 34.26,
     "previousClose": 34.15,
-    "lastUpdated": "2025-04-15T21:36:45.315454"
+    "lastUpdated": "2025-04-15T21:47:31.225144"
   },
   "GILD": {
     "symbol": "GILD",
@@ -1019,7 +1203,7 @@
     "high": 106.4998,
     "low": 104.87,
     "previousClose": 106.5,
-    "lastUpdated": "2025-04-15T21:36:45.445921"
+    "lastUpdated": "2025-04-15T21:47:31.347909"
   },
   "SCHW": {
     "symbol": "SCHW",
@@ -1037,7 +1221,7 @@
     "high": 78.12,
     "low": 77.03,
     "previousClose": 76.92,
-    "lastUpdated": "2025-04-15T21:36:45.574949"
+    "lastUpdated": "2025-04-15T21:47:31.465422"
   },
   "HON": {
     "symbol": "HON",
@@ -1055,7 +1239,7 @@
     "high": 202.36,
     "low": 198.39,
     "previousClose": 200.25,
-    "lastUpdated": "2025-04-15T21:36:45.697073"
+    "lastUpdated": "2025-04-15T21:47:31.606645"
   },
   "BLK": {
     "symbol": "BLK",
@@ -1073,7 +1257,7 @@
     "high": 900.75,
     "low": 886.225,
     "previousClose": 889.95,
-    "lastUpdated": "2025-04-15T21:36:45.768140"
+    "lastUpdated": "2025-04-15T21:47:31.804322"
   },
   "LOW": {
     "symbol": "LOW",
@@ -1091,7 +1275,7 @@
     "high": 225.03,
     "low": 218.8,
     "previousClose": 224.14,
-    "lastUpdated": "2025-04-15T21:36:45.908715"
+    "lastUpdated": "2025-04-15T21:47:32.019591"
   },
   "TMUS": {
     "symbol": "TMUS",
@@ -1109,7 +1293,7 @@
     "high": 267.96,
     "low": 263.1801,
     "previousClose": 262.64,
-    "lastUpdated": "2025-04-15T21:36:46.006769"
+    "lastUpdated": "2025-04-15T21:47:32.122689"
   },
   "PFE": {
     "symbol": "PFE",
@@ -1127,7 +1311,7 @@
     "high": 22.93,
     "low": 22.125,
     "previousClose": 22.12,
-    "lastUpdated": "2025-04-15T21:36:46.156685"
+    "lastUpdated": "2025-04-15T21:47:32.224087"
   },
   "VRTX": {
     "symbol": "VRTX",
@@ -1145,7 +1329,7 @@
     "high": 501.91,
     "low": 493.12,
     "previousClose": 495.83,
-    "lastUpdated": "2025-04-15T21:36:46.232676"
+    "lastUpdated": "2025-04-15T21:47:32.335605"
   },
   "SYK": {
     "symbol": "SYK",
@@ -1163,7 +1347,7 @@
     "high": 355.39,
     "low": 345.99,
     "previousClose": 353.42,
-    "lastUpdated": "2025-04-15T21:36:46.319423"
+    "lastUpdated": "2025-04-15T21:47:32.434310"
   },
   "ADP": {
     "symbol": "ADP",
@@ -1181,7 +1365,7 @@
     "high": 303.27,
     "low": 297.8,
     "previousClose": 301.56,
-    "lastUpdated": "2025-04-15T21:36:46.393730"
+    "lastUpdated": "2025-04-15T21:47:32.598257"
   },
   "BA": {
     "symbol": "BA",
@@ -1199,7 +1383,7 @@
     "high": 159.1201,
     "low": 155.275,
     "previousClose": 159.28,
-    "lastUpdated": "2025-04-15T21:36:46.483980"
+    "lastUpdated": "2025-04-15T21:47:32.701417"
   },
   "FI": {
     "symbol": "FI",
@@ -1217,7 +1401,7 @@
     "high": 215.15,
     "low": 211.4,
     "previousClose": 212.24,
-    "lastUpdated": "2025-04-15T21:36:46.585669"
+    "lastUpdated": "2025-04-15T21:47:32.823690"
   },
   "DHR": {
     "symbol": "DHR",
@@ -1235,7 +1419,7 @@
     "high": 194.99,
     "low": 188.56,
     "previousClose": 192.97,
-    "lastUpdated": "2025-04-15T21:36:46.657054"
+    "lastUpdated": "2025-04-15T21:47:32.948173"
   },
   "C": {
     "symbol": "C",
@@ -1253,7 +1437,7 @@
     "high": 66.29,
     "low": 63.8401,
     "previousClose": 63.22,
-    "lastUpdated": "2025-04-15T21:36:46.785764"
+    "lastUpdated": "2025-04-15T21:47:33.123298"
   },
   "DE": {
     "symbol": "DE",
@@ -1271,7 +1455,7 @@
     "high": 467.13,
     "low": 460.65,
     "previousClose": 467.67,
-    "lastUpdated": "2025-04-15T21:36:46.890411"
+    "lastUpdated": "2025-04-15T21:47:33.235617"
   },
   "AMAT": {
     "symbol": "AMAT",
@@ -1289,7 +1473,7 @@
     "high": 147.045,
     "low": 144.24,
     "previousClose": 144.53,
-    "lastUpdated": "2025-04-15T21:36:46.948369"
+    "lastUpdated": "2025-04-15T21:47:33.345120"
   },
   "MMC": {
     "symbol": "MMC",
@@ -1307,7 +1491,7 @@
     "high": 238.12,
     "low": 232.01,
     "previousClose": 237.32,
-    "lastUpdated": "2025-04-15T21:36:47.157090"
+    "lastUpdated": "2025-04-15T21:47:33.546173"
   },
   "PANW": {
     "symbol": "PANW",
@@ -1325,7 +1509,7 @@
     "high": 174.94,
     "low": 169.98,
     "previousClose": 169.98,
-    "lastUpdated": "2025-04-15T21:36:47.380588"
+    "lastUpdated": "2025-04-15T21:47:33.640427"
   },
   "ETN": {
     "symbol": "ETN",
@@ -1343,7 +1527,7 @@
     "high": 280.045,
     "low": 275.45,
     "previousClose": 277.83,
-    "lastUpdated": "2025-04-15T21:36:47.589096"
+    "lastUpdated": "2025-04-15T21:47:33.756493"
   },
   "COP": {
     "symbol": "COP",
@@ -1361,7 +1545,7 @@
     "high": 87.71,
     "low": 85.47,
     "previousClose": 86.45,
-    "lastUpdated": "2025-04-15T21:36:47.685383"
+    "lastUpdated": "2025-04-15T21:47:33.867367"
   },
   "MDT": {
     "symbol": "MDT",
@@ -1379,7 +1563,7 @@
     "high": 84.73,
     "low": 82.22,
     "previousClose": 84.22,
-    "lastUpdated": "2025-04-15T21:36:47.767008"
+    "lastUpdated": "2025-04-15T21:47:33.971883"
   },
   "CB": {
     "symbol": "CB",
@@ -1397,7 +1581,7 @@
     "high": 289.14,
     "low": 284.525,
     "previousClose": 288.34,
-    "lastUpdated": "2025-04-15T21:36:47.859157"
+    "lastUpdated": "2025-04-15T21:47:34.075257"
   },
   "BMY": {
     "symbol": "BMY",
@@ -1415,7 +1599,7 @@
     "high": 51.5,
     "low": 49.665,
     "previousClose": 51.34,
-    "lastUpdated": "2025-04-15T21:36:47.980532"
+    "lastUpdated": "2025-04-15T21:47:34.237173"
   },
   "ELV": {
     "symbol": "ELV",
@@ -1433,7 +1617,7 @@
     "high": 441.47,
     "low": 434.48,
     "previousClose": 441.17,
-    "lastUpdated": "2025-04-15T21:36:48.053953"
+    "lastUpdated": "2025-04-15T21:47:34.336835"
   },
   "SO": {
     "symbol": "SO",
@@ -1451,7 +1635,7 @@
     "high": 91.7,
     "low": 90.93,
     "previousClose": 91.16,
-    "lastUpdated": "2025-04-15T21:36:48.154578"
+    "lastUpdated": "2025-04-15T21:47:34.499178"
   },
   "LMT": {
     "symbol": "LMT",
@@ -1469,7 +1653,7 @@
     "high": 475.34,
     "low": 468,
     "previousClose": 475.34,
-    "lastUpdated": "2025-04-15T21:36:48.213938"
+    "lastUpdated": "2025-04-15T21:47:34.603136"
   },
   "AMT": {
     "symbol": "AMT",
@@ -1487,7 +1671,7 @@
     "high": 220.82,
     "low": 216.02,
     "previousClose": 217.79,
-    "lastUpdated": "2025-04-15T21:36:48.282231"
+    "lastUpdated": "2025-04-15T21:47:34.876148"
   },
   "SBUX": {
     "symbol": "SBUX",
@@ -1505,7 +1689,7 @@
     "high": 86.055,
     "low": 83.46,
     "previousClose": 85.49,
-    "lastUpdated": "2025-04-15T21:36:48.366572"
+    "lastUpdated": "2025-04-15T21:47:34.977837"
   },
   "MO": {
     "symbol": "MO",
@@ -1523,7 +1707,7 @@
     "high": 57.9,
     "low": 57.17,
     "previousClose": 57.13,
-    "lastUpdated": "2025-04-15T21:36:48.436500"
+    "lastUpdated": "2025-04-15T21:47:35.085286"
   },
   "BX": {
     "symbol": "BX",
@@ -1541,7 +1725,7 @@
     "high": 135.0998,
     "low": 129.905,
     "previousClose": 130.47,
-    "lastUpdated": "2025-04-15T21:36:48.519623"
+    "lastUpdated": "2025-04-15T21:47:35.281335"
   },
   "CME": {
     "symbol": "CME",
@@ -1559,7 +1743,7 @@
     "high": 265.51,
     "low": 262.16,
     "previousClose": 263.69,
-    "lastUpdated": "2025-04-15T21:36:48.609615"
+    "lastUpdated": "2025-04-15T21:47:35.382712"
   },
   "CRWD": {
     "symbol": "CRWD",
@@ -1577,7 +1761,7 @@
     "high": 400.02,
     "low": 379.67,
     "previousClose": 378.66,
-    "lastUpdated": "2025-04-15T21:36:48.669372"
+    "lastUpdated": "2025-04-15T21:47:35.549998"
   },
   "DUK": {
     "symbol": "DUK",
@@ -1595,7 +1779,7 @@
     "high": 121.75,
     "low": 120.34,
     "previousClose": 120.6,
-    "lastUpdated": "2025-04-15T21:36:48.722062"
+    "lastUpdated": "2025-04-15T21:47:35.648212"
   },
   "CI": {
     "symbol": "CI",
@@ -1613,7 +1797,7 @@
     "high": 330.105,
     "low": 326.52,
     "previousClose": 329.2,
-    "lastUpdated": "2025-04-15T21:36:48.794397"
+    "lastUpdated": "2025-04-15T21:47:35.804227"
   },
   "ICE": {
     "symbol": "ICE",
@@ -1631,7 +1815,7 @@
     "high": 160.99,
     "low": 157.9859,
     "previousClose": 159.79,
-    "lastUpdated": "2025-04-15T21:36:48.877526"
+    "lastUpdated": "2025-04-15T21:47:35.959360"
   },
   "ADI": {
     "symbol": "ADI",
@@ -1649,7 +1833,7 @@
     "high": 182.47,
     "low": 178.07,
     "previousClose": 178.6,
-    "lastUpdated": "2025-04-15T21:36:48.948543"
+    "lastUpdated": "2025-04-15T21:47:36.144133"
   },
   "PLD": {
     "symbol": "PLD",
@@ -1667,7 +1851,7 @@
     "high": 99.5,
     "low": 98.1,
     "previousClose": 98.3,
-    "lastUpdated": "2025-04-15T21:36:49.067508"
+    "lastUpdated": "2025-04-15T21:47:36.244957"
   },
   "KLAC": {
     "symbol": "KLAC",
@@ -1685,7 +1869,7 @@
     "high": 682.105,
     "low": 665,
     "previousClose": 669.97,
-    "lastUpdated": "2025-04-15T21:36:49.129746"
+    "lastUpdated": "2025-04-15T21:47:36.429865"
   },
   "CVS": {
     "symbol": "CVS",
@@ -1703,7 +1887,7 @@
     "high": 69.71,
     "low": 68.48,
     "previousClose": 69.2,
-    "lastUpdated": "2025-04-15T21:36:49.213951"
+    "lastUpdated": "2025-04-15T21:47:36.542787"
   },
   "WELL": {
     "symbol": "WELL",
@@ -1721,7 +1905,7 @@
     "high": 147.91,
     "low": 144.8,
     "previousClose": 145.59,
-    "lastUpdated": "2025-04-15T21:36:49.288430"
+    "lastUpdated": "2025-04-15T21:47:36.648253"
   },
   "INTC": {
     "symbol": "INTC",
@@ -1739,7 +1923,7 @@
     "high": 20.47,
     "low": 19.81,
     "previousClose": 20.31,
-    "lastUpdated": "2025-04-15T21:36:49.422732"
+    "lastUpdated": "2025-04-15T21:47:36.829356"
   },
   "GEV": {
     "symbol": "GEV",
@@ -1757,7 +1941,7 @@
     "high": 331.13,
     "low": 323.07,
     "previousClose": 322.3,
-    "lastUpdated": "2025-04-15T21:36:49.497361"
+    "lastUpdated": "2025-04-15T21:47:37.004816"
   },
   "MDLZ": {
     "symbol": "MDLZ",
@@ -1775,7 +1959,7 @@
     "high": 68.605,
     "low": 66.875,
     "previousClose": 68.3,
-    "lastUpdated": "2025-04-15T21:36:49.590959"
+    "lastUpdated": "2025-04-15T21:47:37.176627"
   },
   "LRCX": {
     "symbol": "LRCX",
@@ -1793,7 +1977,7 @@
     "high": 69.5425,
     "low": 67.95,
     "previousClose": 67.86,
-    "lastUpdated": "2025-04-15T21:36:49.705163"
+    "lastUpdated": "2025-04-15T21:47:37.417952"
   },
   "MCK": {
     "symbol": "MCK",
@@ -1811,7 +1995,7 @@
     "high": 702.21,
     "low": 687,
     "previousClose": 693.98,
-    "lastUpdated": "2025-04-15T21:36:49.818367"
+    "lastUpdated": "2025-04-15T21:47:37.586158"
   },
   "AJG": {
     "symbol": "AJG",
@@ -1829,7 +2013,7 @@
     "high": 344.6639,
     "low": 334.74,
     "previousClose": 342.92,
-    "lastUpdated": "2025-04-15T21:36:49.883282"
+    "lastUpdated": "2025-04-15T21:47:37.698094"
   },
   "WM": {
     "symbol": "WM",
@@ -1847,7 +2031,7 @@
     "high": 233.89,
     "low": 231.1,
     "previousClose": 232.3,
-    "lastUpdated": "2025-04-15T21:36:49.955288"
+    "lastUpdated": "2025-04-15T21:47:37.803825"
   },
   "AON": {
     "symbol": "AON",
@@ -1865,7 +2049,7 @@
     "high": 386.45,
     "low": 378.86,
     "previousClose": 384.34,
-    "lastUpdated": "2025-04-15T21:36:50.022637"
+    "lastUpdated": "2025-04-15T21:47:37.988916"
   },
   "ORLY": {
     "symbol": "ORLY",
@@ -1883,7 +2067,7 @@
     "high": 1428.71,
     "low": 1392,
     "previousClose": 1414.2,
-    "lastUpdated": "2025-04-15T21:36:50.099824"
+    "lastUpdated": "2025-04-15T21:47:38.163918"
   },
   "MU": {
     "symbol": "MU",
@@ -1901,7 +2085,7 @@
     "high": 72.8,
     "low": 70.55,
     "previousClose": 71.02,
-    "lastUpdated": "2025-04-15T21:36:50.176836"
+    "lastUpdated": "2025-04-15T21:47:38.268277"
   },
   "APH": {
     "symbol": "APH",
@@ -1919,7 +2103,7 @@
     "high": 66.82,
     "low": 65.41,
     "previousClose": 65.46,
-    "lastUpdated": "2025-04-15T21:36:50.252970"
+    "lastUpdated": "2025-04-15T21:47:38.371393"
   },
   "SHW": {
     "symbol": "SHW",
@@ -1937,7 +2121,7 @@
     "high": 341.92,
     "low": 336.32,
     "previousClose": 341.02,
-    "lastUpdated": "2025-04-15T21:36:50.323500"
+    "lastUpdated": "2025-04-15T21:47:38.471963"
   },
   "TT": {
     "symbol": "TT",
@@ -1955,7 +2139,7 @@
     "high": 349.98,
     "low": 342.62,
     "previousClose": 347.49,
-    "lastUpdated": "2025-04-15T21:36:50.389405"
+    "lastUpdated": "2025-04-15T21:47:38.567246"
   },
   "ANET": {
     "symbol": "ANET",
@@ -1973,7 +2157,7 @@
     "high": 74.01,
     "low": 72.41,
     "previousClose": 73.59,
-    "lastUpdated": "2025-04-15T21:36:50.453993"
+    "lastUpdated": "2025-04-15T21:47:38.672911"
   },
   "EQIX": {
     "symbol": "EQIX",
@@ -1991,7 +2175,7 @@
     "high": 796.3,
     "low": 781.305,
     "previousClose": 783.87,
-    "lastUpdated": "2025-04-15T21:37:50.522057"
+    "lastUpdated": "2025-04-15T21:48:38.855831"
   },
   "CL": {
     "symbol": "CL",
@@ -2009,7 +2193,7 @@
     "high": 95.58,
     "low": 94.21,
     "previousClose": 94.98,
-    "lastUpdated": "2025-04-15T21:37:50.603309"
+    "lastUpdated": "2025-04-15T21:48:39.030472"
   },
   "TDG": {
     "symbol": "TDG",
@@ -2027,7 +2211,7 @@
     "high": 1369.4,
     "low": 1323.49,
     "previousClose": 1337.13,
-    "lastUpdated": "2025-04-15T21:37:50.766662"
+    "lastUpdated": "2025-04-15T21:48:39.123346"
   },
   "MMM": {
     "symbol": "MMM",
@@ -2045,7 +2229,7 @@
     "high": 137.4708,
     "low": 135.14,
     "previousClose": 136.01,
-    "lastUpdated": "2025-04-15T21:37:50.871103"
+    "lastUpdated": "2025-04-15T21:48:39.241859"
   },
   "PH": {
     "symbol": "PH",
@@ -2063,7 +2247,7 @@
     "high": 576.0265,
     "low": 566.7,
     "previousClose": 569.61,
-    "lastUpdated": "2025-04-15T21:37:50.991934"
+    "lastUpdated": "2025-04-15T21:48:39.343457"
   },
   "UPS": {
     "symbol": "UPS",
@@ -2081,7 +2265,7 @@
     "high": 98.57,
     "low": 96.22,
     "previousClose": 98.67,
-    "lastUpdated": "2025-04-15T21:37:51.093875"
+    "lastUpdated": "2025-04-15T21:48:39.554071"
   },
   "NOC": {
     "symbol": "NOC",
@@ -2099,7 +2283,7 @@
     "high": 536.5475,
     "low": 528,
     "previousClose": 535.82,
-    "lastUpdated": "2025-04-15T21:37:51.175076"
+    "lastUpdated": "2025-04-15T21:48:39.714508"
   },
   "CDNS": {
     "symbol": "CDNS",
@@ -2117,7 +2301,7 @@
     "high": 266.085,
     "low": 260.8,
     "previousClose": 260.56,
-    "lastUpdated": "2025-04-15T21:37:51.254291"
+    "lastUpdated": "2025-04-15T21:48:39.815519"
   },
   "CTAS": {
     "symbol": "CTAS",
@@ -2135,7 +2319,7 @@
     "high": 211.915,
     "low": 207.67,
     "previousClose": 209.62,
-    "lastUpdated": "2025-04-15T21:37:51.358082"
+    "lastUpdated": "2025-04-15T21:48:39.916635"
   },
   "MSI": {
     "symbol": "MSI",
@@ -2153,7 +2337,7 @@
     "high": 431.7436,
     "low": 427.59,
     "previousClose": 426.45,
-    "lastUpdated": "2025-04-15T21:37:51.429624"
+    "lastUpdated": "2025-04-15T21:48:40.093655"
   },
   "KKR": {
     "symbol": "KKR",
@@ -2171,7 +2355,7 @@
     "high": 105.96,
     "low": 103.64,
     "previousClose": 103.13,
-    "lastUpdated": "2025-04-15T21:37:51.500703"
+    "lastUpdated": "2025-04-15T21:48:40.200395"
   },
   "GD": {
     "symbol": "GD",
@@ -2189,7 +2373,7 @@
     "high": 280.93,
     "low": 276.32,
     "previousClose": 278.78,
-    "lastUpdated": "2025-04-15T21:37:51.576825"
+    "lastUpdated": "2025-04-15T21:48:40.302790"
   },
   "CMG": {
     "symbol": "CMG",
@@ -2207,7 +2391,7 @@
     "high": 49.93,
     "low": 48.73,
     "previousClose": 49.46,
-    "lastUpdated": "2025-04-15T21:37:51.664748"
+    "lastUpdated": "2025-04-15T21:48:40.471569"
   },
   "WMB": {
     "symbol": "WMB",
@@ -2225,7 +2409,7 @@
     "high": 59.06,
     "low": 57.49,
     "previousClose": 57.36,
-    "lastUpdated": "2025-04-15T21:37:51.730303"
+    "lastUpdated": "2025-04-15T21:48:40.649545"
   },
   "ZTS": {
     "symbol": "ZTS",
@@ -2243,7 +2427,7 @@
     "high": 151.46,
     "low": 148.26,
     "previousClose": 150.83,
-    "lastUpdated": "2025-04-15T21:37:51.791893"
+    "lastUpdated": "2025-04-15T21:48:40.760833"
   },
   "MCO": {
     "symbol": "MCO",
@@ -2261,7 +2445,7 @@
     "high": 441.2799,
     "low": 434.05,
     "previousClose": 437.67,
-    "lastUpdated": "2025-04-15T21:37:51.868701"
+    "lastUpdated": "2025-04-15T21:48:40.881329"
   },
   "NKE": {
     "symbol": "NKE",
@@ -2279,7 +2463,7 @@
     "high": 55.3934,
     "low": 54.1666,
     "previousClose": 55.41,
-    "lastUpdated": "2025-04-15T21:37:51.941840"
+    "lastUpdated": "2025-04-15T21:48:40.992539"
   },
   "CEG": {
     "symbol": "CEG",
@@ -2297,7 +2481,7 @@
     "high": 212,
     "low": 206.35,
     "previousClose": 206.7,
-    "lastUpdated": "2025-04-15T21:37:52.020434"
+    "lastUpdated": "2025-04-15T21:48:41.153796"
   },
   "SNPS": {
     "symbol": "SNPS",
@@ -2315,7 +2499,7 @@
     "high": 430.32,
     "low": 422.2283,
     "previousClose": 421.98,
-    "lastUpdated": "2025-04-15T21:37:52.096367"
+    "lastUpdated": "2025-04-15T21:48:41.287233"
   },
   "COF": {
     "symbol": "COF",
@@ -2333,7 +2517,7 @@
     "high": 166.93,
     "low": 163.2252,
     "previousClose": 162.52,
-    "lastUpdated": "2025-04-15T21:37:52.199447"
+    "lastUpdated": "2025-04-15T21:48:41.499143"
   },
   "FTNT": {
     "symbol": "FTNT",
@@ -2351,7 +2535,7 @@
     "high": 99.24,
     "low": 97.195,
     "previousClose": 96.85,
-    "lastUpdated": "2025-04-15T21:37:52.313787"
+    "lastUpdated": "2025-04-15T21:48:41.599658"
   },
   "AZO": {
     "symbol": "AZO",
@@ -2369,7 +2553,7 @@
     "high": 3699.75,
     "low": 3631.17,
     "previousClose": 3680.78,
-    "lastUpdated": "2025-04-15T21:37:52.412541"
+    "lastUpdated": "2025-04-15T21:48:41.765588"
   },
   "ITW": {
     "symbol": "ITW",
@@ -2387,7 +2571,7 @@
     "high": 234.905,
     "low": 231.265,
     "previousClose": 233.55,
-    "lastUpdated": "2025-04-15T21:37:52.504719"
+    "lastUpdated": "2025-04-15T21:48:41.878573"
   },
   "DASH": {
     "symbol": "DASH",
@@ -2405,7 +2589,7 @@
     "high": 185.69,
     "low": 180.5101,
     "previousClose": 181.85,
-    "lastUpdated": "2025-04-15T21:37:52.561517"
+    "lastUpdated": "2025-04-15T21:48:42.015111"
   },
   "PNC": {
     "symbol": "PNC",
@@ -2423,7 +2607,7 @@
     "high": 159.58,
     "low": 152.51,
     "previousClose": 155.32,
-    "lastUpdated": "2025-04-15T21:37:52.635047"
+    "lastUpdated": "2025-04-15T21:48:42.120780"
   },
   "PYPL": {
     "symbol": "PYPL",
@@ -2441,7 +2625,7 @@
     "high": 62.79,
     "low": 61.645,
     "previousClose": 62.27,
-    "lastUpdated": "2025-04-15T21:37:52.728495"
+    "lastUpdated": "2025-04-15T21:48:42.236328"
   },
   "HCA": {
     "symbol": "HCA",
@@ -2459,7 +2643,7 @@
     "high": 341.39,
     "low": 335.255,
     "previousClose": 340.62,
-    "lastUpdated": "2025-04-15T21:37:52.858499"
+    "lastUpdated": "2025-04-15T21:48:42.343169"
   },
   "ROP": {
     "symbol": "ROP",
@@ -2477,7 +2661,7 @@
     "high": 571.68,
     "low": 563.34,
     "previousClose": 565.88,
-    "lastUpdated": "2025-04-15T21:37:52.938819"
+    "lastUpdated": "2025-04-15T21:48:42.486646"
   },
   "EOG": {
     "symbol": "EOG",
@@ -2495,7 +2679,7 @@
     "high": 109.1,
     "low": 107.168,
     "previousClose": 107.64,
-    "lastUpdated": "2025-04-15T21:37:53.032515"
+    "lastUpdated": "2025-04-15T21:48:42.675987"
   },
   "ECL": {
     "symbol": "ECL",
@@ -2513,7 +2697,7 @@
     "high": 240.27,
     "low": 237,
     "previousClose": 238.62,
-    "lastUpdated": "2025-04-15T21:37:53.108797"
+    "lastUpdated": "2025-04-15T21:48:42.787895"
   },
   "APD": {
     "symbol": "APD",
@@ -2531,7 +2715,7 @@
     "high": 271,
     "low": 265.24,
     "previousClose": 272.58,
-    "lastUpdated": "2025-04-15T21:37:53.198311"
+    "lastUpdated": "2025-04-15T21:48:42.967246"
   },
   "USB": {
     "symbol": "USB",
@@ -2549,7 +2733,7 @@
     "high": 39.38,
     "low": 38.24,
     "previousClose": 38.2,
-    "lastUpdated": "2025-04-15T21:37:53.269386"
+    "lastUpdated": "2025-04-15T21:48:43.134669"
   },
   "NEM": {
     "symbol": "NEM",
@@ -2567,7 +2751,7 @@
     "high": 55.16,
     "low": 54.14,
     "previousClose": 54.79,
-    "lastUpdated": "2025-04-15T21:37:53.319498"
+    "lastUpdated": "2025-04-15T21:48:43.241942"
   },
   "REGN": {
     "symbol": "REGN",
@@ -2585,7 +2769,7 @@
     "high": 575.2,
     "low": 553,
     "previousClose": 571.06,
-    "lastUpdated": "2025-04-15T21:37:53.386903"
+    "lastUpdated": "2025-04-15T21:48:43.409745"
   },
   "BDX": {
     "symbol": "BDX",
@@ -2603,7 +2787,7 @@
     "high": 206.78,
     "low": 201.465,
     "previousClose": 205.71,
-    "lastUpdated": "2025-04-15T21:37:53.447533"
+    "lastUpdated": "2025-04-15T21:48:43.588681"
   },
   "EMR": {
     "symbol": "EMR",
@@ -2621,7 +2805,7 @@
     "high": 101.6429,
     "low": 99.88,
     "previousClose": 101.04,
-    "lastUpdated": "2025-04-15T21:37:53.506243"
+    "lastUpdated": "2025-04-15T21:48:43.715420"
   },
   "TRV": {
     "symbol": "TRV",
@@ -2639,7 +2823,7 @@
     "high": 252.3073,
     "low": 249.07,
     "previousClose": 250.84,
-    "lastUpdated": "2025-04-15T21:37:53.573590"
+    "lastUpdated": "2025-04-15T21:48:43.922367"
   },
   "APO": {
     "symbol": "APO",
@@ -2657,7 +2841,7 @@
     "high": 129.7908,
     "low": 125.62,
     "previousClose": 125.52,
-    "lastUpdated": "2025-04-15T21:37:53.657518"
+    "lastUpdated": "2025-04-15T21:48:44.077596"
   },
   "ADSK": {
     "symbol": "ADSK",
@@ -2675,7 +2859,7 @@
     "high": 266.55,
     "low": 262,
     "previousClose": 260.71,
-    "lastUpdated": "2025-04-15T21:37:53.718578"
+    "lastUpdated": "2025-04-15T21:48:44.289381"
   },
   "AEP": {
     "symbol": "AEP",
@@ -2693,7 +2877,7 @@
     "high": 107.505,
     "low": 106.21,
     "previousClose": 106.58,
-    "lastUpdated": "2025-04-15T21:37:53.770759"
+    "lastUpdated": "2025-04-15T21:48:44.391052"
   },
   "BK": {
     "symbol": "BK",
@@ -2711,7 +2895,7 @@
     "high": 79.06,
     "low": 77.44,
     "previousClose": 77.52,
-    "lastUpdated": "2025-04-15T21:37:53.848722"
+    "lastUpdated": "2025-04-15T21:48:44.519611"
   },
   "CSX": {
     "symbol": "CSX",
@@ -2729,7 +2913,7 @@
     "high": 28.445,
     "low": 27.835,
     "previousClose": 28.27,
-    "lastUpdated": "2025-04-15T21:37:53.909096"
+    "lastUpdated": "2025-04-15T21:48:44.815340"
   },
   "AFL": {
     "symbol": "AFL",
@@ -2747,7 +2931,7 @@
     "high": 109.5,
     "low": 107.81,
     "previousClose": 108.51,
-    "lastUpdated": "2025-04-15T21:37:53.980001"
+    "lastUpdated": "2025-04-15T21:48:45.022135"
   },
   "CPRT": {
     "symbol": "CPRT",
@@ -2765,7 +2949,7 @@
     "high": 60.72,
     "low": 59.86,
     "previousClose": 59.83,
-    "lastUpdated": "2025-04-15T21:37:54.060776"
+    "lastUpdated": "2025-04-15T21:48:45.153507"
   },
   "MAR": {
     "symbol": "MAR",
@@ -2783,7 +2967,7 @@
     "high": 225.4875,
     "low": 221.43,
     "previousClose": 223.49,
-    "lastUpdated": "2025-04-15T21:37:54.121248"
+    "lastUpdated": "2025-04-15T21:48:45.270848"
   },
   "ALL": {
     "symbol": "ALL",
@@ -2801,7 +2985,7 @@
     "high": 197.92,
     "low": 194.34,
     "previousClose": 195.5,
-    "lastUpdated": "2025-04-15T21:37:54.192595"
+    "lastUpdated": "2025-04-15T21:48:45.483150"
   },
   "HLT": {
     "symbol": "HLT",
@@ -2819,7 +3003,7 @@
     "high": 213.05,
     "low": 210.37,
     "previousClose": 210.13,
-    "lastUpdated": "2025-04-15T21:37:54.280310"
+    "lastUpdated": "2025-04-15T21:48:45.656561"
   },
   "OKE": {
     "symbol": "OKE",
@@ -2837,7 +3021,7 @@
     "high": 86.066,
     "low": 83.47,
     "previousClose": 83.38,
-    "lastUpdated": "2025-04-15T21:37:54.342019"
+    "lastUpdated": "2025-04-15T21:48:45.847489"
   },
   "JCI": {
     "symbol": "JCI",
@@ -2855,7 +3039,7 @@
     "high": 79.84,
     "low": 78.38,
     "previousClose": 78.5,
-    "lastUpdated": "2025-04-15T21:37:54.464399"
+    "lastUpdated": "2025-04-15T21:48:46.081149"
   },
   "HWM": {
     "symbol": "HWM",
@@ -2873,7 +3057,7 @@
     "high": 126.57,
     "low": 123.05,
     "previousClose": 127.46,
-    "lastUpdated": "2025-04-15T21:37:54.559046"
+    "lastUpdated": "2025-04-15T21:48:46.271221"
   },
   "KMI": {
     "symbol": "KMI",
@@ -2891,7 +3075,7 @@
     "high": 27.61,
     "low": 26.875,
     "previousClose": 26.8,
-    "lastUpdated": "2025-04-15T21:37:54.644242"
+    "lastUpdated": "2025-04-15T21:48:46.481614"
   },
   "ABNB": {
     "symbol": "ABNB",
@@ -2909,7 +3093,7 @@
     "high": 115.71,
     "low": 113.52,
     "previousClose": 113.22,
-    "lastUpdated": "2025-04-15T21:37:54.764228"
+    "lastUpdated": "2025-04-15T21:48:46.687845"
   },
   "NSC": {
     "symbol": "NSC",
@@ -2927,7 +3111,7 @@
     "high": 223.795,
     "low": 217.31,
     "previousClose": 221.4,
-    "lastUpdated": "2025-04-15T21:37:54.886808"
+    "lastUpdated": "2025-04-15T21:48:46.941408"
   },
   "RSG": {
     "symbol": "RSG",
@@ -2945,7 +3129,7 @@
     "high": 247.24,
     "low": 243.58,
     "previousClose": 245.56,
-    "lastUpdated": "2025-04-15T21:37:54.989972"
+    "lastUpdated": "2025-04-15T21:48:47.082874"
   },
   "AIG": {
     "symbol": "AIG",
@@ -2963,7 +3147,7 @@
     "high": 82.76,
     "low": 81.54,
     "previousClose": 81.5,
-    "lastUpdated": "2025-04-15T21:37:55.072977"
+    "lastUpdated": "2025-04-15T21:48:47.206319"
   },
   "COR": {
     "symbol": "COR",
@@ -2981,7 +3165,7 @@
     "high": 286.34,
     "low": 282.21,
     "previousClose": 284.29,
-    "lastUpdated": "2025-04-15T21:37:55.151640"
+    "lastUpdated": "2025-04-15T21:48:47.455369"
   },
   "WDAY": {
     "symbol": "WDAY",
@@ -2999,7 +3183,7 @@
     "high": 235.96,
     "low": 228.1308,
     "previousClose": 232.34,
-    "lastUpdated": "2025-04-15T21:37:55.240671"
+    "lastUpdated": "2025-04-15T21:48:47.625629"
   },
   "CARR": {
     "symbol": "CARR",
@@ -3017,7 +3201,7 @@
     "high": 61.27,
     "low": 60.07,
     "previousClose": 60.59,
-    "lastUpdated": "2025-04-15T21:37:55.309502"
+    "lastUpdated": "2025-04-15T21:48:47.727234"
   },
   "RCL": {
     "symbol": "RCL",
@@ -3035,7 +3219,7 @@
     "high": 195.8164,
     "low": 192.02,
     "previousClose": 191.82,
-    "lastUpdated": "2025-04-15T21:37:55.414376"
+    "lastUpdated": "2025-04-15T21:48:47.835113"
   },
   "O": {
     "symbol": "O",
@@ -3053,7 +3237,7 @@
     "high": 57.135,
     "low": 56.14,
     "previousClose": 56.27,
-    "lastUpdated": "2025-04-15T21:37:55.477053"
+    "lastUpdated": "2025-04-15T21:48:47.933532"
   },
   "TFC": {
     "symbol": "TFC",
@@ -3071,7 +3255,7 @@
     "high": 37.07,
     "low": 36.29,
     "previousClose": 36.18,
-    "lastUpdated": "2025-04-15T21:38:55.546694"
+    "lastUpdated": "2025-04-15T21:49:48.151842"
   },
   "PCAR": {
     "symbol": "PCAR",
@@ -3089,7 +3273,7 @@
     "high": 90.39,
     "low": 88.35,
     "previousClose": 89.55,
-    "lastUpdated": "2025-04-15T21:38:55.637089"
+    "lastUpdated": "2025-04-15T21:49:48.331014"
   },
   "PAYX": {
     "symbol": "PAYX",
@@ -3107,7 +3291,7 @@
     "high": 149.84,
     "low": 147.44,
     "previousClose": 149.07,
-    "lastUpdated": "2025-04-15T21:38:55.701632"
+    "lastUpdated": "2025-04-15T21:49:48.519290"
   },
   "ROST": {
     "symbol": "ROST",
@@ -3125,7 +3309,7 @@
     "high": 144.14,
     "low": 140.67,
     "previousClose": 143.66,
-    "lastUpdated": "2025-04-15T21:38:55.761105"
+    "lastUpdated": "2025-04-15T21:49:48.648609"
   },
   "FDX": {
     "symbol": "FDX",
@@ -3143,7 +3327,7 @@
     "high": 210.7474,
     "low": 206.325,
     "previousClose": 210.45,
-    "lastUpdated": "2025-04-15T21:38:55.811846"
+    "lastUpdated": "2025-04-15T21:49:48.757464"
   },
   "KMB": {
     "symbol": "KMB",
@@ -3161,7 +3345,7 @@
     "high": 143.06,
     "low": 141.37,
     "previousClose": 142.56,
-    "lastUpdated": "2025-04-15T21:38:55.874126"
+    "lastUpdated": "2025-04-15T21:49:48.850673"
   },
   "SLB": {
     "symbol": "SLB",
@@ -3179,7 +3363,7 @@
     "high": 34.37,
     "low": 33.61,
     "previousClose": 33.92,
-    "lastUpdated": "2025-04-15T21:38:55.951388"
+    "lastUpdated": "2025-04-15T21:49:49.020408"
   },
   "EXC": {
     "symbol": "EXC",
@@ -3197,7 +3381,7 @@
     "high": 47.09,
     "low": 46.43,
     "previousClose": 46.86,
-    "lastUpdated": "2025-04-15T21:38:56.009740"
+    "lastUpdated": "2025-04-15T21:49:49.128160"
   },
   "SPG": {
     "symbol": "SPG",
@@ -3215,7 +3399,7 @@
     "high": 151.74,
     "low": 148.8501,
     "previousClose": 149.87,
-    "lastUpdated": "2025-04-15T21:38:56.072901"
+    "lastUpdated": "2025-04-15T21:49:49.323536"
   },
   "KR": {
     "symbol": "KR",
@@ -3233,7 +3417,7 @@
     "high": 69.335,
     "low": 68,
     "previousClose": 69.08,
-    "lastUpdated": "2025-04-15T21:38:56.148672"
+    "lastUpdated": "2025-04-15T21:49:49.522565"
   },
   "FICO": {
     "symbol": "FICO",
@@ -3251,7 +3435,7 @@
     "high": 1957.17,
     "low": 1911.78,
     "previousClose": 1932.74,
-    "lastUpdated": "2025-04-15T21:38:56.217690"
+    "lastUpdated": "2025-04-15T21:49:49.843911"
   },
   "FCX": {
     "symbol": "FCX",
@@ -3269,7 +3453,7 @@
     "high": 33.805,
     "low": 32.965,
     "previousClose": 33.75,
-    "lastUpdated": "2025-04-15T21:38:56.279225"
+    "lastUpdated": "2025-04-15T21:49:49.977300"
   },
   "DLR": {
     "symbol": "DLR",
@@ -3287,7 +3471,7 @@
     "high": 148.18,
     "low": 145.37,
     "previousClose": 146.31,
-    "lastUpdated": "2025-04-15T21:38:56.340778"
+    "lastUpdated": "2025-04-15T21:49:50.195520"
   },
   "AMP": {
     "symbol": "AMP",
@@ -3305,7 +3489,7 @@
     "high": 482.325,
     "low": 475,
     "previousClose": 474.45,
-    "lastUpdated": "2025-04-15T21:38:56.398691"
+    "lastUpdated": "2025-04-15T21:49:50.381586"
   },
   "PSA": {
     "symbol": "PSA",
@@ -3323,7 +3507,7 @@
     "high": 292.205,
     "low": 287.1,
     "previousClose": 288.73,
-    "lastUpdated": "2025-04-15T21:38:56.476475"
+    "lastUpdated": "2025-04-15T21:49:50.505049"
   },
   "D": {
     "symbol": "D",
@@ -3341,7 +3525,7 @@
     "high": 54.5,
     "low": 53.625,
     "previousClose": 54.1,
-    "lastUpdated": "2025-04-15T21:38:56.526492"
+    "lastUpdated": "2025-04-15T21:49:50.675753"
   },
   "GM": {
     "symbol": "GM",
@@ -3359,7 +3543,7 @@
     "high": 44.87,
     "low": 44.13,
     "previousClose": 45.14,
-    "lastUpdated": "2025-04-15T21:38:56.594924"
+    "lastUpdated": "2025-04-15T21:49:50.858163"
   },
   "FAST": {
     "symbol": "FAST",
@@ -3377,7 +3561,7 @@
     "high": 82.42,
     "low": 81.1,
     "previousClose": 81.3,
-    "lastUpdated": "2025-04-15T21:38:56.669661"
+    "lastUpdated": "2025-04-15T21:49:50.968131"
   },
   "GWW": {
     "symbol": "GWW",
@@ -3395,7 +3579,7 @@
     "high": 1004.03,
     "low": 992.79,
     "previousClose": 1000.2,
-    "lastUpdated": "2025-04-15T21:38:56.754223"
+    "lastUpdated": "2025-04-15T21:49:51.131498"
   },
   "TGT": {
     "symbol": "TGT",
@@ -3413,7 +3597,7 @@
     "high": 94.98,
     "low": 91.96,
     "previousClose": 94.65,
-    "lastUpdated": "2025-04-15T21:38:56.821508"
+    "lastUpdated": "2025-04-15T21:49:51.322952"
   },
   "SRE": {
     "symbol": "SRE",
@@ -3431,7 +3615,7 @@
     "high": 70.53,
     "low": 69.66,
     "previousClose": 69.73,
-    "lastUpdated": "2025-04-15T21:38:56.891063"
+    "lastUpdated": "2025-04-15T21:49:51.441766"
   },
   "NXPI": {
     "symbol": "NXPI",
@@ -3449,7 +3633,7 @@
     "high": 174.51,
     "low": 169.46,
     "previousClose": 170.545,
-    "lastUpdated": "2025-04-15T21:38:56.964107"
+    "lastUpdated": "2025-04-15T21:49:51.551779"
   },
   "KVUE": {
     "symbol": "KVUE",
@@ -3467,7 +3651,7 @@
     "high": 23.12,
     "low": 22.56,
     "previousClose": 22.71,
-    "lastUpdated": "2025-04-15T21:38:57.021182"
+    "lastUpdated": "2025-04-15T21:49:51.665774"
   },
   "KDP": {
     "symbol": "KDP",
@@ -3485,7 +3669,7 @@
     "high": 35.895,
     "low": 35.345,
     "previousClose": 35.71,
-    "lastUpdated": "2025-04-15T21:38:57.075066"
+    "lastUpdated": "2025-04-15T21:49:51.772686"
   },
   "CCI": {
     "symbol": "CCI",
@@ -3503,7 +3687,7 @@
     "high": 101.56,
     "low": 99.28,
     "previousClose": 99.84,
-    "lastUpdated": "2025-04-15T21:38:57.135803"
+    "lastUpdated": "2025-04-15T21:49:51.884270"
   },
   "MET": {
     "symbol": "MET",
@@ -3521,7 +3705,7 @@
     "high": 73.95,
     "low": 72.56,
     "previousClose": 72.95,
-    "lastUpdated": "2025-04-15T21:38:57.199205"
+    "lastUpdated": "2025-04-15T21:49:51.994263"
   },
   "MSCI": {
     "symbol": "MSCI",
@@ -3539,7 +3723,7 @@
     "high": 562.02,
     "low": 552.31,
     "previousClose": 551.25,
-    "lastUpdated": "2025-04-15T21:38:57.274265"
+    "lastUpdated": "2025-04-15T21:49:52.098619"
   },
   "YUM": {
     "symbol": "YUM",
@@ -3557,7 +3741,7 @@
     "high": 147.09,
     "low": 144.29,
     "previousClose": 146,
-    "lastUpdated": "2025-04-15T21:38:57.359090"
+    "lastUpdated": "2025-04-15T21:49:52.281929"
   },
   "PEG": {
     "symbol": "PEG",
@@ -3575,7 +3759,7 @@
     "high": 84.5,
     "low": 83.39,
     "previousClose": 83.67,
-    "lastUpdated": "2025-04-15T21:38:57.443860"
+    "lastUpdated": "2025-04-15T21:49:52.408594"
   },
   "MNST": {
     "symbol": "MNST",
@@ -3593,7 +3777,7 @@
     "high": 58.91,
     "low": 58.2,
     "previousClose": 58.58,
-    "lastUpdated": "2025-04-15T21:38:57.569906"
+    "lastUpdated": "2025-04-15T21:49:52.525687"
   },
   "VRSK": {
     "symbol": "VRSK",
@@ -3611,7 +3795,7 @@
     "high": 297.61,
     "low": 294.46,
     "previousClose": 295.1,
-    "lastUpdated": "2025-04-15T21:38:57.639438"
+    "lastUpdated": "2025-04-15T21:49:52.760926"
   },
   "EW": {
     "symbol": "EW",
@@ -3629,7 +3813,7 @@
     "high": 70.99,
     "low": 69.95,
     "previousClose": 69.87,
-    "lastUpdated": "2025-04-15T21:38:57.729098"
+    "lastUpdated": "2025-04-15T21:49:52.862105"
   },
   "LHX": {
     "symbol": "LHX",
@@ -3647,7 +3831,7 @@
     "high": 224.19,
     "low": 220.63,
     "previousClose": 222.69,
-    "lastUpdated": "2025-04-15T21:38:57.817126"
+    "lastUpdated": "2025-04-15T21:49:52.963202"
   },
   "PSX": {
     "symbol": "PSX",
@@ -3665,7 +3849,7 @@
     "high": 99.161,
     "low": 96.12,
     "previousClose": 97.82,
-    "lastUpdated": "2025-04-15T21:38:57.874652"
+    "lastUpdated": "2025-04-15T21:49:53.065636"
   },
   "AXON": {
     "symbol": "AXON",
@@ -3683,7 +3867,7 @@
     "high": 584.17,
     "low": 572.82,
     "previousClose": 574.83,
-    "lastUpdated": "2025-04-15T21:38:57.949264"
+    "lastUpdated": "2025-04-15T21:49:53.174518"
   },
   "DFS": {
     "symbol": "DFS",
@@ -3701,7 +3885,7 @@
     "high": 163.1,
     "low": 159.86,
     "previousClose": 159.07,
-    "lastUpdated": "2025-04-15T21:38:58.004199"
+    "lastUpdated": "2025-04-15T21:49:53.293573"
   },
   "CTVA": {
     "symbol": "CTVA",
@@ -3719,7 +3903,7 @@
     "high": 60.6296,
     "low": 59.65,
     "previousClose": 60.29,
-    "lastUpdated": "2025-04-15T21:38:58.075267"
+    "lastUpdated": "2025-04-15T21:49:53.457639"
   },
   "XEL": {
     "symbol": "XEL",
@@ -3737,7 +3921,7 @@
     "high": 71.4788,
     "low": 70.21,
     "previousClose": 70.73,
-    "lastUpdated": "2025-04-15T21:38:58.129873"
+    "lastUpdated": "2025-04-15T21:49:53.636077"
   },
   "PWR": {
     "symbol": "PWR",
@@ -3755,7 +3939,7 @@
     "high": 276.925,
     "low": 271,
     "previousClose": 274.3,
-    "lastUpdated": "2025-04-15T21:38:58.193444"
+    "lastUpdated": "2025-04-15T21:49:53.796715"
   },
   "CMI": {
     "symbol": "CMI",
@@ -3773,7 +3957,7 @@
     "high": 292.17,
     "low": 285.73,
     "previousClose": 288.57,
-    "lastUpdated": "2025-04-15T21:38:58.271246"
+    "lastUpdated": "2025-04-15T21:49:53.916151"
   },
   "MPC": {
     "symbol": "MPC",
@@ -3791,7 +3975,7 @@
     "high": 125.79,
     "low": 121.69,
     "previousClose": 124.85,
-    "lastUpdated": "2025-04-15T21:38:58.354509"
+    "lastUpdated": "2025-04-15T21:49:54.025673"
   },
   "TEL": {
     "symbol": "TEL",
@@ -3809,7 +3993,7 @@
     "high": 131.39,
     "low": 128.78,
     "previousClose": 129.95,
-    "lastUpdated": "2025-04-15T21:38:58.415498"
+    "lastUpdated": "2025-04-15T21:49:54.237575"
   },
   "URI": {
     "symbol": "URI",
@@ -3827,7 +4011,7 @@
     "high": 607.71,
     "low": 595,
     "previousClose": 596.83,
-    "lastUpdated": "2025-04-15T21:38:58.478010"
+    "lastUpdated": "2025-04-15T21:49:54.435114"
   },
   "ED": {
     "symbol": "ED",
@@ -3845,7 +4029,7 @@
     "high": 112.88,
     "low": 111.58,
     "previousClose": 112.25,
-    "lastUpdated": "2025-04-15T21:38:58.568924"
+    "lastUpdated": "2025-04-15T21:49:54.615836"
   },
   "OTIS": {
     "symbol": "OTIS",
@@ -3863,7 +4047,7 @@
     "high": 99.72,
     "low": 98.475,
     "previousClose": 98.52,
-    "lastUpdated": "2025-04-15T21:38:58.630900"
+    "lastUpdated": "2025-04-15T21:49:54.793271"
   },
   "VST": {
     "symbol": "VST",
@@ -3881,7 +4065,7 @@
     "high": 116.35,
     "low": 112.375,
     "previousClose": 112.69,
-    "lastUpdated": "2025-04-15T21:38:58.688824"
+    "lastUpdated": "2025-04-15T21:49:54.892344"
   },
   "FIS": {
     "symbol": "FIS",
@@ -3899,7 +4083,7 @@
     "high": 72.255,
     "low": 69.96,
     "previousClose": 71.36,
-    "lastUpdated": "2025-04-15T21:38:58.766266"
+    "lastUpdated": "2025-04-15T21:49:55.003154"
   },
   "AME": {
     "symbol": "AME",
@@ -3917,7 +4101,7 @@
     "high": 162.77,
     "low": 159.85,
     "previousClose": 161.36,
-    "lastUpdated": "2025-04-15T21:38:58.824224"
+    "lastUpdated": "2025-04-15T21:49:55.116754"
   },
   "BKR": {
     "symbol": "BKR",
@@ -3935,7 +4119,7 @@
     "high": 38.5123,
     "low": 37.73,
     "previousClose": 37.81,
-    "lastUpdated": "2025-04-15T21:38:58.897848"
+    "lastUpdated": "2025-04-15T21:49:55.226008"
   },
   "PCG": {
     "symbol": "PCG",
@@ -3953,7 +4137,7 @@
     "high": 17.27,
     "low": 17.07,
     "previousClose": 17.06,
-    "lastUpdated": "2025-04-15T21:38:58.954646"
+    "lastUpdated": "2025-04-15T21:49:55.469332"
   },
   "F": {
     "symbol": "F",
@@ -3971,7 +4155,7 @@
     "high": 9.63,
     "low": 9.38,
     "previousClose": 9.71,
-    "lastUpdated": "2025-04-15T21:38:59.050790"
+    "lastUpdated": "2025-04-15T21:49:55.666234"
   },
   "TRGP": {
     "symbol": "TRGP",
@@ -3989,7 +4173,7 @@
     "high": 171.2294,
     "low": 163.79,
     "previousClose": 164.73,
-    "lastUpdated": "2025-04-15T21:38:59.145015"
+    "lastUpdated": "2025-04-15T21:49:55.766778"
   },
   "HES": {
     "symbol": "HES",
@@ -4007,7 +4191,7 @@
     "high": 128.78,
     "low": 126.9,
     "previousClose": 127.91,
-    "lastUpdated": "2025-04-15T21:38:59.204667"
+    "lastUpdated": "2025-04-15T21:49:55.937495"
   },
   "HUM": {
     "symbol": "HUM",
@@ -4025,7 +4209,7 @@
     "high": 288.66,
     "low": 280.31,
     "previousClose": 284.82,
-    "lastUpdated": "2025-04-15T21:38:59.265081"
+    "lastUpdated": "2025-04-15T21:49:56.066974"
   },
   "PRU": {
     "symbol": "PRU",
@@ -4043,7 +4227,7 @@
     "high": 102.27,
     "low": 100.07,
     "previousClose": 101.43,
-    "lastUpdated": "2025-04-15T21:38:59.327277"
+    "lastUpdated": "2025-04-15T21:49:56.233094"
   },
   "VLO": {
     "symbol": "VLO",
@@ -4061,7 +4245,7 @@
     "high": 110.77,
     "low": 107.39,
     "previousClose": 110.33,
-    "lastUpdated": "2025-04-15T21:38:59.403046"
+    "lastUpdated": "2025-04-15T21:49:56.400832"
   },
   "CBRE": {
     "symbol": "CBRE",
@@ -4079,7 +4263,7 @@
     "high": 120.6411,
     "low": 118.43,
     "previousClose": 119.01,
-    "lastUpdated": "2025-04-15T21:38:59.465450"
+    "lastUpdated": "2025-04-15T21:49:56.494500"
   },
   "ETR": {
     "symbol": "ETR",
@@ -4097,7 +4281,7 @@
     "high": 84.46,
     "low": 82.845,
     "previousClose": 82.58,
-    "lastUpdated": "2025-04-15T21:38:59.540106"
+    "lastUpdated": "2025-04-15T21:49:56.607528"
   },
   "CTSH": {
     "symbol": "CTSH",
@@ -4115,7 +4299,7 @@
     "high": 71.57,
     "low": 70.76,
     "previousClose": 70.81,
-    "lastUpdated": "2025-04-15T21:38:59.591991"
+    "lastUpdated": "2025-04-15T21:49:56.842283"
   },
   "SYY": {
     "symbol": "SYY",
@@ -4133,7 +4317,7 @@
     "high": 72.2958,
     "low": 71.205,
     "previousClose": 71.84,
-    "lastUpdated": "2025-04-15T21:38:59.663471"
+    "lastUpdated": "2025-04-15T21:49:57.013864"
   },
   "ACGL": {
     "symbol": "ACGL",
@@ -4151,7 +4335,7 @@
     "high": 93.65,
     "low": 92.35,
     "previousClose": 92.87,
-    "lastUpdated": "2025-04-15T21:39:59.744552"
+    "lastUpdated": "2025-04-15T21:50:57.184770"
   },
   "DHI": {
     "symbol": "DHI",
@@ -4169,7 +4353,7 @@
     "high": 122.37,
     "low": 118.86,
     "previousClose": 121.02,
-    "lastUpdated": "2025-04-15T21:39:59.828918"
+    "lastUpdated": "2025-04-15T21:50:57.481823"
   },
   "TTWO": {
     "symbol": "TTWO",
@@ -4187,7 +4371,7 @@
     "high": 215.3488,
     "low": 211.95,
     "previousClose": 212.95,
-    "lastUpdated": "2025-04-15T21:39:59.931199"
+    "lastUpdated": "2025-04-15T21:50:57.626654"
   },
   "WEC": {
     "symbol": "WEC",
@@ -4205,7 +4389,7 @@
     "high": 109,
     "low": 108.08,
     "previousClose": 108.48,
-    "lastUpdated": "2025-04-15T21:39:59.995559"
+    "lastUpdated": "2025-04-15T21:50:57.833954"
   },
   "EA": {
     "symbol": "EA",
@@ -4223,7 +4407,7 @@
     "high": 146.29,
     "low": 144.49,
     "previousClose": 145.5,
-    "lastUpdated": "2025-04-15T21:40:00.128043"
+    "lastUpdated": "2025-04-15T21:50:57.989561"
   },
   "HIG": {
     "symbol": "HIG",
@@ -4241,7 +4425,7 @@
     "high": 118.705,
     "low": 117.06,
     "previousClose": 117.67,
-    "lastUpdated": "2025-04-15T21:40:00.231945"
+    "lastUpdated": "2025-04-15T21:50:58.206125"
   },
   "CHTR": {
     "symbol": "CHTR",
@@ -4259,7 +4443,7 @@
     "high": 350.0485,
     "low": 339.68,
     "previousClose": 340.4,
-    "lastUpdated": "2025-04-15T21:40:00.385220"
+    "lastUpdated": "2025-04-15T21:50:58.383726"
   },
   "GLW": {
     "symbol": "GLW",
@@ -4277,7 +4461,7 @@
     "high": 42.36,
     "low": 41.59,
     "previousClose": 41.61,
-    "lastUpdated": "2025-04-15T21:40:00.450563"
+    "lastUpdated": "2025-04-15T21:50:58.557081"
   },
   "CSGP": {
     "symbol": "CSGP",
@@ -4295,7 +4479,7 @@
     "high": 81.07,
     "low": 79.67,
     "previousClose": 79.53,
-    "lastUpdated": "2025-04-15T21:40:00.518277"
+    "lastUpdated": "2025-04-15T21:50:58.842729"
   },
   "VICI": {
     "symbol": "VICI",
@@ -4313,7 +4497,7 @@
     "high": 32.15,
     "low": 31.46,
     "previousClose": 31.59,
-    "lastUpdated": "2025-04-15T21:40:00.636899"
+    "lastUpdated": "2025-04-15T21:50:58.969054"
   },
   "WTW": {
     "symbol": "WTW",
@@ -4331,7 +4515,7 @@
     "high": 329.66,
     "low": 326.24,
     "previousClose": 328.02,
-    "lastUpdated": "2025-04-15T21:40:00.725127"
+    "lastUpdated": "2025-04-15T21:50:59.084241"
   },
   "GIS": {
     "symbol": "GIS",
@@ -4349,7 +4533,7 @@
     "high": 59.06,
     "low": 57.59,
     "previousClose": 59,
-    "lastUpdated": "2025-04-15T21:40:00.802786"
+    "lastUpdated": "2025-04-15T21:50:59.265975"
   },
   "IDXX": {
     "symbol": "IDXX",
@@ -4367,7 +4551,7 @@
     "high": 407.145,
     "low": 399.255,
     "previousClose": 404.65,
-    "lastUpdated": "2025-04-15T21:40:00.905560"
+    "lastUpdated": "2025-04-15T21:50:59.367136"
   },
   "CAH": {
     "symbol": "CAH",
@@ -4385,7 +4569,7 @@
     "high": 135.85,
     "low": 132.8,
     "previousClose": 134.78,
-    "lastUpdated": "2025-04-15T21:40:00.973234"
+    "lastUpdated": "2025-04-15T21:50:59.469444"
   },
   "VMC": {
     "symbol": "VMC",
@@ -4403,7 +4587,7 @@
     "high": 247.88,
     "low": 243.4,
     "previousClose": 243.48,
-    "lastUpdated": "2025-04-15T21:40:01.107939"
+    "lastUpdated": "2025-04-15T21:50:59.643271"
   },
   "CNC": {
     "symbol": "CNC",
@@ -4421,7 +4605,7 @@
     "high": 63.025,
     "low": 62.08,
     "previousClose": 63.01,
-    "lastUpdated": "2025-04-15T21:40:01.190075"
+    "lastUpdated": "2025-04-15T21:50:59.748572"
   },
   "RMD": {
     "symbol": "RMD",
@@ -4439,7 +4623,7 @@
     "high": 217.38,
     "low": 212.05,
     "previousClose": 214.53,
-    "lastUpdated": "2025-04-15T21:40:01.273624"
+    "lastUpdated": "2025-04-15T21:50:59.865777"
   },
   "IT": {
     "symbol": "IT",
@@ -4457,7 +4641,7 @@
     "high": 410.72,
     "low": 402.41,
     "previousClose": 407.96,
-    "lastUpdated": "2025-04-15T21:40:01.340515"
+    "lastUpdated": "2025-04-15T21:51:00.030695"
   },
   "EBAY": {
     "symbol": "EBAY",
@@ -4475,7 +4659,7 @@
     "high": 66.98,
     "low": 65.27,
     "previousClose": 66.07,
-    "lastUpdated": "2025-04-15T21:40:01.421211"
+    "lastUpdated": "2025-04-15T21:51:00.135233"
   },
   "ODFL": {
     "symbol": "ODFL",
@@ -4493,7 +4677,7 @@
     "high": 156.48,
     "low": 151.465,
     "previousClose": 155.11,
-    "lastUpdated": "2025-04-15T21:40:01.498105"
+    "lastUpdated": "2025-04-15T21:51:00.299309"
   },
   "NDAQ": {
     "symbol": "NDAQ",
@@ -4511,7 +4695,7 @@
     "high": 73.8192,
     "low": 72.72,
     "previousClose": 72.78,
-    "lastUpdated": "2025-04-15T21:40:01.633395"
+    "lastUpdated": "2025-04-15T21:51:00.404514"
   },
   "MLM": {
     "symbol": "MLM",
@@ -4529,7 +4713,7 @@
     "high": 507.94,
     "low": 497.72,
     "previousClose": 502.93,
-    "lastUpdated": "2025-04-15T21:40:01.719256"
+    "lastUpdated": "2025-04-15T21:51:00.560815"
   },
   "EQT": {
     "symbol": "EQT",
@@ -4547,7 +4731,7 @@
     "high": 51,
     "low": 49.57,
     "previousClose": 49.97,
-    "lastUpdated": "2025-04-15T21:40:01.816830"
+    "lastUpdated": "2025-04-15T21:51:00.696861"
   },
   "WAB": {
     "symbol": "WAB",
@@ -4565,7 +4749,7 @@
     "high": 174.4,
     "low": 172.02,
     "previousClose": 173.28,
-    "lastUpdated": "2025-04-15T21:40:01.977726"
+    "lastUpdated": "2025-04-15T21:51:00.832240"
   },
   "LULU": {
     "symbol": "LULU",
@@ -4583,7 +4767,7 @@
     "high": 263.6,
     "low": 252.98,
     "previousClose": 259.76,
-    "lastUpdated": "2025-04-15T21:40:02.058624"
+    "lastUpdated": "2025-04-15T21:51:01.052461"
   },
   "GRMN": {
     "symbol": "GRMN",
@@ -4601,7 +4785,7 @@
     "high": 194.075,
     "low": 190.99,
     "previousClose": 192.1,
-    "lastUpdated": "2025-04-15T21:40:02.184718"
+    "lastUpdated": "2025-04-15T21:51:01.264322"
   },
   "STZ": {
     "symbol": "STZ",
@@ -4619,7 +4803,7 @@
     "high": 187.65,
     "low": 183.56,
     "previousClose": 187.27,
-    "lastUpdated": "2025-04-15T21:40:02.466786"
+    "lastUpdated": "2025-04-15T21:51:01.459295"
   },
   "VTR": {
     "symbol": "VTR",
@@ -4637,7 +4821,7 @@
     "high": 68.16,
     "low": 67.085,
     "previousClose": 67.4,
-    "lastUpdated": "2025-04-15T21:40:02.699209"
+    "lastUpdated": "2025-04-15T21:51:01.618891"
   },
   "IR": {
     "symbol": "IR",
@@ -4655,7 +4839,7 @@
     "high": 74.36,
     "low": 72.68,
     "previousClose": 73.37,
-    "lastUpdated": "2025-04-15T21:40:02.784807"
+    "lastUpdated": "2025-04-15T21:51:01.749829"
   },
   "A": {
     "symbol": "A",
@@ -4673,7 +4857,7 @@
     "high": 105.25,
     "low": 102.54,
     "previousClose": 105.19,
-    "lastUpdated": "2025-04-15T21:40:02.881455"
+    "lastUpdated": "2025-04-15T21:51:01.869953"
   },
   "GEHC": {
     "symbol": "GEHC",
@@ -4691,7 +4875,7 @@
     "high": 64.8,
     "low": 62.66,
     "previousClose": 64.39,
-    "lastUpdated": "2025-04-15T21:40:02.982219"
+    "lastUpdated": "2025-04-15T21:51:01.985144"
   },
   "EXR": {
     "symbol": "EXR",
@@ -4709,7 +4893,7 @@
     "high": 139.25,
     "low": 136.91,
     "previousClose": 137.67,
-    "lastUpdated": "2025-04-15T21:40:03.069383"
+    "lastUpdated": "2025-04-15T21:51:02.156075"
   },
   "AWK": {
     "symbol": "AWK",
@@ -4727,7 +4911,7 @@
     "high": 149.66,
     "low": 146.72,
     "previousClose": 148.83,
-    "lastUpdated": "2025-04-15T21:40:03.171673"
+    "lastUpdated": "2025-04-15T21:51:02.263844"
   },
   "BRO": {
     "symbol": "BRO",
@@ -4745,7 +4929,7 @@
     "high": 121.5888,
     "low": 119.38,
     "previousClose": 120.9,
-    "lastUpdated": "2025-04-15T21:40:03.243009"
+    "lastUpdated": "2025-04-15T21:51:02.398097"
   },
   "AVB": {
     "symbol": "AVB",
@@ -4763,7 +4947,7 @@
     "high": 202.35,
     "low": 199.9,
     "previousClose": 200.92,
-    "lastUpdated": "2025-04-15T21:40:03.309836"
+    "lastUpdated": "2025-04-15T21:51:02.583914"
   },
   "TSCO": {
     "symbol": "TSCO",
@@ -4781,7 +4965,7 @@
     "high": 52.27,
     "low": 50.82,
     "previousClose": 52.17,
-    "lastUpdated": "2025-04-15T21:40:03.374789"
+    "lastUpdated": "2025-04-15T21:51:02.734049"
   },
   "EFX": {
     "symbol": "EFX",
@@ -4799,7 +4983,7 @@
     "high": 227.9775,
     "low": 223.31,
     "previousClose": 224.32,
-    "lastUpdated": "2025-04-15T21:40:03.479590"
+    "lastUpdated": "2025-04-15T21:51:02.865211"
   },
   "BR": {
     "symbol": "BR",
@@ -4817,7 +5001,7 @@
     "high": 237.605,
     "low": 235.28,
     "previousClose": 236.53,
-    "lastUpdated": "2025-04-15T21:40:03.564605"
+    "lastUpdated": "2025-04-15T21:51:03.024787"
   },
   "DTE": {
     "symbol": "DTE",
@@ -4835,7 +5019,7 @@
     "high": 134.27,
     "low": 132.555,
     "previousClose": 133.19,
-    "lastUpdated": "2025-04-15T21:40:03.655819"
+    "lastUpdated": "2025-04-15T21:51:03.242012"
   },
   "DXCM": {
     "symbol": "DXCM",
@@ -4853,7 +5037,7 @@
     "high": 69.32,
     "low": 66.978,
     "previousClose": 67.39,
-    "lastUpdated": "2025-04-15T21:40:03.748075"
+    "lastUpdated": "2025-04-15T21:51:03.357246"
   },
   "MTB": {
     "symbol": "MTB",
@@ -4871,7 +5055,7 @@
     "high": 165,
     "low": 158.52,
     "previousClose": 158.5,
-    "lastUpdated": "2025-04-15T21:40:03.807508"
+    "lastUpdated": "2025-04-15T21:51:03.533285"
   },
   "XYL": {
     "symbol": "XYL",
@@ -4889,7 +5073,7 @@
     "high": 110.8,
     "low": 108.93,
     "previousClose": 109.7,
-    "lastUpdated": "2025-04-15T21:40:03.888529"
+    "lastUpdated": "2025-04-15T21:51:03.666964"
   },
   "AEE": {
     "symbol": "AEE",
@@ -4907,7 +5091,7 @@
     "high": 100.075,
     "low": 98.87,
     "previousClose": 99.01,
-    "lastUpdated": "2025-04-15T21:40:03.963968"
+    "lastUpdated": "2025-04-15T21:51:03.780463"
   },
   "ROK": {
     "symbol": "ROK",
@@ -4925,7 +5109,7 @@
     "high": 238.165,
     "low": 231.5989,
     "previousClose": 233.42,
-    "lastUpdated": "2025-04-15T21:40:04.033436"
+    "lastUpdated": "2025-04-15T21:51:04.093908"
   },
   "ANSS": {
     "symbol": "ANSS",
@@ -4943,7 +5127,7 @@
     "high": 305.97,
     "low": 300.61,
     "previousClose": 302.1,
-    "lastUpdated": "2025-04-15T21:40:04.107965"
+    "lastUpdated": "2025-04-15T21:51:04.189590"
   },
   "NUE": {
     "symbol": "NUE",
@@ -4961,7 +5145,7 @@
     "high": 112.77,
     "low": 110.14,
     "previousClose": 110.82,
-    "lastUpdated": "2025-04-15T21:40:04.193129"
+    "lastUpdated": "2025-04-15T21:51:04.292579"
   },
   "CHD": {
     "symbol": "CHD",
@@ -4979,7 +5163,7 @@
     "high": 107.05,
     "low": 104.25,
     "previousClose": 105.58,
-    "lastUpdated": "2025-04-15T21:40:04.267221"
+    "lastUpdated": "2025-04-15T21:51:04.483070"
   },
   "PPL": {
     "symbol": "PPL",
@@ -4997,7 +5181,7 @@
     "high": 35.72,
     "low": 35.33,
     "previousClose": 35.45,
-    "lastUpdated": "2025-04-15T21:40:04.370584"
+    "lastUpdated": "2025-04-15T21:51:04.607110"
   },
   "DAL": {
     "symbol": "DAL",
@@ -5015,7 +5199,7 @@
     "high": 41.5806,
     "low": 40.15,
     "previousClose": 40.3,
-    "lastUpdated": "2025-04-15T21:40:04.663118"
+    "lastUpdated": "2025-04-15T21:51:04.767118"
   },
   "KHC": {
     "symbol": "KHC",
@@ -5033,7 +5217,7 @@
     "high": 30.005,
     "low": 29.375,
     "previousClose": 29.8,
-    "lastUpdated": "2025-04-15T21:40:04.739291"
+    "lastUpdated": "2025-04-15T21:51:04.945752"
   },
   "OXY": {
     "symbol": "OXY",
@@ -5051,7 +5235,7 @@
     "high": 38.628,
     "low": 37.615,
     "previousClose": 37.9,
-    "lastUpdated": "2025-04-15T21:40:04.830056"
+    "lastUpdated": "2025-04-15T21:51:05.132344"
   },
   "DELL": {
     "symbol": "DELL",
@@ -5069,7 +5253,7 @@
     "high": 86.8975,
     "low": 84.3205,
     "previousClose": 85.19,
-    "lastUpdated": "2025-04-15T21:40:04.899726"
+    "lastUpdated": "2025-04-15T21:51:05.266308"
   },
   "LEN": {
     "symbol": "LEN",
@@ -5087,7 +5271,7 @@
     "high": 107.56,
     "low": 104.41,
     "previousClose": 106.07,
-    "lastUpdated": "2025-04-15T21:40:04.979239"
+    "lastUpdated": "2025-04-15T21:51:05.432532"
   },
   "IP": {
     "symbol": "IP",
@@ -5105,7 +5289,7 @@
     "high": 48.283,
     "low": 46.73,
     "previousClose": 47.58,
-    "lastUpdated": "2025-04-15T21:40:05.073418"
+    "lastUpdated": "2025-04-15T21:51:05.606390"
   },
   "HSY": {
     "symbol": "HSY",
@@ -5123,7 +5307,7 @@
     "high": 171.5,
     "low": 166.72,
     "previousClose": 170.3,
-    "lastUpdated": "2025-04-15T21:40:05.190833"
+    "lastUpdated": "2025-04-15T21:51:05.720104"
   },
   "RJF": {
     "symbol": "RJF",
@@ -5141,7 +5325,7 @@
     "high": 138.15,
     "low": 135.425,
     "previousClose": 135.03,
-    "lastUpdated": "2025-04-15T21:40:05.267018"
+    "lastUpdated": "2025-04-15T21:51:05.823256"
   },
   "DD": {
     "symbol": "DD",
@@ -5159,7 +5343,7 @@
     "high": 61.01,
     "low": 60.08,
     "previousClose": 60.97,
-    "lastUpdated": "2025-04-15T21:40:05.365224"
+    "lastUpdated": "2025-04-15T21:51:05.999379"
   },
   "IRM": {
     "symbol": "IRM",
@@ -5177,7 +5361,7 @@
     "high": 85.29,
     "low": 82.88,
     "previousClose": 84.39,
-    "lastUpdated": "2025-04-15T21:40:05.440545"
+    "lastUpdated": "2025-04-15T21:51:06.224283"
   },
   "IQV": {
     "symbol": "IQV",
@@ -5195,7 +5379,7 @@
     "high": 152.48,
     "low": 148.38,
     "previousClose": 150.92,
-    "lastUpdated": "2025-04-15T21:40:05.640910"
+    "lastUpdated": "2025-04-15T21:51:06.318712"
   },
   "TYL": {
     "symbol": "TYL",
@@ -5213,7 +5397,7 @@
     "high": 579.77,
     "low": 570.92,
     "previousClose": 571.81,
-    "lastUpdated": "2025-04-15T21:40:05.698410"
+    "lastUpdated": "2025-04-15T21:51:06.480804"
   },
   "GDDY": {
     "symbol": "GDDY",
@@ -5231,7 +5415,7 @@
     "high": 175.8,
     "low": 170.5284,
     "previousClose": 171.65,
-    "lastUpdated": "2025-04-15T21:41:05.846401"
+    "lastUpdated": "2025-04-15T21:52:06.700257"
   },
   "ATO": {
     "symbol": "ATO",
@@ -5249,7 +5433,7 @@
     "high": 157.53,
     "low": 154.84,
     "previousClose": 154.98,
-    "lastUpdated": "2025-04-15T21:41:05.917465"
+    "lastUpdated": "2025-04-15T21:52:06.813840"
   },
   "CNP": {
     "symbol": "CNP",
@@ -5267,7 +5451,7 @@
     "high": 37.54,
     "low": 37.09,
     "previousClose": 37.23,
-    "lastUpdated": "2025-04-15T21:41:05.975999"
+    "lastUpdated": "2025-04-15T21:52:06.986711"
   },
   "MPWR": {
     "symbol": "MPWR",
@@ -5285,7 +5469,7 @@
     "high": 554.7746,
     "low": 537.35,
     "previousClose": 538.8,
-    "lastUpdated": "2025-04-15T21:41:06.059711"
+    "lastUpdated": "2025-04-15T21:52:07.091531"
   },
   "KEYS": {
     "symbol": "KEYS",
@@ -5303,7 +5487,7 @@
     "high": 139.08,
     "low": 136.195,
     "previousClose": 136.39,
-    "lastUpdated": "2025-04-15T21:41:06.119492"
+    "lastUpdated": "2025-04-15T21:52:07.264539"
   },
   "FANG": {
     "symbol": "FANG",
@@ -5321,7 +5505,7 @@
     "high": 130.0191,
     "low": 126.69,
     "previousClose": 127.64,
-    "lastUpdated": "2025-04-15T21:41:06.176168"
+    "lastUpdated": "2025-04-15T21:52:07.445886"
   },
   "PPG": {
     "symbol": "PPG",
@@ -5339,7 +5523,7 @@
     "high": 102.12,
     "low": 99.27,
     "previousClose": 101.48,
-    "lastUpdated": "2025-04-15T21:41:06.235942"
+    "lastUpdated": "2025-04-15T21:52:07.557984"
   },
   "STT": {
     "symbol": "STT",
@@ -5357,7 +5541,7 @@
     "high": 82.57,
     "low": 81.02,
     "previousClose": 80.91,
-    "lastUpdated": "2025-04-15T21:41:06.299858"
+    "lastUpdated": "2025-04-15T21:52:07.757695"
   },
   "SBAC": {
     "symbol": "SBAC",
@@ -5375,7 +5559,7 @@
     "high": 227.35,
     "low": 223.705,
     "previousClose": 224.73,
-    "lastUpdated": "2025-04-15T21:41:06.413192"
+    "lastUpdated": "2025-04-15T21:52:07.868301"
   },
   "FITB": {
     "symbol": "FITB",
@@ -5393,7 +5577,7 @@
     "high": 35.57,
     "low": 34.6,
     "previousClose": 34.6,
-    "lastUpdated": "2025-04-15T21:41:06.529502"
+    "lastUpdated": "2025-04-15T21:52:08.034450"
   },
   "DRI": {
     "symbol": "DRI",
@@ -5411,7 +5595,7 @@
     "high": 202.21,
     "low": 198.42,
     "previousClose": 199.27,
-    "lastUpdated": "2025-04-15T21:41:06.598935"
+    "lastUpdated": "2025-04-15T21:52:08.204405"
   },
   "TPL": {
     "symbol": "TPL",
@@ -5429,7 +5613,7 @@
     "high": 1294.48,
     "low": 1247.53,
     "previousClose": 1247.53,
-    "lastUpdated": "2025-04-15T21:41:06.674573"
+    "lastUpdated": "2025-04-15T21:52:08.374565"
   },
   "K": {
     "symbol": "K",
@@ -5447,7 +5631,7 @@
     "high": 82.45,
     "low": 82.27,
     "previousClose": 82.45,
-    "lastUpdated": "2025-04-15T21:41:06.765548"
+    "lastUpdated": "2025-04-15T21:52:08.481888"
   },
   "VLTO": {
     "symbol": "VLTO",
@@ -5465,7 +5649,7 @@
     "high": 91.12,
     "low": 89.99,
     "previousClose": 90.68,
-    "lastUpdated": "2025-04-15T21:41:06.836479"
+    "lastUpdated": "2025-04-15T21:52:08.584365"
   },
   "CBOE": {
     "symbol": "CBOE",
@@ -5483,7 +5667,7 @@
     "high": 218.35,
     "low": 215.08,
     "previousClose": 217.15,
-    "lastUpdated": "2025-04-15T21:41:06.929230"
+    "lastUpdated": "2025-04-15T21:52:08.781641"
   },
   "EQR": {
     "symbol": "EQR",
@@ -5501,7 +5685,7 @@
     "high": 67.475,
     "low": 66.44,
     "previousClose": 66.92,
-    "lastUpdated": "2025-04-15T21:41:07.013167"
+    "lastUpdated": "2025-04-15T21:52:08.890088"
   },
   "DOV": {
     "symbol": "DOV",
@@ -5519,7 +5703,7 @@
     "high": 165.535,
     "low": 162.53,
     "previousClose": 163.66,
-    "lastUpdated": "2025-04-15T21:41:07.104148"
+    "lastUpdated": "2025-04-15T21:52:09.006267"
   },
   "FTV": {
     "symbol": "FTV",
@@ -5537,7 +5721,7 @@
     "high": 66.6299,
     "low": 65.43,
     "previousClose": 66.01,
-    "lastUpdated": "2025-04-15T21:41:07.179855"
+    "lastUpdated": "2025-04-15T21:52:09.111217"
   },
   "EIX": {
     "symbol": "EIX",
@@ -5555,7 +5739,7 @@
     "high": 57.9,
     "low": 56.84,
     "previousClose": 57.22,
-    "lastUpdated": "2025-04-15T21:41:07.242213"
+    "lastUpdated": "2025-04-15T21:52:09.295928"
   },
   "HPQ": {
     "symbol": "HPQ",
@@ -5573,7 +5757,7 @@
     "high": 24.27,
     "low": 23.51,
     "previousClose": 24.04,
-    "lastUpdated": "2025-04-15T21:41:07.335665"
+    "lastUpdated": "2025-04-15T21:52:09.415219"
   },
   "TDY": {
     "symbol": "TDY",
@@ -5591,7 +5775,7 @@
     "high": 474.54,
     "low": 466.33,
     "previousClose": 466.81,
-    "lastUpdated": "2025-04-15T21:41:07.421443"
+    "lastUpdated": "2025-04-15T21:52:09.539815"
   },
   "CMS": {
     "symbol": "CMS",
@@ -5609,7 +5793,7 @@
     "high": 73.98,
     "low": 72.68,
     "previousClose": 73.53,
-    "lastUpdated": "2025-04-15T21:41:07.486647"
+    "lastUpdated": "2025-04-15T21:52:09.654893"
   },
   "STE": {
     "symbol": "STE",
@@ -5627,7 +5811,7 @@
     "high": 224.76,
     "low": 219.97,
     "previousClose": 224.01,
-    "lastUpdated": "2025-04-15T21:41:07.563967"
+    "lastUpdated": "2025-04-15T21:52:09.842010"
   },
   "ADM": {
     "symbol": "ADM",
@@ -5645,7 +5829,7 @@
     "high": 46.555,
     "low": 45.42,
     "previousClose": 46.43,
-    "lastUpdated": "2025-04-15T21:41:07.652720"
+    "lastUpdated": "2025-04-15T21:52:10.054410"
   },
   "NVR": {
     "symbol": "NVR",
@@ -5663,7 +5847,7 @@
     "high": 7329.93,
     "low": 7160.0001,
     "previousClose": 7240.98,
-    "lastUpdated": "2025-04-15T21:41:07.718594"
+    "lastUpdated": "2025-04-15T21:52:10.165431"
   },
   "EXE": {
     "symbol": "EXE",
@@ -5681,7 +5865,7 @@
     "high": 104.99,
     "low": 102.71,
     "previousClose": 102.92,
-    "lastUpdated": "2025-04-15T21:41:07.768284"
+    "lastUpdated": "2025-04-15T21:52:10.391590"
   },
   "CPAY": {
     "symbol": "CPAY",
@@ -5699,7 +5883,7 @@
     "high": 314.96,
     "low": 309.05,
     "previousClose": 308.51,
-    "lastUpdated": "2025-04-15T21:41:07.839511"
+    "lastUpdated": "2025-04-15T21:52:10.588077"
   },
   "MTD": {
     "symbol": "MTD",
@@ -5717,7 +5901,7 @@
     "high": 1077.53,
     "low": 1038.905,
     "previousClose": 1082.85,
-    "lastUpdated": "2025-04-15T21:41:07.913105"
+    "lastUpdated": "2025-04-15T21:52:10.725119"
   },
   "MCHP": {
     "symbol": "MCHP",
@@ -5735,7 +5919,7 @@
     "high": 39.61,
     "low": 38.31,
     "previousClose": 38.88,
-    "lastUpdated": "2025-04-15T21:41:07.979740"
+    "lastUpdated": "2025-04-15T21:52:10.834300"
   },
   "UAL": {
     "symbol": "UAL",
@@ -5753,7 +5937,7 @@
     "high": 68.25,
     "low": 65.645,
     "previousClose": 65.69,
-    "lastUpdated": "2025-04-15T21:41:08.050717"
+    "lastUpdated": "2025-04-15T21:52:10.943510"
   },
   "GPN": {
     "symbol": "GPN",
@@ -5771,7 +5955,7 @@
     "high": 86.26,
     "low": 85.28,
     "previousClose": 85.06,
-    "lastUpdated": "2025-04-15T21:41:08.107516"
+    "lastUpdated": "2025-04-15T21:52:11.053429"
   },
   "CINF": {
     "symbol": "CINF",
@@ -5789,7 +5973,7 @@
     "high": 135.1067,
     "low": 132.92,
     "previousClose": 133.31,
-    "lastUpdated": "2025-04-15T21:41:08.160576"
+    "lastUpdated": "2025-04-15T21:52:11.149008"
   },
   "FE": {
     "symbol": "FE",
@@ -5807,7 +5991,7 @@
     "high": 41.58,
     "low": 41,
     "previousClose": 41.12,
-    "lastUpdated": "2025-04-15T21:41:08.273435"
+    "lastUpdated": "2025-04-15T21:52:11.252529"
   },
   "ES": {
     "symbol": "ES",
@@ -5825,7 +6009,7 @@
     "high": 58.93,
     "low": 57.93,
     "previousClose": 58.48,
-    "lastUpdated": "2025-04-15T21:41:08.333075"
+    "lastUpdated": "2025-04-15T21:52:11.361805"
   },
   "ZBH": {
     "symbol": "ZBH",
@@ -5843,7 +6027,7 @@
     "high": 102.14,
     "low": 97.19,
     "previousClose": 101.97,
-    "lastUpdated": "2025-04-15T21:41:08.403979"
+    "lastUpdated": "2025-04-15T21:52:11.466939"
   },
   "LYV": {
     "symbol": "LYV",
@@ -5861,7 +6045,7 @@
     "high": 130.1145,
     "low": 128.215,
     "previousClose": 128.4,
-    "lastUpdated": "2025-04-15T21:41:08.473438"
+    "lastUpdated": "2025-04-15T21:52:11.636911"
   },
   "WRB": {
     "symbol": "WRB",
@@ -5879,7 +6063,7 @@
     "high": 69.6599,
     "low": 68.25,
     "previousClose": 69.34,
-    "lastUpdated": "2025-04-15T21:41:08.527193"
+    "lastUpdated": "2025-04-15T21:52:11.730075"
   },
   "SW": {
     "symbol": "SW",
@@ -5897,7 +6081,7 @@
     "high": 42.13,
     "low": 40.95,
     "previousClose": 41.44,
-    "lastUpdated": "2025-04-15T21:41:08.601652"
+    "lastUpdated": "2025-04-15T21:52:11.840392"
   },
   "VRSN": {
     "symbol": "VRSN",
@@ -5915,7 +6099,7 @@
     "high": 251.2,
     "low": 246.15,
     "previousClose": 247.22,
-    "lastUpdated": "2025-04-15T21:41:08.668424"
+    "lastUpdated": "2025-04-15T21:52:11.941258"
   },
   "CDW": {
     "symbol": "CDW",
@@ -5933,7 +6117,7 @@
     "high": 153.565,
     "low": 150.1568,
     "previousClose": 151.74,
-    "lastUpdated": "2025-04-15T21:41:08.740796"
+    "lastUpdated": "2025-04-15T21:52:12.134800"
   },
   "DOW": {
     "symbol": "DOW",
@@ -5951,7 +6135,7 @@
     "high": 28.76,
     "low": 27.685,
     "previousClose": 28.88,
-    "lastUpdated": "2025-04-15T21:41:08.798516"
+    "lastUpdated": "2025-04-15T21:52:12.296630"
   },
   "DG": {
     "symbol": "DG",
@@ -5969,7 +6153,7 @@
     "high": 90.4632,
     "low": 88.31,
     "previousClose": 90.31,
-    "lastUpdated": "2025-04-15T21:41:08.848237"
+    "lastUpdated": "2025-04-15T21:52:12.398166"
   },
   "TROW": {
     "symbol": "TROW",
@@ -5987,7 +6171,7 @@
     "high": 90.39,
     "low": 87.43,
     "previousClose": 89.32,
-    "lastUpdated": "2025-04-15T21:41:08.910611"
+    "lastUpdated": "2025-04-15T21:52:12.568976"
   },
   "MOH": {
     "symbol": "MOH",
@@ -6005,7 +6189,7 @@
     "high": 347.79,
     "low": 334.32,
     "previousClose": 348.57,
-    "lastUpdated": "2025-04-15T21:41:08.979948"
+    "lastUpdated": "2025-04-15T21:52:12.679721"
   },
   "MKC": {
     "symbol": "MKC",
@@ -6023,7 +6207,7 @@
     "high": 78,
     "low": 75.03,
     "previousClose": 77.6,
-    "lastUpdated": "2025-04-15T21:41:09.052157"
+    "lastUpdated": "2025-04-15T21:52:12.879498"
   },
   "PHM": {
     "symbol": "PHM",
@@ -6041,7 +6225,7 @@
     "high": 96.67,
     "low": 94.1,
     "previousClose": 95.44,
-    "lastUpdated": "2025-04-15T21:41:09.168619"
+    "lastUpdated": "2025-04-15T21:52:13.065325"
   },
   "NRG": {
     "symbol": "NRG",
@@ -6059,7 +6243,7 @@
     "high": 98.5,
     "low": 96,
     "previousClose": 95.92,
-    "lastUpdated": "2025-04-15T21:41:09.239678"
+    "lastUpdated": "2025-04-15T21:52:13.249903"
   },
   "WY": {
     "symbol": "WY",
@@ -6077,7 +6261,7 @@
     "high": 26.265,
     "low": 25.76,
     "previousClose": 26.12,
-    "lastUpdated": "2025-04-15T21:41:09.309142"
+    "lastUpdated": "2025-04-15T21:52:13.505416"
   },
   "HBAN": {
     "symbol": "HBAN",
@@ -6095,7 +6279,7 @@
     "high": 13.63,
     "low": 13.22,
     "previousClose": 13.15,
-    "lastUpdated": "2025-04-15T21:41:09.395757"
+    "lastUpdated": "2025-04-15T21:52:13.648905"
   },
   "WAT": {
     "symbol": "WAT",
@@ -6113,7 +6297,7 @@
     "high": 333.94,
     "low": 322.21,
     "previousClose": 333.77,
-    "lastUpdated": "2025-04-15T21:41:09.465424"
+    "lastUpdated": "2025-04-15T21:52:13.835173"
   },
   "EXPE": {
     "symbol": "EXPE",
@@ -6131,7 +6315,7 @@
     "high": 153.673,
     "low": 149.985,
     "previousClose": 149.23,
-    "lastUpdated": "2025-04-15T21:41:09.530136"
+    "lastUpdated": "2025-04-15T21:52:13.937622"
   },
   "HUBB": {
     "symbol": "HUBB",
@@ -6149,7 +6333,7 @@
     "high": 353.48,
     "low": 345.7,
     "previousClose": 350.51,
-    "lastUpdated": "2025-04-15T21:41:09.655175"
+    "lastUpdated": "2025-04-15T21:52:14.041521"
   },
   "LDOS": {
     "symbol": "LDOS",
@@ -6167,7 +6351,7 @@
     "high": 143.14,
     "low": 140.83,
     "previousClose": 142.98,
-    "lastUpdated": "2025-04-15T21:41:09.745048"
+    "lastUpdated": "2025-04-15T21:52:14.209057"
   },
   "CCL": {
     "symbol": "CCL",
@@ -6185,7 +6369,7 @@
     "high": 18.0299,
     "low": 17.59,
     "previousClose": 17.82,
-    "lastUpdated": "2025-04-15T21:41:09.871356"
+    "lastUpdated": "2025-04-15T21:52:14.396724"
   },
   "LH": {
     "symbol": "LH",
@@ -6203,7 +6387,7 @@
     "high": 229.03,
     "low": 223.93,
     "previousClose": 228.04,
-    "lastUpdated": "2025-04-15T21:41:09.974456"
+    "lastUpdated": "2025-04-15T21:52:14.494610"
   },
   "IFF": {
     "symbol": "IFF",
@@ -6221,7 +6405,7 @@
     "high": 73.4199,
     "low": 72.31,
     "previousClose": 73.48,
-    "lastUpdated": "2025-04-15T21:41:10.077800"
+    "lastUpdated": "2025-04-15T21:52:14.594322"
   },
   "DVN": {
     "symbol": "DVN",
@@ -6239,7 +6423,7 @@
     "high": 29.48,
     "low": 28.355,
     "previousClose": 28.73,
-    "lastUpdated": "2025-04-15T21:41:10.155123"
+    "lastUpdated": "2025-04-15T21:52:14.772825"
   },
   "CTRA": {
     "symbol": "CTRA",
@@ -6257,7 +6441,7 @@
     "high": 25.65,
     "low": 25.055,
     "previousClose": 25.22,
-    "lastUpdated": "2025-04-15T21:41:10.227995"
+    "lastUpdated": "2025-04-15T21:52:14.939591"
   },
   "WSM": {
     "symbol": "WSM",
@@ -6275,7 +6459,7 @@
     "high": 147,
     "low": 142.24,
     "previousClose": 145.26,
-    "lastUpdated": "2025-04-15T21:41:10.290440"
+    "lastUpdated": "2025-04-15T21:52:15.139364"
   },
   "DGX": {
     "symbol": "DGX",
@@ -6293,7 +6477,7 @@
     "high": 169.69,
     "low": 166.63,
     "previousClose": 168,
-    "lastUpdated": "2025-04-15T21:41:10.428054"
+    "lastUpdated": "2025-04-15T21:52:15.234277"
   },
   "SYF": {
     "symbol": "SYF",
@@ -6311,7 +6495,7 @@
     "high": 48.46,
     "low": 46.89,
     "previousClose": 46.96,
-    "lastUpdated": "2025-04-15T21:42:10.503263"
+    "lastUpdated": "2025-04-15T21:53:15.413911"
   },
   "WBD": {
     "symbol": "WBD",
@@ -6329,7 +6513,7 @@
     "high": 8.32,
     "low": 7.98,
     "previousClose": 8.02,
-    "lastUpdated": "2025-04-15T21:42:10.575083"
+    "lastUpdated": "2025-04-15T21:53:15.525606"
   },
   "MAA": {
     "symbol": "MAA",
@@ -6347,7 +6531,7 @@
     "high": 158.2,
     "low": 154.72,
     "previousClose": 158.43,
-    "lastUpdated": "2025-04-15T21:42:10.643973"
+    "lastUpdated": "2025-04-15T21:53:15.693779"
   },
   "HPE": {
     "symbol": "HPE",
@@ -6365,7 +6549,7 @@
     "high": 15.54,
     "low": 14.2,
     "previousClose": 14.28,
-    "lastUpdated": "2025-04-15T21:42:10.734363"
+    "lastUpdated": "2025-04-15T21:53:15.875742"
   },
   "INVH": {
     "symbol": "INVH",
@@ -6383,7 +6567,7 @@
     "high": 33.07,
     "low": 32.59,
     "previousClose": 32.7,
-    "lastUpdated": "2025-04-15T21:42:10.792301"
+    "lastUpdated": "2025-04-15T21:53:16.058713"
   },
   "NI": {
     "symbol": "NI",
@@ -6401,7 +6585,7 @@
     "high": 39.74,
     "low": 39.21,
     "previousClose": 39.26,
-    "lastUpdated": "2025-04-15T21:42:10.843764"
+    "lastUpdated": "2025-04-15T21:53:16.223073"
   },
   "LII": {
     "symbol": "LII",
@@ -6419,7 +6603,7 @@
     "high": 566.92,
     "low": 552.935,
     "previousClose": 558.64,
-    "lastUpdated": "2025-04-15T21:42:10.901658"
+    "lastUpdated": "2025-04-15T21:53:16.405108"
   },
   "HAL": {
     "symbol": "HAL",
@@ -6437,7 +6621,7 @@
     "high": 21.6699,
     "low": 21.16,
     "previousClose": 21.25,
-    "lastUpdated": "2025-04-15T21:42:10.961149"
+    "lastUpdated": "2025-04-15T21:53:16.555393"
   },
   "PODD": {
     "symbol": "PODD",
@@ -6455,7 +6639,7 @@
     "high": 257.37,
     "low": 252.89,
     "previousClose": 255.47,
-    "lastUpdated": "2025-04-15T21:42:11.018915"
+    "lastUpdated": "2025-04-15T21:53:16.717646"
   },
   "CLX": {
     "symbol": "CLX",
@@ -6473,7 +6657,7 @@
     "high": 141.25,
     "low": 139.33,
     "previousClose": 140.94,
-    "lastUpdated": "2025-04-15T21:42:11.100671"
+    "lastUpdated": "2025-04-15T21:53:16.822846"
   },
   "PTC": {
     "symbol": "PTC",
@@ -6491,7 +6675,7 @@
     "high": 148.52,
     "low": 146.54,
     "previousClose": 146.54,
-    "lastUpdated": "2025-04-15T21:42:11.163051"
+    "lastUpdated": "2025-04-15T21:53:16.985129"
   },
   "RF": {
     "symbol": "RF",
@@ -6509,7 +6693,7 @@
     "high": 19.82,
     "low": 19.28,
     "previousClose": 19.27,
-    "lastUpdated": "2025-04-15T21:42:11.246537"
+    "lastUpdated": "2025-04-15T21:53:17.095220"
   },
   "NTRS": {
     "symbol": "NTRS",
@@ -6527,7 +6711,7 @@
     "high": 91.16,
     "low": 89.19,
     "previousClose": 89.81,
-    "lastUpdated": "2025-04-15T21:42:11.311882"
+    "lastUpdated": "2025-04-15T21:53:17.191476"
   },
   "TSN": {
     "symbol": "TSN",
@@ -6545,7 +6729,7 @@
     "high": 61.74,
     "low": 60.85,
     "previousClose": 61.57,
-    "lastUpdated": "2025-04-15T21:42:11.384983"
+    "lastUpdated": "2025-04-15T21:53:17.354247"
   },
   "SMCI": {
     "symbol": "SMCI",
@@ -6563,7 +6747,7 @@
     "high": 34.59,
     "low": 33.07,
     "previousClose": 33.12,
-    "lastUpdated": "2025-04-15T21:42:11.446582"
+    "lastUpdated": "2025-04-15T21:53:17.457719"
   },
   "SNA": {
     "symbol": "SNA",
@@ -6581,7 +6765,7 @@
     "high": 342.315,
     "low": 336.435,
     "previousClose": 336.89,
-    "lastUpdated": "2025-04-15T21:42:11.514896"
+    "lastUpdated": "2025-04-15T21:53:17.558313"
   },
   "ESS": {
     "symbol": "ESS",
@@ -6599,7 +6783,7 @@
     "high": 277.79,
     "low": 273.025,
     "previousClose": 272.66,
-    "lastUpdated": "2025-04-15T21:42:11.588978"
+    "lastUpdated": "2025-04-15T21:53:17.745466"
   },
   "NTAP": {
     "symbol": "NTAP",
@@ -6617,7 +6801,7 @@
     "high": 83.97,
     "low": 81.76,
     "previousClose": 83.28,
-    "lastUpdated": "2025-04-15T21:42:11.647841"
+    "lastUpdated": "2025-04-15T21:53:17.838767"
   },
   "DECK": {
     "symbol": "DECK",
@@ -6635,7 +6819,7 @@
     "high": 107.2,
     "low": 103.15,
     "previousClose": 107.15,
-    "lastUpdated": "2025-04-15T21:42:11.729114"
+    "lastUpdated": "2025-04-15T21:53:17.942552"
   },
   "STLD": {
     "symbol": "STLD",
@@ -6653,7 +6837,7 @@
     "high": 120.41,
     "low": 117.65,
     "previousClose": 118.75,
-    "lastUpdated": "2025-04-15T21:42:11.845183"
+    "lastUpdated": "2025-04-15T21:53:18.052402"
   },
   "PKG": {
     "symbol": "PKG",
@@ -6671,7 +6855,7 @@
     "high": 191.799,
     "low": 188.13,
     "previousClose": 190.65,
-    "lastUpdated": "2025-04-15T21:42:11.937630"
+    "lastUpdated": "2025-04-15T21:53:18.148540"
   },
   "BIIB": {
     "symbol": "BIIB",
@@ -6689,7 +6873,7 @@
     "high": 119.934,
     "low": 116.61,
     "previousClose": 119.26,
-    "lastUpdated": "2025-04-15T21:42:12.010821"
+    "lastUpdated": "2025-04-15T21:53:18.347078"
   },
   "ULTA": {
     "symbol": "ULTA",
@@ -6707,7 +6891,7 @@
     "high": 369.95,
     "low": 357.8,
     "previousClose": 366.25,
-    "lastUpdated": "2025-04-15T21:42:12.074678"
+    "lastUpdated": "2025-04-15T21:53:18.466368"
   },
   "FDS": {
     "symbol": "FDS",
@@ -6725,7 +6909,7 @@
     "high": 437.99,
     "low": 432.72,
     "previousClose": 433,
-    "lastUpdated": "2025-04-15T21:42:12.145408"
+    "lastUpdated": "2025-04-15T21:53:18.634359"
   },
   "GPC": {
     "symbol": "GPC",
@@ -6743,7 +6927,7 @@
     "high": 117.225,
     "low": 114.28,
     "previousClose": 116.23,
-    "lastUpdated": "2025-04-15T21:42:12.223653"
+    "lastUpdated": "2025-04-15T21:53:18.745813"
   },
   "DPZ": {
     "symbol": "DPZ",
@@ -6761,7 +6945,7 @@
     "high": 473.8783,
     "low": 464.92,
     "previousClose": 475.87,
-    "lastUpdated": "2025-04-15T21:42:12.309629"
+    "lastUpdated": "2025-04-15T21:53:18.857923"
   },
   "LNT": {
     "symbol": "LNT",
@@ -6779,7 +6963,7 @@
     "high": 62.375,
     "low": 61.51,
     "previousClose": 61.81,
-    "lastUpdated": "2025-04-15T21:42:12.374521"
+    "lastUpdated": "2025-04-15T21:53:19.036908"
   },
   "LUV": {
     "symbol": "LUV",
@@ -6797,7 +6981,7 @@
     "high": 26.63,
     "low": 25.5,
     "previousClose": 25.56,
-    "lastUpdated": "2025-04-15T21:42:12.469692"
+    "lastUpdated": "2025-04-15T21:53:19.137505"
   },
   "ROL": {
     "symbol": "ROL",
@@ -6815,7 +6999,7 @@
     "high": 56,
     "low": 55.09,
     "previousClose": 55.69,
-    "lastUpdated": "2025-04-15T21:42:12.556685"
+    "lastUpdated": "2025-04-15T21:53:19.240011"
   },
   "CFG": {
     "symbol": "CFG",
@@ -6833,7 +7017,7 @@
     "high": 36.56,
     "low": 35.85,
     "previousClose": 35.59,
-    "lastUpdated": "2025-04-15T21:42:12.638738"
+    "lastUpdated": "2025-04-15T21:53:19.352764"
   },
   "EXPD": {
     "symbol": "EXPD",
@@ -6851,7 +7035,7 @@
     "high": 112.495,
     "low": 109.85,
     "previousClose": 112.05,
-    "lastUpdated": "2025-04-15T21:42:12.692770"
+    "lastUpdated": "2025-04-15T21:53:19.577563"
   },
   "PFG": {
     "symbol": "PFG",
@@ -6869,7 +7053,7 @@
     "high": 74.43,
     "low": 72.94,
     "previousClose": 73.43,
-    "lastUpdated": "2025-04-15T21:42:12.756719"
+    "lastUpdated": "2025-04-15T21:53:19.681689"
   },
   "EVRG": {
     "symbol": "EVRG",
@@ -6887,7 +7071,7 @@
     "high": 68.21,
     "low": 67.585,
     "previousClose": 67.59,
-    "lastUpdated": "2025-04-15T21:42:12.813034"
+    "lastUpdated": "2025-04-15T21:53:19.847956"
   },
   "COO": {
     "symbol": "COO",
@@ -6905,7 +7089,7 @@
     "high": 78.99,
     "low": 77.31,
     "previousClose": 78.76,
-    "lastUpdated": "2025-04-15T21:42:12.883298"
+    "lastUpdated": "2025-04-15T21:53:19.953975"
   },
   "L": {
     "symbol": "L",
@@ -6923,7 +7107,7 @@
     "high": 87.2157,
     "low": 86.1,
     "previousClose": 86.32,
-    "lastUpdated": "2025-04-15T21:42:12.951003"
+    "lastUpdated": "2025-04-15T21:53:20.142698"
   },
   "WST": {
     "symbol": "WST",
@@ -6941,7 +7125,7 @@
     "high": 213.61,
     "low": 209.82,
     "previousClose": 212.67,
-    "lastUpdated": "2025-04-15T21:42:13.014477"
+    "lastUpdated": "2025-04-15T21:53:20.247363"
   },
   "STX": {
     "symbol": "STX",
@@ -6959,7 +7143,7 @@
     "high": 73.5,
     "low": 71.85,
     "previousClose": 72.67,
-    "lastUpdated": "2025-04-15T21:42:13.079535"
+    "lastUpdated": "2025-04-15T21:53:20.380177"
   },
   "FFIV": {
     "symbol": "FFIV",
@@ -6977,7 +7161,7 @@
     "high": 265.52,
     "low": 261.39,
     "previousClose": 262.69,
-    "lastUpdated": "2025-04-15T21:42:13.157369"
+    "lastUpdated": "2025-04-15T21:53:20.482877"
   },
   "ON": {
     "symbol": "ON",
@@ -6995,7 +7179,7 @@
     "high": 36.68,
     "low": 35.055,
     "previousClose": 35.62,
-    "lastUpdated": "2025-04-15T21:42:13.218666"
+    "lastUpdated": "2025-04-15T21:53:20.661639"
   },
   "EG": {
     "symbol": "EG",
@@ -7013,7 +7197,7 @@
     "high": 354.9899,
     "low": 344.91,
     "previousClose": 353.02,
-    "lastUpdated": "2025-04-15T21:42:13.286511"
+    "lastUpdated": "2025-04-15T21:53:20.779172"
   },
   "DLTR": {
     "symbol": "DLTR",
@@ -7031,7 +7215,7 @@
     "high": 73.98,
     "low": 71.59,
     "previousClose": 73.71,
-    "lastUpdated": "2025-04-15T21:42:13.357567"
+    "lastUpdated": "2025-04-15T21:53:20.894146"
   },
   "JBL": {
     "symbol": "JBL",
@@ -7049,7 +7233,7 @@
     "high": 136.58,
     "low": 132.53,
     "previousClose": 133.86,
-    "lastUpdated": "2025-04-15T21:42:13.417560"
+    "lastUpdated": "2025-04-15T21:53:20.995396"
   },
   "OMC": {
     "symbol": "OMC",
@@ -7067,7 +7251,7 @@
     "high": 77.915,
     "low": 76.72,
     "previousClose": 76.54,
-    "lastUpdated": "2025-04-15T21:42:13.470455"
+    "lastUpdated": "2025-04-15T21:53:21.133427"
   },
   "BAX": {
     "symbol": "BAX",
@@ -7085,7 +7269,7 @@
     "high": 28.5,
     "low": 27.52,
     "previousClose": 28.38,
-    "lastUpdated": "2025-04-15T21:42:13.604802"
+    "lastUpdated": "2025-04-15T21:53:21.308070"
   },
   "TRMB": {
     "symbol": "TRMB",
@@ -7103,7 +7287,7 @@
     "high": 60.26,
     "low": 59.2381,
     "previousClose": 59.49,
-    "lastUpdated": "2025-04-15T21:42:13.675196"
+    "lastUpdated": "2025-04-15T21:53:21.427982"
   },
   "LYB": {
     "symbol": "LYB",
@@ -7121,7 +7305,7 @@
     "high": 57.69,
     "low": 56.4603,
     "previousClose": 57.45,
-    "lastUpdated": "2025-04-15T21:42:13.729792"
+    "lastUpdated": "2025-04-15T21:53:21.599565"
   },
   "J": {
     "symbol": "J",
@@ -7139,7 +7323,7 @@
     "high": 118.98,
     "low": 117.4,
     "previousClose": 117.88,
-    "lastUpdated": "2025-04-15T21:42:13.800732"
+    "lastUpdated": "2025-04-15T21:53:21.786111"
   },
   "BLDR": {
     "symbol": "BLDR",
@@ -7157,7 +7341,7 @@
     "high": 121.07,
     "low": 118.18,
     "previousClose": 119.5,
-    "lastUpdated": "2025-04-15T21:42:13.867868"
+    "lastUpdated": "2025-04-15T21:53:21.965577"
   },
   "BALL": {
     "symbol": "BALL",
@@ -7175,7 +7359,7 @@
     "high": 48.85,
     "low": 47.54,
     "previousClose": 48.8,
-    "lastUpdated": "2025-04-15T21:42:13.947100"
+    "lastUpdated": "2025-04-15T21:53:22.061533"
   },
   "KEY": {
     "symbol": "KEY",
@@ -7193,7 +7377,7 @@
     "high": 14.595,
     "low": 14.12,
     "previousClose": 14.06,
-    "lastUpdated": "2025-04-15T21:42:13.999989"
+    "lastUpdated": "2025-04-15T21:53:22.163060"
   },
   "AVY": {
     "symbol": "AVY",
@@ -7211,7 +7395,7 @@
     "high": 172.97,
     "low": 169.19,
     "previousClose": 172.28,
-    "lastUpdated": "2025-04-15T21:42:14.054878"
+    "lastUpdated": "2025-04-15T21:53:22.326441"
   },
   "PNR": {
     "symbol": "PNR",
@@ -7229,7 +7413,7 @@
     "high": 83.72,
     "low": 82.115,
     "previousClose": 82.79,
-    "lastUpdated": "2025-04-15T21:42:14.144513"
+    "lastUpdated": "2025-04-15T21:53:22.495746"
   },
   "KIM": {
     "symbol": "KIM",
@@ -7247,7 +7431,7 @@
     "high": 20.46,
     "low": 20.24,
     "previousClose": 20.29,
-    "lastUpdated": "2025-04-15T21:42:14.204842"
+    "lastUpdated": "2025-04-15T21:53:22.685439"
   },
   "TPR": {
     "symbol": "TPR",
@@ -7265,7 +7449,7 @@
     "high": 64.58,
     "low": 63.225,
     "previousClose": 63.78,
-    "lastUpdated": "2025-04-15T21:42:14.274892"
+    "lastUpdated": "2025-04-15T21:53:22.783230"
   },
   "GEN": {
     "symbol": "GEN",
@@ -7283,7 +7467,7 @@
     "high": 24.96,
     "low": 24.57,
     "previousClose": 24.65,
-    "lastUpdated": "2025-04-15T21:42:14.343241"
+    "lastUpdated": "2025-04-15T21:53:22.880375"
   },
   "FSLR": {
     "symbol": "FSLR",
@@ -7301,7 +7485,7 @@
     "high": 134.03,
     "low": 126.0047,
     "previousClose": 131.26,
-    "lastUpdated": "2025-04-15T21:42:14.406592"
+    "lastUpdated": "2025-04-15T21:53:23.129137"
   },
   "MAS": {
     "symbol": "MAS",
@@ -7319,7 +7503,7 @@
     "high": 63.21,
     "low": 61.67,
     "previousClose": 62.41,
-    "lastUpdated": "2025-04-15T21:42:14.491172"
+    "lastUpdated": "2025-04-15T21:53:23.237910"
   },
   "AMCR": {
     "symbol": "AMCR",
@@ -7337,7 +7521,7 @@
     "high": 9.575,
     "low": 9.35,
     "previousClose": 9.54,
-    "lastUpdated": "2025-04-15T21:42:14.553725"
+    "lastUpdated": "2025-04-15T21:53:23.329241"
   },
   "HOLX": {
     "symbol": "HOLX",
@@ -7355,7 +7539,7 @@
     "high": 58.875,
     "low": 57.64,
     "previousClose": 58.84,
-    "lastUpdated": "2025-04-15T21:42:14.634236"
+    "lastUpdated": "2025-04-15T21:53:23.428939"
   },
   "DOC": {
     "symbol": "DOC",
@@ -7373,7 +7557,7 @@
     "high": 18.845,
     "low": 18.665,
     "previousClose": 18.71,
-    "lastUpdated": "2025-04-15T21:42:14.697966"
+    "lastUpdated": "2025-04-15T21:53:23.604726"
   },
   "IEX": {
     "symbol": "IEX",
@@ -7391,7 +7575,7 @@
     "high": 171.4751,
     "low": 166.79,
     "previousClose": 169.86,
-    "lastUpdated": "2025-04-15T21:43:14.751651"
+    "lastUpdated": "2025-04-15T21:54:23.709751"
   },
   "EL": {
     "symbol": "EL",
@@ -7409,7 +7593,7 @@
     "high": 55.066,
     "low": 53.93,
     "previousClose": 55.59,
-    "lastUpdated": "2025-04-15T21:43:14.813710"
+    "lastUpdated": "2025-04-15T21:54:23.877300"
   },
   "JKHY": {
     "symbol": "JKHY",
@@ -7427,7 +7611,7 @@
     "high": 175.485,
     "low": 173.18,
     "previousClose": 173.85,
-    "lastUpdated": "2025-04-15T21:43:14.877417"
+    "lastUpdated": "2025-04-15T21:54:24.068856"
   },
   "SJM": {
     "symbol": "SJM",
@@ -7445,7 +7629,7 @@
     "high": 118.5,
     "low": 116,
     "previousClose": 117.9,
-    "lastUpdated": "2025-04-15T21:43:14.942724"
+    "lastUpdated": "2025-04-15T21:54:24.256316"
   },
   "CF": {
     "symbol": "CF",
@@ -7463,7 +7647,7 @@
     "high": 73.75,
     "low": 72.09,
     "previousClose": 72.41,
-    "lastUpdated": "2025-04-15T21:43:14.999851"
+    "lastUpdated": "2025-04-15T21:54:24.373944"
   },
   "CAG": {
     "symbol": "CAG",
@@ -7481,7 +7665,7 @@
     "high": 26.29,
     "low": 25.495,
     "previousClose": 26.19,
-    "lastUpdated": "2025-04-15T21:43:15.054860"
+    "lastUpdated": "2025-04-15T21:54:24.469482"
   },
   "WDC": {
     "symbol": "WDC",
@@ -7499,7 +7683,7 @@
     "high": 36.33,
     "low": 35.48,
     "previousClose": 35.82,
-    "lastUpdated": "2025-04-15T21:43:15.114912"
+    "lastUpdated": "2025-04-15T21:54:24.655894"
   },
   "UDR": {
     "symbol": "UDR",
@@ -7517,7 +7701,7 @@
     "high": 41.235,
     "low": 40.675,
     "previousClose": 40.79,
-    "lastUpdated": "2025-04-15T21:43:15.172669"
+    "lastUpdated": "2025-04-15T21:54:24.766408"
   },
   "TER": {
     "symbol": "TER",
@@ -7535,7 +7719,7 @@
     "high": 75.3628,
     "low": 73.69,
     "previousClose": 73.86,
-    "lastUpdated": "2025-04-15T21:43:15.234836"
+    "lastUpdated": "2025-04-15T21:54:24.950839"
   },
   "TXT": {
     "symbol": "TXT",
@@ -7553,7 +7737,7 @@
     "high": 66.55,
     "low": 65.3,
     "previousClose": 65.99,
-    "lastUpdated": "2025-04-15T21:43:15.295921"
+    "lastUpdated": "2025-04-15T21:54:25.072458"
   },
   "BBY": {
     "symbol": "BBY",
@@ -7571,7 +7755,7 @@
     "high": 62.95,
     "low": 60.765,
     "previousClose": 61.76,
-    "lastUpdated": "2025-04-15T21:43:15.356288"
+    "lastUpdated": "2025-04-15T21:54:25.258251"
   },
   "POOL": {
     "symbol": "POOL",
@@ -7589,7 +7773,7 @@
     "high": 314.25,
     "low": 305.4501,
     "previousClose": 311.55,
-    "lastUpdated": "2025-04-15T21:43:15.422576"
+    "lastUpdated": "2025-04-15T21:54:25.427821"
   },
   "CPT": {
     "symbol": "CPT",
@@ -7607,7 +7791,7 @@
     "high": 112.54,
     "low": 110.825,
     "previousClose": 111.18,
-    "lastUpdated": "2025-04-15T21:43:15.486849"
+    "lastUpdated": "2025-04-15T21:54:25.535205"
   },
   "ZBRA": {
     "symbol": "ZBRA",
@@ -7625,7 +7809,7 @@
     "high": 234,
     "low": 227.685,
     "previousClose": 231.77,
-    "lastUpdated": "2025-04-15T21:43:15.540261"
+    "lastUpdated": "2025-04-15T21:54:25.637151"
   },
   "ARE": {
     "symbol": "ARE",
@@ -7643,7 +7827,7 @@
     "high": 80.455,
     "low": 78.89,
     "previousClose": 79.7,
-    "lastUpdated": "2025-04-15T21:43:15.599039"
+    "lastUpdated": "2025-04-15T21:54:25.743387"
   },
   "JNPR": {
     "symbol": "JNPR",
@@ -7661,7 +7845,7 @@
     "high": 35.18,
     "low": 34.23,
     "previousClose": 34.78,
-    "lastUpdated": "2025-04-15T21:43:15.662494"
+    "lastUpdated": "2025-04-15T21:54:25.846138"
   },
   "APTV": {
     "symbol": "APTV",
@@ -7679,7 +7863,7 @@
     "high": 50.84,
     "low": 48.895,
     "previousClose": 50.1,
-    "lastUpdated": "2025-04-15T21:43:15.735443"
+    "lastUpdated": "2025-04-15T21:54:25.956121"
   },
   "RVTY": {
     "symbol": "RVTY",
@@ -7697,7 +7881,7 @@
     "high": 97.98,
     "low": 95.23,
     "previousClose": 97.62,
-    "lastUpdated": "2025-04-15T21:43:15.795109"
+    "lastUpdated": "2025-04-15T21:54:26.133882"
   },
   "REG": {
     "symbol": "REG",
@@ -7715,7 +7899,7 @@
     "high": 71.1,
     "low": 70.23,
     "previousClose": 70.41,
-    "lastUpdated": "2025-04-15T21:43:15.860224"
+    "lastUpdated": "2025-04-15T21:54:26.304138"
   },
   "ALGN": {
     "symbol": "ALGN",
@@ -7733,7 +7917,7 @@
     "high": 167.11,
     "low": 162.27,
     "previousClose": 165.62,
-    "lastUpdated": "2025-04-15T21:43:15.915062"
+    "lastUpdated": "2025-04-15T21:54:26.493274"
   },
   "AKAM": {
     "symbol": "AKAM",
@@ -7751,7 +7935,7 @@
     "high": 74.835,
     "low": 73.85,
     "previousClose": 74.15,
-    "lastUpdated": "2025-04-15T21:43:15.969085"
+    "lastUpdated": "2025-04-15T21:54:26.622425"
   },
   "LVS": {
     "symbol": "LVS",
@@ -7769,7 +7953,7 @@
     "high": 32.99,
     "low": 31.96,
     "previousClose": 32.12,
-    "lastUpdated": "2025-04-15T21:43:16.030989"
+    "lastUpdated": "2025-04-15T21:54:26.811195"
   },
   "FOXA": {
     "symbol": "FOXA",
@@ -7787,7 +7971,7 @@
     "high": 50.455,
     "low": 49.24,
     "previousClose": 49.53,
-    "lastUpdated": "2025-04-15T21:43:16.137128"
+    "lastUpdated": "2025-04-15T21:54:26.969351"
   },
   "JBHT": {
     "symbol": "JBHT",
@@ -7805,7 +7989,7 @@
     "high": 139.01,
     "low": 133.63,
     "previousClose": 137.82,
-    "lastUpdated": "2025-04-15T21:43:16.235551"
+    "lastUpdated": "2025-04-15T21:54:27.150454"
   },
   "LKQ": {
     "symbol": "LKQ",
@@ -7823,7 +8007,7 @@
     "high": 42.5,
     "low": 41.555,
     "previousClose": 42.14,
-    "lastUpdated": "2025-04-15T21:43:16.329920"
+    "lastUpdated": "2025-04-15T21:54:27.392461"
   },
   "CHRW": {
     "symbol": "CHRW",
@@ -7841,7 +8025,7 @@
     "high": 93.7,
     "low": 91.44,
     "previousClose": 92.37,
-    "lastUpdated": "2025-04-15T21:43:16.420149"
+    "lastUpdated": "2025-04-15T21:54:27.577701"
   },
   "ALLE": {
     "symbol": "ALLE",
@@ -7859,7 +8043,7 @@
     "high": 127.99,
     "low": 125.92,
     "previousClose": 126.29,
-    "lastUpdated": "2025-04-15T21:43:16.512805"
+    "lastUpdated": "2025-04-15T21:54:27.683663"
   },
   "UHS": {
     "symbol": "UHS",
@@ -7877,7 +8061,7 @@
     "high": 178.1913,
     "low": 174.83,
     "previousClose": 178.82,
-    "lastUpdated": "2025-04-15T21:43:16.618543"
+    "lastUpdated": "2025-04-15T21:54:27.785380"
   },
   "ERIE": {
     "symbol": "ERIE",
@@ -7895,7 +8079,7 @@
     "high": 434,
     "low": 418,
     "previousClose": 423.93,
-    "lastUpdated": "2025-04-15T21:43:16.694973"
+    "lastUpdated": "2025-04-15T21:54:27.964250"
   },
   "TAP": {
     "symbol": "TAP",
@@ -7913,7 +8097,7 @@
     "high": 60.905,
     "low": 59.15,
     "previousClose": 60.66,
-    "lastUpdated": "2025-04-15T21:43:16.834463"
+    "lastUpdated": "2025-04-15T21:54:28.115568"
   },
   "KMX": {
     "symbol": "KMX",
@@ -7931,7 +8115,7 @@
     "high": 68.2,
     "low": 66.76,
     "previousClose": 67.5,
-    "lastUpdated": "2025-04-15T21:43:16.982172"
+    "lastUpdated": "2025-04-15T21:54:28.267867"
   },
   "PNW": {
     "symbol": "PNW",
@@ -7949,7 +8133,7 @@
     "high": 95,
     "low": 93.6,
     "previousClose": 93.71,
-    "lastUpdated": "2025-04-15T21:43:17.050387"
+    "lastUpdated": "2025-04-15T21:54:28.395055"
   },
   "GL": {
     "symbol": "GL",
@@ -7967,7 +8151,7 @@
     "high": 123.78,
     "low": 121.5615,
     "previousClose": 121.23,
-    "lastUpdated": "2025-04-15T21:43:17.127483"
+    "lastUpdated": "2025-04-15T21:54:28.584889"
   },
   "PAYC": {
     "symbol": "PAYC",
@@ -7985,7 +8169,7 @@
     "high": 221.74,
     "low": 218.14,
     "previousClose": 218.27,
-    "lastUpdated": "2025-04-15T21:43:17.209274"
+    "lastUpdated": "2025-04-15T21:54:28.712338"
   },
   "NDSN": {
     "symbol": "NDSN",
@@ -8003,7 +8187,7 @@
     "high": 186.26,
     "low": 182.29,
     "previousClose": 184.45,
-    "lastUpdated": "2025-04-15T21:43:17.288234"
+    "lastUpdated": "2025-04-15T21:54:28.900631"
   },
   "BG": {
     "symbol": "BG",
@@ -8021,7 +8205,7 @@
     "high": 77.01,
     "low": 75.46,
     "previousClose": 77.07,
-    "lastUpdated": "2025-04-15T21:43:17.374497"
+    "lastUpdated": "2025-04-15T21:54:29.069679"
   },
   "AIZ": {
     "symbol": "AIZ",
@@ -8039,7 +8223,7 @@
     "high": 197.78,
     "low": 193.21,
     "previousClose": 194.98,
-    "lastUpdated": "2025-04-15T21:43:17.456466"
+    "lastUpdated": "2025-04-15T21:54:29.272339"
   },
   "NWSA": {
     "symbol": "NWSA",
@@ -8057,7 +8241,7 @@
     "high": 26.57,
     "low": 26.27,
     "previousClose": 26.28,
-    "lastUpdated": "2025-04-15T21:43:17.522081"
+    "lastUpdated": "2025-04-15T21:54:29.377981"
   },
   "TKO": {
     "symbol": "TKO",
@@ -8075,7 +8259,7 @@
     "high": 150.8,
     "low": 147.9,
     "previousClose": 148.13,
-    "lastUpdated": "2025-04-15T21:43:17.582617"
+    "lastUpdated": "2025-04-15T21:54:29.540410"
   },
   "HST": {
     "symbol": "HST",
@@ -8093,7 +8277,7 @@
     "high": 13.915,
     "low": 13.56,
     "previousClose": 13.78,
-    "lastUpdated": "2025-04-15T21:43:17.641924"
+    "lastUpdated": "2025-04-15T21:54:29.635350"
   },
   "SWK": {
     "symbol": "SWK",
@@ -8111,7 +8295,7 @@
     "high": 60.833,
     "low": 58.83,
     "previousClose": 60.1,
-    "lastUpdated": "2025-04-15T21:43:17.707171"
+    "lastUpdated": "2025-04-15T21:54:29.754752"
   },
   "SOLV": {
     "symbol": "SOLV",
@@ -8129,7 +8313,7 @@
     "high": 68,
     "low": 65.37,
     "previousClose": 67.8,
-    "lastUpdated": "2025-04-15T21:43:17.786469"
+    "lastUpdated": "2025-04-15T21:54:29.863670"
   },
   "IPG": {
     "symbol": "IPG",
@@ -8147,7 +8331,7 @@
     "high": 25.435,
     "low": 25.035,
     "previousClose": 25.01,
-    "lastUpdated": "2025-04-15T21:43:17.850871"
+    "lastUpdated": "2025-04-15T21:54:29.961082"
   },
   "INCY": {
     "symbol": "INCY",
@@ -8165,7 +8349,7 @@
     "high": 59.95,
     "low": 58.22,
     "previousClose": 59.22,
-    "lastUpdated": "2025-04-15T21:43:17.919181"
+    "lastUpdated": "2025-04-15T21:54:30.124109"
   },
   "EMN": {
     "symbol": "EMN",
@@ -8183,7 +8367,7 @@
     "high": 79.33,
     "low": 76.88,
     "previousClose": 79.37,
-    "lastUpdated": "2025-04-15T21:43:17.980923"
+    "lastUpdated": "2025-04-15T21:54:30.298699"
   },
   "BXP": {
     "symbol": "BXP",
@@ -8201,7 +8385,7 @@
     "high": 63.84,
     "low": 62.4001,
     "previousClose": 62.84,
-    "lastUpdated": "2025-04-15T21:43:18.039759"
+    "lastUpdated": "2025-04-15T21:54:30.392529"
   },
   "VTRS": {
     "symbol": "VTRS",
@@ -8219,7 +8403,7 @@
     "high": 7.665,
     "low": 7.39,
     "previousClose": 7.63,
-    "lastUpdated": "2025-04-15T21:43:18.120290"
+    "lastUpdated": "2025-04-15T21:54:30.495334"
   },
   "SWKS": {
     "symbol": "SWKS",
@@ -8237,7 +8421,7 @@
     "high": 58.92,
     "low": 57.16,
     "previousClose": 57.72,
-    "lastUpdated": "2025-04-15T21:43:18.198586"
+    "lastUpdated": "2025-04-15T21:54:30.605389"
   },
   "HRL": {
     "symbol": "HRL",
@@ -8255,7 +8439,7 @@
     "high": 30.97,
     "low": 30.285,
     "previousClose": 30.55,
-    "lastUpdated": "2025-04-15T21:43:18.293308"
+    "lastUpdated": "2025-04-15T21:54:30.771917"
   },
   "DAY": {
     "symbol": "DAY",
@@ -8273,7 +8457,7 @@
     "high": 56.965,
     "low": 55.62,
     "previousClose": 56.16,
-    "lastUpdated": "2025-04-15T21:43:18.355514"
+    "lastUpdated": "2025-04-15T21:54:30.869840"
   },
   "MRNA": {
     "symbol": "MRNA",
@@ -8291,7 +8475,7 @@
     "high": 27.21,
     "low": 25.52,
     "previousClose": 26.8,
-    "lastUpdated": "2025-04-15T21:43:18.420569"
+    "lastUpdated": "2025-04-15T21:54:30.975147"
   },
   "EPAM": {
     "symbol": "EPAM",
@@ -8309,7 +8493,7 @@
     "high": 155.12,
     "low": 150.44,
     "previousClose": 151.97,
-    "lastUpdated": "2025-04-15T21:43:18.497954"
+    "lastUpdated": "2025-04-15T21:54:31.135870"
   },
   "MKTX": {
     "symbol": "MKTX",
@@ -8327,7 +8511,7 @@
     "high": 226.59,
     "low": 221.21,
     "previousClose": 222.42,
-    "lastUpdated": "2025-04-15T21:43:18.564101"
+    "lastUpdated": "2025-04-15T21:54:31.247599"
   },
   "HSIC": {
     "symbol": "HSIC",
@@ -8345,7 +8529,7 @@
     "high": 65.6099,
     "low": 63.74,
     "previousClose": 65.61,
-    "lastUpdated": "2025-04-15T21:43:18.620307"
+    "lastUpdated": "2025-04-15T21:54:31.428148"
   },
   "HII": {
     "symbol": "HII",
@@ -8363,7 +8547,7 @@
     "high": 221.5123,
     "low": 217.41,
     "previousClose": 219.95,
-    "lastUpdated": "2025-04-15T21:43:18.697065"
+    "lastUpdated": "2025-04-15T21:54:31.552772"
   },
   "RL": {
     "symbol": "RL",
@@ -8381,7 +8565,7 @@
     "high": 204.84,
     "low": 200.21,
     "previousClose": 201.75,
-    "lastUpdated": "2025-04-15T21:43:18.776755"
+    "lastUpdated": "2025-04-15T21:54:31.722549"
   },
   "TECH": {
     "symbol": "TECH",
@@ -8399,7 +8583,7 @@
     "high": 53,
     "low": 50.54,
     "previousClose": 52.535,
-    "lastUpdated": "2025-04-15T21:43:18.845503"
+    "lastUpdated": "2025-04-15T21:54:31.836776"
   },
   "LW": {
     "symbol": "LW",
@@ -8417,7 +8601,7 @@
     "high": 56.26,
     "low": 54.34,
     "previousClose": 55.98,
-    "lastUpdated": "2025-04-15T21:43:18.959215"
+    "lastUpdated": "2025-04-15T21:54:32.002914"
   },
   "WBA": {
     "symbol": "WBA",
@@ -8435,7 +8619,7 @@
     "high": 10.9,
     "low": 10.82,
     "previousClose": 10.91,
-    "lastUpdated": "2025-04-15T21:43:19.097210"
+    "lastUpdated": "2025-04-15T21:54:32.198237"
   },
   "MOS": {
     "symbol": "MOS",
@@ -8453,7 +8637,7 @@
     "high": 26.88,
     "low": 26.26,
     "previousClose": 26.58,
-    "lastUpdated": "2025-04-15T21:43:19.171840"
+    "lastUpdated": "2025-04-15T21:54:32.394256"
   },
   "AOS": {
     "symbol": "AOS",
@@ -8471,7 +8655,7 @@
     "high": 65.592,
     "low": 63.72,
     "previousClose": 65.2,
-    "lastUpdated": "2025-04-15T21:44:19.245112"
+    "lastUpdated": "2025-04-15T21:55:32.566369"
   },
   "CPB": {
     "symbol": "CPB",
@@ -8489,7 +8673,7 @@
     "high": 38.99,
     "low": 37.5247,
     "previousClose": 38.885,
-    "lastUpdated": "2025-04-15T21:44:19.312164"
+    "lastUpdated": "2025-04-15T21:55:32.670689"
   },
   "NCLH": {
     "symbol": "NCLH",
@@ -8507,7 +8691,7 @@
     "high": 16.6,
     "low": 16.17,
     "previousClose": 16.3,
-    "lastUpdated": "2025-04-15T21:44:19.366292"
+    "lastUpdated": "2025-04-15T21:55:32.769308"
   },
   "AES": {
     "symbol": "AES",
@@ -8525,7 +8709,7 @@
     "high": 10.67,
     "low": 10.21,
     "previousClose": 10.48,
-    "lastUpdated": "2025-04-15T21:44:19.429298"
+    "lastUpdated": "2025-04-15T21:55:32.937066"
   },
   "MTCH": {
     "symbol": "MTCH",
@@ -8543,7 +8727,7 @@
     "high": 29.32,
     "low": 28.66,
     "previousClose": 28.65,
-    "lastUpdated": "2025-04-15T21:44:19.505609"
+    "lastUpdated": "2025-04-15T21:55:33.123830"
   },
   "FRT": {
     "symbol": "FRT",
@@ -8561,7 +8745,7 @@
     "high": 93.295,
     "low": 91.99,
     "previousClose": 92.28,
-    "lastUpdated": "2025-04-15T21:44:19.586086"
+    "lastUpdated": "2025-04-15T21:55:33.310561"
   },
   "DVA": {
     "symbol": "DVA",
@@ -8579,7 +8763,7 @@
     "high": 151.71,
     "low": 145.64,
     "previousClose": 150.88,
-    "lastUpdated": "2025-04-15T21:44:19.655618"
+    "lastUpdated": "2025-04-15T21:55:33.412429"
   },
   "HAS": {
     "symbol": "HAS",
@@ -8597,7 +8781,7 @@
     "high": 53.69,
     "low": 51.9669,
     "previousClose": 53.35,
-    "lastUpdated": "2025-04-15T21:44:19.716387"
+    "lastUpdated": "2025-04-15T21:55:33.594260"
   },
   "ENPH": {
     "symbol": "ENPH",
@@ -8615,7 +8799,7 @@
     "high": 55.41,
     "low": 52.42,
     "previousClose": 54.55,
-    "lastUpdated": "2025-04-15T21:44:19.780588"
+    "lastUpdated": "2025-04-15T21:55:33.698063"
   },
   "PARA": {
     "symbol": "PARA",
@@ -8633,7 +8817,7 @@
     "high": 10.905,
     "low": 10.66,
     "previousClose": 10.69,
-    "lastUpdated": "2025-04-15T21:44:19.840730"
+    "lastUpdated": "2025-04-15T21:55:33.862336"
   },
   "MGM": {
     "symbol": "MGM",
@@ -8651,7 +8835,7 @@
     "high": 30.1566,
     "low": 29.465,
     "previousClose": 29.62,
-    "lastUpdated": "2025-04-15T21:44:19.903647"
+    "lastUpdated": "2025-04-15T21:55:33.968742"
   },
   "WYNN": {
     "symbol": "WYNN",
@@ -8669,7 +8853,7 @@
     "high": 75.6,
     "low": 73,
     "previousClose": 73.54,
-    "lastUpdated": "2025-04-15T21:44:19.975493"
+    "lastUpdated": "2025-04-15T21:55:34.079432"
   },
   "GNRC": {
     "symbol": "GNRC",
@@ -8687,7 +8871,7 @@
     "high": 114.6399,
     "low": 111.65,
     "previousClose": 113.43,
-    "lastUpdated": "2025-04-15T21:44:20.044672"
+    "lastUpdated": "2025-04-15T21:55:34.264745"
   },
   "ALB": {
     "symbol": "ALB",
@@ -8705,7 +8889,7 @@
     "high": 57.64,
     "low": 53.65,
     "previousClose": 57.39,
-    "lastUpdated": "2025-04-15T21:44:20.114999"
+    "lastUpdated": "2025-04-15T21:55:34.367612"
   },
   "BF.B": {
     "symbol": "BF.B",
@@ -8723,7 +8907,7 @@
     "high": 34.245,
     "low": 33.31,
     "previousClose": 34.45,
-    "lastUpdated": "2025-04-15T21:44:20.178732"
+    "lastUpdated": "2025-04-15T21:55:34.569524"
   },
   "FOX": {
     "symbol": "FOX",
@@ -8741,7 +8925,7 @@
     "high": 46.845,
     "low": 45.96,
     "previousClose": 46.04,
-    "lastUpdated": "2025-04-15T21:44:20.255130"
+    "lastUpdated": "2025-04-15T21:55:34.677652"
   },
   "IVZ": {
     "symbol": "IVZ",
@@ -8759,7 +8943,7 @@
     "high": 13.3,
     "low": 12.95,
     "previousClose": 12.97,
-    "lastUpdated": "2025-04-15T21:44:20.325451"
+    "lastUpdated": "2025-04-15T21:55:34.783673"
   },
   "BEN": {
     "symbol": "BEN",
@@ -8777,7 +8961,7 @@
     "high": 18.41,
     "low": 17.93,
     "previousClose": 18.06,
-    "lastUpdated": "2025-04-15T21:44:20.434832"
+    "lastUpdated": "2025-04-15T21:55:34.898983"
   },
   "APA": {
     "symbol": "APA",
@@ -8795,7 +8979,7 @@
     "high": 15.535,
     "low": 14.8101,
     "previousClose": 15.2,
-    "lastUpdated": "2025-04-15T21:44:20.537059"
+    "lastUpdated": "2025-04-15T21:55:35.018159"
   },
   "MHK": {
     "symbol": "MHK",
@@ -8813,7 +8997,7 @@
     "high": 106.04,
     "low": 102.865,
     "previousClose": 104.23,
-    "lastUpdated": "2025-04-15T21:44:20.605437"
+    "lastUpdated": "2025-04-15T21:55:35.117488"
   },
   "CZR": {
     "symbol": "CZR",
@@ -8831,7 +9015,7 @@
     "high": 25.83,
     "low": 24.98,
     "previousClose": 25.28,
-    "lastUpdated": "2025-04-15T21:44:20.678595"
+    "lastUpdated": "2025-04-15T21:55:35.233558"
   },
   "CRL": {
     "symbol": "CRL",
@@ -8849,7 +9033,7 @@
     "high": 107.58,
     "low": 104.69,
     "previousClose": 106.6,
-    "lastUpdated": "2025-04-15T21:44:20.729450"
+    "lastUpdated": "2025-04-15T21:55:35.389430"
   },
   "NWS": {
     "symbol": "NWS",
@@ -8867,6 +9051,6 @@
     "high": 30.785,
     "low": 30.411,
     "previousClose": 30.43,
-    "lastUpdated": "2025-04-15T21:44:20.799992"
+    "lastUpdated": "2025-04-15T21:55:35.489603"
   }
 }
