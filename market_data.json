@@ -1,1433 +1,1433 @@
 {
   "AAPL": {
     "symbol": "AAPL",
-    "currentPrice": 197.565,
-    "change": -4.575,
-    "percentChange": -2.2633,
+    "currentPrice": 196.81,
+    "change": -5.33,
+    "percentChange": -2.6368,
     "open": 200.32,
     "high": 200.7,
     "low": 196,
     "previousClose": 202.14,
-    "lastUpdated": "2025-04-16T15:48:03.581502"
+    "lastUpdated": "2025-04-16T16:11:59.710442"
   },
   "MSFT": {
     "symbol": "MSFT",
-    "currentPrice": 377.88,
-    "change": -7.85,
-    "percentChange": -2.0351,
+    "currentPrice": 377.425,
+    "change": -8.305,
+    "percentChange": -2.1531,
     "open": 382.38,
     "high": 382.38,
     "low": 375.9,
     "previousClose": 385.73,
-    "lastUpdated": "2025-04-16T15:48:03.661433"
+    "lastUpdated": "2025-04-16T16:11:59.945549"
   },
   "NVDA": {
     "symbol": "NVDA",
-    "currentPrice": 104.859,
-    "change": -7.341,
-    "percentChange": -6.5428,
+    "currentPrice": 104.11,
+    "change": -8.09,
+    "percentChange": -7.2103,
     "open": 105.78,
     "high": 106.79,
     "low": 103.8,
     "previousClose": 112.2,
-    "lastUpdated": "2025-04-16T15:48:03.727865"
+    "lastUpdated": "2025-04-16T16:12:00.586810"
   },
   "AMZN": {
     "symbol": "AMZN",
-    "currentPrice": 177.78,
-    "change": -1.81,
-    "percentChange": -1.0079,
+    "currentPrice": 177.21,
+    "change": -2.38,
+    "percentChange": -1.3252,
     "open": 177.54,
     "high": 179.1046,
     "low": 175.59,
     "previousClose": 179.59,
-    "lastUpdated": "2025-04-16T15:48:03.800312"
+    "lastUpdated": "2025-04-16T16:12:00.810973"
   },
   "META": {
     "symbol": "META",
-    "currentPrice": 510.245,
-    "change": -11.275,
-    "percentChange": -2.1619,
+    "currentPrice": 510.59,
+    "change": -10.93,
+    "percentChange": -2.0958,
     "open": 512.55,
     "high": 513.37,
     "low": 506.21,
     "previousClose": 521.52,
-    "lastUpdated": "2025-04-16T15:48:03.862493"
+    "lastUpdated": "2025-04-16T16:12:01.051729"
   },
   "BRK.B": {
     "symbol": "BRK.B",
-    "currentPrice": 524.8384,
-    "change": -3.3316,
-    "percentChange": -0.6308,
+    "currentPrice": 522.97,
+    "change": -5.2,
+    "percentChange": -0.9845,
     "open": 529.4,
     "high": 530.13,
     "low": 522.1,
     "previousClose": 528.17,
-    "lastUpdated": "2025-04-16T15:48:03.931369"
+    "lastUpdated": "2025-04-16T16:12:01.741262"
   },
   "GOOGL": {
     "symbol": "GOOGL",
-    "currentPrice": 155.11,
-    "change": -1.2,
-    "percentChange": -0.7677,
+    "currentPrice": 154.9575,
+    "change": -1.3525,
+    "percentChange": -0.8653,
     "open": 153.3,
     "high": 155.89,
     "low": 152.63,
     "previousClose": 156.31,
-    "lastUpdated": "2025-04-16T15:48:03.991181"
+    "lastUpdated": "2025-04-16T16:12:02.004211"
   },
   "AVGO": {
     "symbol": "AVGO",
-    "currentPrice": 174.29,
-    "change": -4.66,
-    "percentChange": -2.6041,
+    "currentPrice": 174,
+    "change": -4.95,
+    "percentChange": -2.7661,
     "open": 172.52,
     "high": 176.08,
     "low": 170,
     "previousClose": 178.95,
-    "lastUpdated": "2025-04-16T15:48:04.050840"
+    "lastUpdated": "2025-04-16T16:12:02.235554"
   },
   "GOOG": {
     "symbol": "GOOG",
-    "currentPrice": 157.43,
-    "change": -1.25,
-    "percentChange": -0.7877,
+    "currentPrice": 157.36,
+    "change": -1.32,
+    "percentChange": -0.8319,
     "open": 155.61,
     "high": 158.18,
     "low": 155.02,
     "previousClose": 158.68,
-    "lastUpdated": "2025-04-16T15:48:04.128095"
+    "lastUpdated": "2025-04-16T16:12:02.890429"
   },
   "TSLA": {
     "symbol": "TSLA",
-    "currentPrice": 249.95,
-    "change": -4.16,
-    "percentChange": -1.6371,
+    "currentPrice": 248.29,
+    "change": -5.82,
+    "percentChange": -2.2903,
     "open": 248.31,
     "high": 251.97,
     "low": 247.0301,
     "previousClose": 254.11,
-    "lastUpdated": "2025-04-16T15:48:04.198786"
+    "lastUpdated": "2025-04-16T16:12:03.133410"
   },
   "JPM": {
     "symbol": "JPM",
-    "currentPrice": 232.445,
-    "change": -0.685,
-    "percentChange": -0.2938,
+    "currentPrice": 231.67,
+    "change": -1.46,
+    "percentChange": -0.6263,
     "open": 232.63,
     "high": 233.58,
     "low": 230.37,
     "previousClose": 233.13,
-    "lastUpdated": "2025-04-16T15:48:04.273056"
+    "lastUpdated": "2025-04-16T16:12:03.788602"
   },
   "LLY": {
     "symbol": "LLY",
-    "currentPrice": 742.295,
-    "change": -14.885,
-    "percentChange": -1.9658,
+    "currentPrice": 742.71,
+    "change": -14.47,
+    "percentChange": -1.911,
     "open": 757.18,
     "high": 757.18,
     "low": 730.55,
     "previousClose": 757.18,
-    "lastUpdated": "2025-04-16T15:48:04.355520"
+    "lastUpdated": "2025-04-16T16:12:04.028548"
   },
   "V": {
     "symbol": "V",
-    "currentPrice": 335.81,
-    "change": 0,
-    "percentChange": 0,
+    "currentPrice": 335.17,
+    "change": -0.64,
+    "percentChange": -0.1906,
     "open": 335.7,
     "high": 337.2243,
     "low": 332.31,
     "previousClose": 335.81,
-    "lastUpdated": "2025-04-16T15:48:04.420059"
+    "lastUpdated": "2025-04-16T16:12:04.315675"
   },
   "UNH": {
     "symbol": "UNH",
-    "currentPrice": 592.065,
-    "change": 8.475,
-    "percentChange": 1.4522,
+    "currentPrice": 592.93,
+    "change": 9.34,
+    "percentChange": 1.6004,
     "open": 585.47,
     "high": 594.81,
     "low": 583.54,
     "previousClose": 583.59,
-    "lastUpdated": "2025-04-16T15:48:04.497802"
+    "lastUpdated": "2025-04-16T16:12:04.570529"
   },
   "XOM": {
     "symbol": "XOM",
-    "currentPrice": 104.855,
-    "change": 1.755,
-    "percentChange": 1.7022,
+    "currentPrice": 104.695,
+    "change": 1.595,
+    "percentChange": 1.547,
     "open": 103.76,
     "high": 105.16,
     "low": 103.76,
     "previousClose": 103.1,
-    "lastUpdated": "2025-04-16T15:48:04.569520"
+    "lastUpdated": "2025-04-16T16:12:05.268277"
   },
   "COST": {
     "symbol": "COST",
-    "currentPrice": 975.76,
-    "change": -1.16,
-    "percentChange": -0.1187,
+    "currentPrice": 974.78,
+    "change": -2.14,
+    "percentChange": -0.2191,
     "open": 977.02,
     "high": 978.65,
     "low": 964.5,
     "previousClose": 976.92,
-    "lastUpdated": "2025-04-16T15:48:04.656313"
+    "lastUpdated": "2025-04-16T16:12:05.894865"
   },
   "MA": {
     "symbol": "MA",
-    "currentPrice": 519.19,
-    "change": 1.81,
-    "percentChange": 0.3498,
+    "currentPrice": 517.88,
+    "change": 0.5,
+    "percentChange": 0.0966,
     "open": 517.96,
     "high": 521.72,
     "low": 513.17,
     "previousClose": 517.38,
-    "lastUpdated": "2025-04-16T15:48:04.724322"
+    "lastUpdated": "2025-04-16T16:12:06.141776"
   },
   "NFLX": {
     "symbol": "NFLX",
-    "currentPrice": 975.01,
-    "change": -1.27,
-    "percentChange": -0.1301,
+    "currentPrice": 973.1376,
+    "change": -3.1424,
+    "percentChange": -0.3219,
     "open": 979.93,
     "high": 981.21,
     "low": 961,
     "previousClose": 976.28,
-    "lastUpdated": "2025-04-16T15:48:04.795192"
+    "lastUpdated": "2025-04-16T16:12:06.764751"
   },
   "WMT": {
     "symbol": "WMT",
-    "currentPrice": 92.235,
-    "change": -1.735,
-    "percentChange": -1.8463,
+    "currentPrice": 91.96,
+    "change": -2.01,
+    "percentChange": -2.139,
     "open": 93.92,
     "high": 94.3,
     "low": 91.83,
     "previousClose": 93.97,
-    "lastUpdated": "2025-04-16T15:48:04.874636"
+    "lastUpdated": "2025-04-16T16:12:06.974471"
   },
   "PG": {
     "symbol": "PG",
-    "currentPrice": 168.96,
-    "change": 0.49,
-    "percentChange": 0.2909,
+    "currentPrice": 168.66,
+    "change": 0.19,
+    "percentChange": 0.1128,
     "open": 168.51,
     "high": 169.68,
     "low": 168.28,
     "previousClose": 168.47,
-    "lastUpdated": "2025-04-16T15:48:04.945535"
+    "lastUpdated": "2025-04-16T16:12:07.258389"
   },
   "JNJ": {
     "symbol": "JNJ",
-    "currentPrice": 154.74,
-    "change": 1.12,
-    "percentChange": 0.7291,
+    "currentPrice": 154.64,
+    "change": 1.02,
+    "percentChange": 0.664,
     "open": 154.68,
     "high": 155.63,
     "low": 152.24,
     "previousClose": 153.62,
-    "lastUpdated": "2025-04-16T15:48:05.010515"
+    "lastUpdated": "2025-04-16T16:12:07.538350"
   },
   "HD": {
     "symbol": "HD",
-    "currentPrice": 350.825,
-    "change": -3.285,
-    "percentChange": -0.9277,
+    "currentPrice": 349.85,
+    "change": -4.26,
+    "percentChange": -1.203,
     "open": 353.16,
     "high": 353.8,
-    "low": 349.635,
+    "low": 348.86,
     "previousClose": 354.11,
-    "lastUpdated": "2025-04-16T15:48:05.072773"
+    "lastUpdated": "2025-04-16T16:12:08.174363"
   },
   "ABBV": {
     "symbol": "ABBV",
-    "currentPrice": 173.28,
-    "change": -3.52,
-    "percentChange": -1.991,
+    "currentPrice": 172.55,
+    "change": -4.25,
+    "percentChange": -2.4038,
     "open": 177.7,
     "high": 177.7,
-    "low": 172.5,
+    "low": 172.22,
     "previousClose": 176.8,
-    "lastUpdated": "2025-04-16T15:48:05.148660"
+    "lastUpdated": "2025-04-16T16:12:08.468372"
   },
   "KO": {
     "symbol": "KO",
-    "currentPrice": 72.485,
-    "change": 0.625,
-    "percentChange": 0.8697,
+    "currentPrice": 72.285,
+    "change": 0.425,
+    "percentChange": 0.5914,
     "open": 72.17,
     "high": 72.665,
     "low": 72,
     "previousClose": 71.86,
-    "lastUpdated": "2025-04-16T15:48:05.206249"
+    "lastUpdated": "2025-04-16T16:12:08.724724"
   },
   "CRM": {
     "symbol": "CRM",
-    "currentPrice": 255.35,
-    "change": 0.42,
-    "percentChange": 0.1648,
+    "currentPrice": 254.8285,
+    "change": -0.1015,
+    "percentChange": -0.0398,
     "open": 252.46,
     "high": 256.61,
     "low": 251.39,
     "previousClose": 254.93,
-    "lastUpdated": "2025-04-16T15:48:05.295277"
+    "lastUpdated": "2025-04-16T16:12:09.389111"
   },
   "BAC": {
     "symbol": "BAC",
-    "currentPrice": 37.77,
-    "change": -0.22,
-    "percentChange": -0.5791,
+    "currentPrice": 37.705,
+    "change": -0.285,
+    "percentChange": -0.7502,
     "open": 37.9,
     "high": 38.155,
     "low": 37.415,
     "previousClose": 37.99,
-    "lastUpdated": "2025-04-16T15:48:05.384379"
+    "lastUpdated": "2025-04-16T16:12:09.592076"
   },
   "PM": {
     "symbol": "PM",
-    "currentPrice": 161.09,
-    "change": 1,
-    "percentChange": 0.6246,
+    "currentPrice": 160.76,
+    "change": 0.67,
+    "percentChange": 0.4185,
     "open": 161.03,
     "high": 162.16,
     "low": 160.4907,
     "previousClose": 160.09,
-    "lastUpdated": "2025-04-16T15:48:05.463015"
+    "lastUpdated": "2025-04-16T16:12:09.910331"
   },
   "CVX": {
     "symbol": "CVX",
-    "currentPrice": 137,
-    "change": 2.46,
-    "percentChange": 1.8285,
+    "currentPrice": 136.78,
+    "change": 2.24,
+    "percentChange": 1.6649,
     "open": 135.06,
     "high": 137.35,
     "low": 135.06,
     "previousClose": 134.54,
-    "lastUpdated": "2025-04-16T15:48:05.542785"
+    "lastUpdated": "2025-04-16T16:12:10.191331"
   },
   "CSCO": {
     "symbol": "CSCO",
-    "currentPrice": 56.775,
-    "change": -0.425,
-    "percentChange": -0.743,
+    "currentPrice": 56.745,
+    "change": -0.455,
+    "percentChange": -0.7955,
     "open": 57.22,
     "high": 57.22,
     "low": 56.39,
     "previousClose": 57.2,
-    "lastUpdated": "2025-04-16T15:48:05.618249"
+    "lastUpdated": "2025-04-16T16:12:10.442778"
   },
   "MCD": {
     "symbol": "MCD",
-    "currentPrice": 312.44,
-    "change": -0.04,
-    "percentChange": -0.0128,
+    "currentPrice": 311.96,
+    "change": -0.52,
+    "percentChange": -0.1664,
     "open": 313.51,
     "high": 314.29,
     "low": 311.48,
     "previousClose": 312.48,
-    "lastUpdated": "2025-04-16T15:48:05.691558"
+    "lastUpdated": "2025-04-16T16:12:10.648941"
   },
   "ORCL": {
     "symbol": "ORCL",
-    "currentPrice": 131.69,
-    "change": -2.25,
-    "percentChange": -1.6799,
+    "currentPrice": 131.605,
+    "change": -2.335,
+    "percentChange": -1.7433,
     "open": 132.14,
     "high": 132.5368,
     "low": 129.79,
     "previousClose": 133.94,
-    "lastUpdated": "2025-04-16T15:48:05.761512"
+    "lastUpdated": "2025-04-16T16:12:11.374689"
   },
   "ABT": {
     "symbol": "ABT",
-    "currentPrice": 133.76,
-    "change": 7.54,
-    "percentChange": 5.9737,
+    "currentPrice": 133.03,
+    "change": 6.81,
+    "percentChange": 5.3953,
     "open": 126.6,
     "high": 134.16,
     "low": 126.6,
     "previousClose": 126.22,
-    "lastUpdated": "2025-04-16T15:48:05.841091"
+    "lastUpdated": "2025-04-16T16:12:12.051948"
   },
   "IBM": {
     "symbol": "IBM",
-    "currentPrice": 242.25,
-    "change": 1.55,
-    "percentChange": 0.644,
+    "currentPrice": 241.6,
+    "change": 0.9,
+    "percentChange": 0.3739,
     "open": 240.2,
     "high": 243.2999,
     "low": 240.1,
     "previousClose": 240.7,
-    "lastUpdated": "2025-04-16T15:48:05.926861"
+    "lastUpdated": "2025-04-16T16:12:12.270470"
   },
   "WFC": {
     "symbol": "WFC",
-    "currentPrice": 64.79,
-    "change": 0.25,
-    "percentChange": 0.3874,
+    "currentPrice": 64.52,
+    "change": -0.02,
+    "percentChange": -0.031,
     "open": 64.22,
     "high": 64.9765,
     "low": 63.89,
     "previousClose": 64.54,
-    "lastUpdated": "2025-04-16T15:48:06.003436"
+    "lastUpdated": "2025-04-16T16:12:12.472918"
   },
   "LIN": {
     "symbol": "LIN",
-    "currentPrice": 454.035,
-    "change": 3.065,
-    "percentChange": 0.6796,
+    "currentPrice": 452.97,
+    "change": 2,
+    "percentChange": 0.4435,
     "open": 451.5,
     "high": 454.83,
     "low": 449.27,
     "previousClose": 450.97,
-    "lastUpdated": "2025-04-16T15:48:06.089047"
+    "lastUpdated": "2025-04-16T16:12:13.346050"
   },
   "PEP": {
     "symbol": "PEP",
-    "currentPrice": 142.31,
-    "change": -0.53,
-    "percentChange": -0.371,
+    "currentPrice": 142.085,
+    "change": -0.755,
+    "percentChange": -0.5286,
     "open": 143.8,
     "high": 144.4,
     "low": 141.71,
     "previousClose": 142.84,
-    "lastUpdated": "2025-04-16T15:48:06.153587"
+    "lastUpdated": "2025-04-16T16:12:13.659417"
   },
   "MRK": {
     "symbol": "MRK",
-    "currentPrice": 77.685,
-    "change": -0.705,
-    "percentChange": -0.8993,
+    "currentPrice": 77.66,
+    "change": -0.73,
+    "percentChange": -0.9312,
     "open": 78.71,
     "high": 78.71,
     "low": 77.2,
     "previousClose": 78.39,
-    "lastUpdated": "2025-04-16T15:48:06.235494"
+    "lastUpdated": "2025-04-16T16:12:13.870408"
   },
   "GE": {
     "symbol": "GE",
-    "currentPrice": 184.79,
-    "change": -0.88,
-    "percentChange": -0.474,
+    "currentPrice": 184.35,
+    "change": -1.32,
+    "percentChange": -0.7109,
     "open": 183.48,
     "high": 185.88,
     "low": 182.6514,
     "previousClose": 185.67,
-    "lastUpdated": "2025-04-16T15:48:06.321609"
+    "lastUpdated": "2025-04-16T16:12:14.529740"
   },
   "T": {
     "symbol": "T",
-    "currentPrice": 27.555,
-    "change": 0.055,
-    "percentChange": 0.2,
+    "currentPrice": 27.475,
+    "change": -0.025,
+    "percentChange": -0.0909,
     "open": 27.54,
     "high": 27.78,
-    "low": 27.505,
+    "low": 27.45,
     "previousClose": 27.5,
-    "lastUpdated": "2025-04-16T15:48:06.403603"
+    "lastUpdated": "2025-04-16T16:12:14.786106"
   },
   "PLTR": {
     "symbol": "PLTR",
-    "currentPrice": 93.9244,
-    "change": -4.4756,
-    "percentChange": -4.5484,
+    "currentPrice": 93.95,
+    "change": -4.45,
+    "percentChange": -4.5224,
     "open": 96.27,
     "high": 97.3,
-    "low": 93.67,
+    "low": 93.52,
     "previousClose": 98.4,
-    "lastUpdated": "2025-04-16T15:48:06.483422"
+    "lastUpdated": "2025-04-16T16:12:15.467205"
   },
   "VZ": {
     "symbol": "VZ",
-    "currentPrice": 44.435,
-    "change": -0.045,
-    "percentChange": -0.1012,
+    "currentPrice": 44.285,
+    "change": -0.195,
+    "percentChange": -0.4384,
     "open": 44.71,
     "high": 44.89,
-    "low": 44.43,
+    "low": 44.27,
     "previousClose": 44.48,
-    "lastUpdated": "2025-04-16T15:48:06.552996"
+    "lastUpdated": "2025-04-16T16:12:16.090546"
   },
   "ACN": {
     "symbol": "ACN",
-    "currentPrice": 290.93,
-    "change": 2.27,
-    "percentChange": 0.7864,
+    "currentPrice": 290.075,
+    "change": 1.415,
+    "percentChange": 0.4902,
     "open": 287.5,
     "high": 292.5,
     "low": 287.0101,
     "previousClose": 288.66,
-    "lastUpdated": "2025-04-16T15:48:06.614096"
+    "lastUpdated": "2025-04-16T16:12:16.735535"
   },
   "ISRG": {
     "symbol": "ISRG",
-    "currentPrice": 490.0385,
-    "change": 1.7685,
-    "percentChange": 0.3622,
+    "currentPrice": 489.8,
+    "change": 1.53,
+    "percentChange": 0.3134,
     "open": 487.27,
     "high": 492.04,
     "low": 478.09,
     "previousClose": 488.27,
-    "lastUpdated": "2025-04-16T15:48:06.690260"
+    "lastUpdated": "2025-04-16T16:12:16.937680"
   },
   "RTX": {
     "symbol": "RTX",
-    "currentPrice": 130.045,
-    "change": 1.405,
-    "percentChange": 1.0922,
+    "currentPrice": 129.85,
+    "change": 1.21,
+    "percentChange": 0.9406,
     "open": 129.03,
     "high": 130.2036,
     "low": 128.8586,
     "previousClose": 128.64,
-    "lastUpdated": "2025-04-16T15:48:06.782047"
+    "lastUpdated": "2025-04-16T16:12:17.177730"
   },
   "TMO": {
     "symbol": "TMO",
-    "currentPrice": 441.89,
-    "change": 0.89,
-    "percentChange": 0.2018,
+    "currentPrice": 440.5,
+    "change": -0.5,
+    "percentChange": -0.1134,
     "open": 445,
     "high": 445.935,
     "low": 437.21,
     "previousClose": 441,
-    "lastUpdated": "2025-04-16T15:48:06.867005"
+    "lastUpdated": "2025-04-16T16:12:17.376056"
   },
   "INTU": {
     "symbol": "INTU",
-    "currentPrice": 592.3996,
-    "change": -1.6804,
-    "percentChange": -0.2829,
+    "currentPrice": 591.14,
+    "change": -2.94,
+    "percentChange": -0.4949,
     "open": 588.99,
     "high": 595.21,
     "low": 585.57,
     "previousClose": 594.08,
-    "lastUpdated": "2025-04-16T15:48:06.938056"
+    "lastUpdated": "2025-04-16T16:12:17.603586"
   },
   "NOW": {
     "symbol": "NOW",
-    "currentPrice": 814.5524,
-    "change": -1.9476,
-    "percentChange": -0.2385,
+    "currentPrice": 814.87,
+    "change": -1.63,
+    "percentChange": -0.1996,
     "open": 810,
     "high": 821.17,
     "low": 804.61,
     "previousClose": 816.5,
-    "lastUpdated": "2025-04-16T15:48:07.001374"
+    "lastUpdated": "2025-04-16T16:12:17.910472"
   },
   "PGR": {
     "symbol": "PGR",
-    "currentPrice": 282.225,
-    "change": 6.115,
-    "percentChange": 2.2147,
+    "currentPrice": 280.83,
+    "change": 4.72,
+    "percentChange": 1.7095,
     "open": 276.56,
     "high": 283.5,
     "low": 276.56,
     "previousClose": 276.11,
-    "lastUpdated": "2025-04-16T15:48:07.079125"
+    "lastUpdated": "2025-04-16T16:12:18.123278"
   },
   "DIS": {
     "symbol": "DIS",
-    "currentPrice": 83.385,
-    "change": -1.625,
-    "percentChange": -1.9115,
+    "currentPrice": 83.13,
+    "change": -1.88,
+    "percentChange": -2.2115,
     "open": 84.95,
     "high": 84.95,
-    "low": 83.015,
+    "low": 82.9501,
     "previousClose": 85.01,
-    "lastUpdated": "2025-04-16T15:48:07.152065"
+    "lastUpdated": "2025-04-16T16:12:18.356777"
   },
   "GS": {
     "symbol": "GS",
-    "currentPrice": 506.84,
-    "change": -1.05,
-    "percentChange": -0.2067,
+    "currentPrice": 505.41,
+    "change": -2.48,
+    "percentChange": -0.4883,
     "open": 507.41,
     "high": 509.45,
     "low": 500,
     "previousClose": 507.89,
-    "lastUpdated": "2025-04-16T15:48:07.225592"
+    "lastUpdated": "2025-04-16T16:12:18.661584"
   },
   "ADBE": {
     "symbol": "ADBE",
-    "currentPrice": 348.115,
-    "change": -2.265,
-    "percentChange": -0.6464,
+    "currentPrice": 349.645,
+    "change": -0.735,
+    "percentChange": -0.2098,
     "open": 348.82,
     "high": 349.91,
     "low": 342.89,
     "previousClose": 350.38,
-    "lastUpdated": "2025-04-16T15:48:07.293401"
+    "lastUpdated": "2025-04-16T16:12:19.320471"
   },
   "AMGN": {
     "symbol": "AMGN",
-    "currentPrice": 288.23,
-    "change": -7.07,
-    "percentChange": -2.3942,
+    "currentPrice": 286.86,
+    "change": -8.44,
+    "percentChange": -2.8581,
     "open": 296.28,
     "high": 296.28,
-    "low": 286.9,
+    "low": 286.75,
     "previousClose": 295.3,
-    "lastUpdated": "2025-04-16T15:48:07.368018"
+    "lastUpdated": "2025-04-16T16:12:19.554056"
   },
   "BKNG": {
     "symbol": "BKNG",
-    "currentPrice": 4606.57,
-    "change": -5.87,
-    "percentChange": -0.1273,
+    "currentPrice": 4594.045,
+    "change": -18.395,
+    "percentChange": -0.3988,
     "open": 4603.07,
     "high": 4627.76,
     "low": 4556.7,
     "previousClose": 4612.44,
-    "lastUpdated": "2025-04-16T15:48:07.444719"
+    "lastUpdated": "2025-04-16T16:12:19.761051"
   },
   "QCOM": {
     "symbol": "QCOM",
-    "currentPrice": 136.23,
-    "change": -2.37,
-    "percentChange": -1.71,
+    "currentPrice": 135.66,
+    "change": -2.94,
+    "percentChange": -2.1212,
     "open": 135.64,
     "high": 137.31,
     "low": 133.58,
     "previousClose": 138.6,
-    "lastUpdated": "2025-04-16T15:48:07.509798"
+    "lastUpdated": "2025-04-16T16:12:20.405208"
   },
   "UBER": {
     "symbol": "UBER",
-    "currentPrice": 74.52,
-    "change": 0.5,
-    "percentChange": 0.6755,
+    "currentPrice": 74.41,
+    "change": 0.39,
+    "percentChange": 0.5269,
     "open": 73.61,
     "high": 74.8,
     "low": 72.66,
     "previousClose": 74.02,
-    "lastUpdated": "2025-04-16T15:48:07.594849"
+    "lastUpdated": "2025-04-16T16:12:21.055108"
   },
   "SPGI": {
     "symbol": "SPGI",
-    "currentPrice": 469.27,
-    "change": -1.44,
-    "percentChange": -0.3059,
+    "currentPrice": 468.35,
+    "change": -2.36,
+    "percentChange": -0.5014,
     "open": 474.64,
     "high": 474.64,
     "low": 465.45,
     "previousClose": 470.71,
-    "lastUpdated": "2025-04-16T15:48:07.678897"
+    "lastUpdated": "2025-04-16T16:12:21.333339"
   },
   "AMD": {
     "symbol": "AMD",
-    "currentPrice": 89.535,
-    "change": -5.755,
-    "percentChange": -6.0395,
+    "currentPrice": 88.87,
+    "change": -6.42,
+    "percentChange": -6.7373,
     "open": 88.79,
     "high": 90.47,
     "low": 87.59,
     "previousClose": 95.29,
-    "lastUpdated": "2025-04-16T15:48:07.753226"
+    "lastUpdated": "2025-04-16T16:12:21.584080"
   },
   "TJX": {
     "symbol": "TJX",
-    "currentPrice": 127.93,
-    "change": -0.57,
-    "percentChange": -0.4436,
+    "currentPrice": 127.895,
+    "change": -0.605,
+    "percentChange": -0.4708,
     "open": 129.24,
     "high": 129.27,
     "low": 127.56,
     "previousClose": 128.5,
-    "lastUpdated": "2025-04-16T15:48:07.819717"
+    "lastUpdated": "2025-04-16T16:12:21.819811"
   },
   "TXN": {
     "symbol": "TXN",
-    "currentPrice": 148.23,
-    "change": -2.95,
-    "percentChange": -1.9513,
+    "currentPrice": 147.73,
+    "change": -3.45,
+    "percentChange": -2.282,
     "open": 149.11,
     "high": 149.7316,
     "low": 146.75,
     "previousClose": 151.18,
-    "lastUpdated": "2025-04-16T15:48:07.901975"
+    "lastUpdated": "2025-04-16T16:12:22.058159"
   },
   "CAT": {
     "symbol": "CAT",
-    "currentPrice": 294.06,
-    "change": 0.63,
-    "percentChange": 0.2147,
+    "currentPrice": 294.23,
+    "change": 0.8,
+    "percentChange": 0.2726,
     "open": 294.4,
     "high": 295.7309,
     "low": 291.47,
     "previousClose": 293.43,
-    "lastUpdated": "2025-04-16T15:48:07.959295"
+    "lastUpdated": "2025-04-16T16:12:22.696606"
   },
   "NEE": {
     "symbol": "NEE",
-    "currentPrice": 67.535,
-    "change": -0.125,
-    "percentChange": -0.1847,
+    "currentPrice": 67.1,
+    "change": -0.56,
+    "percentChange": -0.8277,
     "open": 67.91,
     "high": 68.045,
     "low": 67.0867,
     "previousClose": 67.66,
-    "lastUpdated": "2025-04-16T15:49:08.031419"
+    "lastUpdated": "2025-04-16T16:13:22.939867"
   },
   "AXP": {
     "symbol": "AXP",
-    "currentPrice": 257.37,
-    "change": -0.49,
-    "percentChange": -0.19,
+    "currentPrice": 256.455,
+    "change": -1.405,
+    "percentChange": -0.5449,
     "open": 257.31,
     "high": 258.94,
     "low": 254.12,
     "previousClose": 257.86,
-    "lastUpdated": "2025-04-16T15:49:08.091380"
+    "lastUpdated": "2025-04-16T16:13:23.626097"
   },
   "BSX": {
     "symbol": "BSX",
-    "currentPrice": 96.535,
-    "change": 2.305,
-    "percentChange": 2.4461,
+    "currentPrice": 96.15,
+    "change": 1.92,
+    "percentChange": 2.0376,
     "open": 94.55,
     "high": 96.69,
     "low": 94.04,
     "previousClose": 94.23,
-    "lastUpdated": "2025-04-16T15:49:08.143186"
+    "lastUpdated": "2025-04-16T16:13:23.915546"
   },
   "UNP": {
     "symbol": "UNP",
-    "currentPrice": 219.4,
-    "change": -0.68,
-    "percentChange": -0.309,
+    "currentPrice": 219.08,
+    "change": -1,
+    "percentChange": -0.4544,
     "open": 219.12,
     "high": 220.535,
     "low": 217.52,
     "previousClose": 220.08,
-    "lastUpdated": "2025-04-16T15:49:08.252823"
+    "lastUpdated": "2025-04-16T16:13:24.159738"
   },
   "MS": {
     "symbol": "MS",
-    "currentPrice": 109.25,
-    "change": -1.19,
-    "percentChange": -1.0775,
+    "currentPrice": 109,
+    "change": -1.44,
+    "percentChange": -1.3039,
     "open": 110.34,
     "high": 110.34,
     "low": 108.57,
     "previousClose": 110.44,
-    "lastUpdated": "2025-04-16T15:49:08.321562"
+    "lastUpdated": "2025-04-16T16:13:24.367195"
   },
   "CMCSA": {
     "symbol": "CMCSA",
-    "currentPrice": 34.11,
-    "change": -0.29,
-    "percentChange": -0.843,
+    "currentPrice": 33.99,
+    "change": -0.41,
+    "percentChange": -1.1919,
     "open": 34.48,
     "high": 34.48,
-    "low": 34.095,
+    "low": 33.95,
     "previousClose": 34.4,
-    "lastUpdated": "2025-04-16T15:49:08.403650"
+    "lastUpdated": "2025-04-16T16:13:24.667395"
   },
   "GILD": {
     "symbol": "GILD",
-    "currentPrice": 105.97,
-    "change": 0.29,
-    "percentChange": 0.2744,
+    "currentPrice": 105.84,
+    "change": 0.16,
+    "percentChange": 0.1514,
     "open": 105.97,
     "high": 106.4,
     "low": 104.985,
     "previousClose": 105.68,
-    "lastUpdated": "2025-04-16T15:49:08.459784"
+    "lastUpdated": "2025-04-16T16:13:24.881175"
   },
   "SCHW": {
     "symbol": "SCHW",
-    "currentPrice": 76.42,
-    "change": -0.77,
-    "percentChange": -0.9975,
+    "currentPrice": 76.08,
+    "change": -1.11,
+    "percentChange": -1.438,
     "open": 76.3,
     "high": 76.75,
     "low": 75.9,
     "previousClose": 77.19,
-    "lastUpdated": "2025-04-16T15:49:08.516797"
+    "lastUpdated": "2025-04-16T16:13:25.127305"
   },
   "HON": {
     "symbol": "HON",
-    "currentPrice": 196.7158,
-    "change": -2.0942,
-    "percentChange": -1.0534,
+    "currentPrice": 196.73,
+    "change": -2.08,
+    "percentChange": -1.0462,
     "open": 199.33,
     "high": 199.33,
     "low": 195.65,
     "previousClose": 198.81,
-    "lastUpdated": "2025-04-16T15:49:08.582170"
+    "lastUpdated": "2025-04-16T16:13:25.765915"
   },
   "BLK": {
     "symbol": "BLK",
-    "currentPrice": 874.96,
-    "change": -13.48,
-    "percentChange": -1.5173,
+    "currentPrice": 874.4,
+    "change": -14.04,
+    "percentChange": -1.5803,
     "open": 884.31,
     "high": 886.895,
     "low": 870.3901,
     "previousClose": 888.44,
-    "lastUpdated": "2025-04-16T15:49:08.641800"
+    "lastUpdated": "2025-04-16T16:13:25.964795"
   },
   "LOW": {
     "symbol": "LOW",
-    "currentPrice": 218.06,
-    "change": -2.45,
-    "percentChange": -1.1111,
+    "currentPrice": 217.57,
+    "change": -2.94,
+    "percentChange": -1.3333,
     "open": 220,
     "high": 221.35,
-    "low": 217.81,
+    "low": 217.26,
     "previousClose": 220.51,
-    "lastUpdated": "2025-04-16T15:49:08.719895"
+    "lastUpdated": "2025-04-16T16:13:26.280347"
   },
   "TMUS": {
     "symbol": "TMUS",
-    "currentPrice": 265.125,
-    "change": -1.585,
-    "percentChange": -0.5943,
+    "currentPrice": 263.85,
+    "change": -2.86,
+    "percentChange": -1.0723,
     "open": 268.1,
     "high": 268.1,
-    "low": 264.14,
+    "low": 263.7,
     "previousClose": 266.71,
-    "lastUpdated": "2025-04-16T15:49:08.772490"
+    "lastUpdated": "2025-04-16T16:13:26.519986"
   },
   "PFE": {
     "symbol": "PFE",
-    "currentPrice": 22.375,
-    "change": -0.065,
-    "percentChange": -0.2897,
+    "currentPrice": 22.365,
+    "change": -0.075,
+    "percentChange": -0.3342,
     "open": 22.53,
     "high": 22.68,
     "low": 22.21,
     "previousClose": 22.44,
-    "lastUpdated": "2025-04-16T15:49:08.840661"
+    "lastUpdated": "2025-04-16T16:13:26.772459"
   },
   "VRTX": {
     "symbol": "VRTX",
-    "currentPrice": 492.495,
-    "change": -7.995,
-    "percentChange": -1.5974,
+    "currentPrice": 490.68,
+    "change": -9.81,
+    "percentChange": -1.9601,
     "open": 501.29,
     "high": 502.22,
     "low": 488.2,
     "previousClose": 500.49,
-    "lastUpdated": "2025-04-16T15:49:08.908105"
+    "lastUpdated": "2025-04-16T16:13:27.444939"
   },
   "SYK": {
     "symbol": "SYK",
-    "currentPrice": 351.325,
-    "change": 4.525,
-    "percentChange": 1.3048,
+    "currentPrice": 350.6121,
+    "change": 3.8121,
+    "percentChange": 1.0992,
     "open": 348.5,
     "high": 352.58,
     "low": 345,
     "previousClose": 346.8,
-    "lastUpdated": "2025-04-16T15:49:08.970174"
+    "lastUpdated": "2025-04-16T16:13:28.136303"
   },
   "ADP": {
     "symbol": "ADP",
-    "currentPrice": 298.31,
-    "change": 0.25,
-    "percentChange": 0.0839,
+    "currentPrice": 297.52,
+    "change": -0.54,
+    "percentChange": -0.1812,
     "open": 298,
     "high": 299.2,
     "low": 295.93,
     "previousClose": 298.06,
-    "lastUpdated": "2025-04-16T15:49:09.042662"
+    "lastUpdated": "2025-04-16T16:13:28.377428"
   },
   "BA": {
     "symbol": "BA",
-    "currentPrice": 156.6,
-    "change": 1.08,
-    "percentChange": 0.6944,
+    "currentPrice": 156.9,
+    "change": 1.38,
+    "percentChange": 0.8873,
     "open": 155.42,
     "high": 157.295,
     "low": 153.545,
     "previousClose": 155.52,
-    "lastUpdated": "2025-04-16T15:49:09.118030"
+    "lastUpdated": "2025-04-16T16:13:28.611938"
   },
   "FI": {
     "symbol": "FI",
-    "currentPrice": 213.435,
-    "change": 0.605,
-    "percentChange": 0.2843,
+    "currentPrice": 212.95,
+    "change": 0.12,
+    "percentChange": 0.0564,
     "open": 212.93,
     "high": 214.32,
     "low": 210.72,
     "previousClose": 212.83,
-    "lastUpdated": "2025-04-16T15:49:09.183426"
+    "lastUpdated": "2025-04-16T16:13:29.273399"
   },
   "DHR": {
     "symbol": "DHR",
-    "currentPrice": 192.6,
-    "change": 2.68,
-    "percentChange": 1.4111,
+    "currentPrice": 192.08,
+    "change": 2.16,
+    "percentChange": 1.1373,
     "open": 192.25,
     "high": 195.95,
     "low": 190.37,
     "previousClose": 189.92,
-    "lastUpdated": "2025-04-16T15:49:09.249877"
+    "lastUpdated": "2025-04-16T16:13:29.890542"
   },
   "C": {
     "symbol": "C",
-    "currentPrice": 62.84,
-    "change": -1.49,
-    "percentChange": -2.3162,
+    "currentPrice": 62.725,
+    "change": -1.605,
+    "percentChange": -2.4949,
     "open": 64.02,
     "high": 64.02,
     "low": 62.23,
     "previousClose": 64.33,
-    "lastUpdated": "2025-04-16T15:49:09.322985"
+    "lastUpdated": "2025-04-16T16:13:30.513060"
   },
   "DE": {
     "symbol": "DE",
-    "currentPrice": 459.13,
-    "change": -2.13,
-    "percentChange": -0.4618,
+    "currentPrice": 458.61,
+    "change": -2.65,
+    "percentChange": -0.5745,
     "open": 462.2,
     "high": 462.2,
     "low": 450.84,
     "previousClose": 461.26,
-    "lastUpdated": "2025-04-16T15:49:09.395246"
+    "lastUpdated": "2025-04-16T16:13:31.189823"
   },
   "AMAT": {
     "symbol": "AMAT",
-    "currentPrice": 139.82,
-    "change": -5.63,
-    "percentChange": -3.8707,
+    "currentPrice": 139.3035,
+    "change": -6.1465,
+    "percentChange": -4.2259,
     "open": 140.89,
     "high": 141.08,
     "low": 137.75,
     "previousClose": 145.45,
-    "lastUpdated": "2025-04-16T15:49:09.469130"
+    "lastUpdated": "2025-04-16T16:13:31.405569"
   },
   "MMC": {
     "symbol": "MMC",
-    "currentPrice": 235,
-    "change": 2.64,
-    "percentChange": 1.1362,
+    "currentPrice": 234.205,
+    "change": 1.845,
+    "percentChange": 0.794,
     "open": 235.82,
     "high": 235.82,
     "low": 231.865,
     "previousClose": 232.36,
-    "lastUpdated": "2025-04-16T15:49:09.554035"
+    "lastUpdated": "2025-04-16T16:13:31.644539"
   },
   "PANW": {
     "symbol": "PANW",
-    "currentPrice": 172.715,
-    "change": -0.835,
-    "percentChange": -0.4811,
+    "currentPrice": 172.565,
+    "change": -0.985,
+    "percentChange": -0.5676,
     "open": 171.98,
     "high": 173.85,
     "low": 170.47,
     "previousClose": 173.55,
-    "lastUpdated": "2025-04-16T15:49:09.624819"
+    "lastUpdated": "2025-04-16T16:13:31.879858"
   },
   "ETN": {
     "symbol": "ETN",
-    "currentPrice": 272.84,
-    "change": -4.28,
-    "percentChange": -1.5445,
+    "currentPrice": 272.23,
+    "change": -4.89,
+    "percentChange": -1.7646,
     "open": 272.1,
     "high": 276.2,
     "low": 271.17,
     "previousClose": 277.12,
-    "lastUpdated": "2025-04-16T15:49:09.697331"
+    "lastUpdated": "2025-04-16T16:13:32.158316"
   },
   "COP": {
     "symbol": "COP",
-    "currentPrice": 87.94,
-    "change": 2.22,
-    "percentChange": 2.5898,
+    "currentPrice": 87.65,
+    "change": 1.93,
+    "percentChange": 2.2515,
     "open": 86.42,
     "high": 88.3099,
     "low": 86.105,
     "previousClose": 85.72,
-    "lastUpdated": "2025-04-16T15:49:09.768286"
+    "lastUpdated": "2025-04-16T16:13:32.461231"
   },
   "MDT": {
     "symbol": "MDT",
-    "currentPrice": 84.275,
-    "change": 1.905,
-    "percentChange": 2.3127,
+    "currentPrice": 84.08,
+    "change": 1.71,
+    "percentChange": 2.076,
     "open": 82.2,
     "high": 84.49,
     "low": 82.2,
     "previousClose": 82.37,
-    "lastUpdated": "2025-04-16T15:49:09.829692"
+    "lastUpdated": "2025-04-16T16:13:33.101377"
   },
   "CB": {
     "symbol": "CB",
-    "currentPrice": 290.215,
-    "change": 5.415,
-    "percentChange": 1.9013,
+    "currentPrice": 289.42,
+    "change": 4.62,
+    "percentChange": 1.6222,
     "open": 289.16,
     "high": 290.47,
     "low": 285.79,
     "previousClose": 284.8,
-    "lastUpdated": "2025-04-16T15:49:09.904255"
+    "lastUpdated": "2025-04-16T16:13:33.342381"
   },
   "BMY": {
     "symbol": "BMY",
-    "currentPrice": 49.8019,
-    "change": -0.1981,
-    "percentChange": -0.3962,
+    "currentPrice": 49.665,
+    "change": -0.335,
+    "percentChange": -0.67,
     "open": 50.08,
     "high": 50.4,
     "low": 49.215,
     "previousClose": 50,
-    "lastUpdated": "2025-04-16T15:49:09.987366"
+    "lastUpdated": "2025-04-16T16:13:33.548421"
   },
   "ELV": {
     "symbol": "ELV",
-    "currentPrice": 439.98,
-    "change": 2.21,
-    "percentChange": 0.5048,
+    "currentPrice": 439.36,
+    "change": 1.59,
+    "percentChange": 0.3632,
     "open": 437.58,
     "high": 441.3899,
     "low": 436.25,
     "previousClose": 437.77,
-    "lastUpdated": "2025-04-16T15:49:10.060545"
+    "lastUpdated": "2025-04-16T16:13:33.751897"
   },
   "SO": {
     "symbol": "SO",
-    "currentPrice": 91.55,
-    "change": 0.53,
-    "percentChange": 0.5823,
+    "currentPrice": 91.14,
+    "change": 0.12,
+    "percentChange": 0.1318,
     "open": 91.84,
     "high": 91.9,
     "low": 91.0348,
     "previousClose": 91.02,
-    "lastUpdated": "2025-04-16T15:49:10.140726"
+    "lastUpdated": "2025-04-16T16:13:33.987320"
   },
   "LMT": {
     "symbol": "LMT",
-    "currentPrice": 480.74,
-    "change": 11.16,
-    "percentChange": 2.3766,
+    "currentPrice": 479.98,
+    "change": 10.4,
+    "percentChange": 2.2147,
     "open": 478,
     "high": 482.8156,
     "low": 474.53,
     "previousClose": 469.58,
-    "lastUpdated": "2025-04-16T15:49:10.220599"
+    "lastUpdated": "2025-04-16T16:13:34.650044"
   },
   "AMT": {
     "symbol": "AMT",
-    "currentPrice": 220.01,
-    "change": 2,
-    "percentChange": 0.9174,
+    "currentPrice": 219.59,
+    "change": 1.58,
+    "percentChange": 0.7247,
     "open": 219,
     "high": 220.54,
     "low": 217.17,
     "previousClose": 218.01,
-    "lastUpdated": "2025-04-16T15:49:10.299999"
+    "lastUpdated": "2025-04-16T16:13:35.331258"
   },
   "SBUX": {
     "symbol": "SBUX",
-    "currentPrice": 82.31,
-    "change": -1.4,
-    "percentChange": -1.6724,
+    "currentPrice": 82.11,
+    "change": -1.6,
+    "percentChange": -1.9114,
     "open": 83.63,
     "high": 83.63,
-    "low": 82.26,
+    "low": 82.015,
     "previousClose": 83.71,
-    "lastUpdated": "2025-04-16T15:49:10.382941"
+    "lastUpdated": "2025-04-16T16:13:35.970899"
   },
   "MO": {
     "symbol": "MO",
-    "currentPrice": 58.075,
-    "change": 0.555,
-    "percentChange": 0.9649,
+    "currentPrice": 57.97,
+    "change": 0.45,
+    "percentChange": 0.7823,
     "open": 57.69,
     "high": 58.185,
     "low": 57.69,
     "previousClose": 57.52,
-    "lastUpdated": "2025-04-16T15:49:10.453583"
+    "lastUpdated": "2025-04-16T16:13:36.655183"
   },
   "BX": {
     "symbol": "BX",
-    "currentPrice": 131.34,
-    "change": -2.2,
-    "percentChange": -1.6474,
+    "currentPrice": 131,
+    "change": -2.54,
+    "percentChange": -1.9021,
     "open": 132.55,
     "high": 132.74,
     "low": 129.89,
     "previousClose": 133.54,
-    "lastUpdated": "2025-04-16T15:49:10.520176"
+    "lastUpdated": "2025-04-16T16:13:36.894436"
   },
   "CME": {
     "symbol": "CME",
-    "currentPrice": 264.7879,
-    "change": 1.9179,
-    "percentChange": 0.7296,
+    "currentPrice": 264.34,
+    "change": 1.47,
+    "percentChange": 0.5592,
     "open": 265.17,
     "high": 265.17,
     "low": 262.75,
     "previousClose": 262.87,
-    "lastUpdated": "2025-04-16T15:49:10.584233"
+    "lastUpdated": "2025-04-16T16:13:37.548445"
   },
   "CRWD": {
     "symbol": "CRWD",
-    "currentPrice": 390.75,
-    "change": -2.05,
-    "percentChange": -0.5219,
+    "currentPrice": 390.15,
+    "change": -2.65,
+    "percentChange": -0.6746,
     "open": 389.48,
     "high": 395.35,
     "low": 386.11,
     "previousClose": 392.8,
-    "lastUpdated": "2025-04-16T15:49:10.644806"
+    "lastUpdated": "2025-04-16T16:13:38.225562"
   },
   "DUK": {
     "symbol": "DUK",
-    "currentPrice": 121.92,
-    "change": 1.43,
-    "percentChange": 1.1868,
+    "currentPrice": 121.425,
+    "change": 0.935,
+    "percentChange": 0.776,
     "open": 121.07,
-    "high": 121.945,
+    "high": 121.98,
     "low": 120.5,
     "previousClose": 120.49,
-    "lastUpdated": "2025-04-16T15:49:10.736746"
+    "lastUpdated": "2025-04-16T16:13:38.455900"
   },
   "CI": {
     "symbol": "CI",
-    "currentPrice": 334.39,
-    "change": 5.76,
-    "percentChange": 1.7527,
+    "currentPrice": 334.38,
+    "change": 5.75,
+    "percentChange": 1.7497,
     "open": 332.09,
     "high": 335.14,
     "low": 330.01,
     "previousClose": 328.63,
-    "lastUpdated": "2025-04-16T15:49:10.805115"
+    "lastUpdated": "2025-04-16T16:13:39.074728"
   },
   "ICE": {
     "symbol": "ICE",
-    "currentPrice": 160.0614,
-    "change": 0.1114,
-    "percentChange": 0.0696,
+    "currentPrice": 159.765,
+    "change": -0.185,
+    "percentChange": -0.1157,
     "open": 160,
     "high": 160.37,
     "low": 158.61,
     "previousClose": 159.95,
-    "lastUpdated": "2025-04-16T15:49:10.867590"
+    "lastUpdated": "2025-04-16T16:13:39.399153"
   },
   "ADI": {
     "symbol": "ADI",
-    "currentPrice": 176.0025,
-    "change": -3.5375,
-    "percentChange": -1.9703,
+    "currentPrice": 175.745,
+    "change": -3.795,
+    "percentChange": -2.1137,
     "open": 177.03,
     "high": 177.36,
     "low": 173.67,
     "previousClose": 179.54,
-    "lastUpdated": "2025-04-16T15:49:10.939235"
+    "lastUpdated": "2025-04-16T16:13:39.636351"
   },
   "PLD": {
     "symbol": "PLD",
-    "currentPrice": 100.665,
-    "change": 2.185,
-    "percentChange": 2.2187,
+    "currentPrice": 100.025,
+    "change": 1.545,
+    "percentChange": 1.5688,
     "open": 99,
     "high": 101.7799,
     "low": 97.98,
     "previousClose": 98.48,
-    "lastUpdated": "2025-04-16T15:49:10.997877"
+    "lastUpdated": "2025-04-16T16:13:40.286806"
   },
   "KLAC": {
     "symbol": "KLAC",
-    "currentPrice": 645.615,
-    "change": -30.595,
-    "percentChange": -4.5245,
+    "currentPrice": 644.77,
+    "change": -31.44,
+    "percentChange": -4.6494,
     "open": 648.03,
     "high": 659.05,
     "low": 637.85,
     "previousClose": 676.21,
-    "lastUpdated": "2025-04-16T15:49:11.078733"
+    "lastUpdated": "2025-04-16T16:13:40.498321"
   },
   "CVS": {
     "symbol": "CVS",
-    "currentPrice": 69.2675,
-    "change": 0.3475,
-    "percentChange": 0.5042,
+    "currentPrice": 69.035,
+    "change": 0.115,
+    "percentChange": 0.1669,
     "open": 69.34,
     "high": 69.8112,
     "low": 68.68,
     "previousClose": 68.92,
-    "lastUpdated": "2025-04-16T15:49:11.153715"
+    "lastUpdated": "2025-04-16T16:13:40.809468"
   },
   "WELL": {
     "symbol": "WELL",
-    "currentPrice": 147.5,
-    "change": 0.91,
-    "percentChange": 0.6208,
+    "currentPrice": 146.915,
+    "change": 0.325,
+    "percentChange": 0.2217,
     "open": 147.19,
     "high": 147.87,
     "low": 145.67,
     "previousClose": 146.59,
-    "lastUpdated": "2025-04-16T15:49:11.225412"
+    "lastUpdated": "2025-04-16T16:13:41.034863"
   },
   "INTC": {
     "symbol": "INTC",
-    "currentPrice": 19.335,
-    "change": -0.515,
-    "percentChange": -2.5945,
+    "currentPrice": 19.245,
+    "change": -0.605,
+    "percentChange": -3.0479,
     "open": 19.3,
     "high": 19.43,
     "low": 19.1,
     "previousClose": 19.85,
-    "lastUpdated": "2025-04-16T15:49:11.302681"
+    "lastUpdated": "2025-04-16T16:13:41.272405"
   },
   "GEV": {
     "symbol": "GEV",
-    "currentPrice": 324.795,
-    "change": -3.765,
-    "percentChange": -1.1459,
+    "currentPrice": 321.49,
+    "change": -7.07,
+    "percentChange": -2.1518,
     "open": 323.8,
     "high": 325.52,
     "low": 316,
     "previousClose": 328.56,
-    "lastUpdated": "2025-04-16T15:49:11.355495"
+    "lastUpdated": "2025-04-16T16:13:41.509955"
   },
   "MDLZ": {
     "symbol": "MDLZ",
-    "currentPrice": 67.34,
-    "change": 0.31,
-    "percentChange": 0.4625,
+    "currentPrice": 67.28,
+    "change": 0.25,
+    "percentChange": 0.373,
     "open": 67.245,
     "high": 67.76,
     "low": 66.92,
     "previousClose": 67.03,
-    "lastUpdated": "2025-04-16T15:49:11.419230"
+    "lastUpdated": "2025-04-16T16:13:41.721144"
   },
   "LRCX": {
     "symbol": "LRCX",
-    "currentPrice": 65.98,
-    "change": -2.46,
-    "percentChange": -3.5944,
+    "currentPrice": 65.7495,
+    "change": -2.6905,
+    "percentChange": -3.9312,
     "open": 66.15,
     "high": 66.82,
     "low": 64.95,
     "previousClose": 68.44,
-    "lastUpdated": "2025-04-16T15:49:11.497727"
+    "lastUpdated": "2025-04-16T16:13:42.364281"
   },
   "MCK": {
     "symbol": "MCK",
-    "currentPrice": 696.64,
-    "change": 3.78,
-    "percentChange": 0.5456,
+    "currentPrice": 697,
+    "change": 4.14,
+    "percentChange": 0.5975,
     "open": 699.76,
     "high": 699.76,
     "low": 689.12,
     "previousClose": 692.86,
-    "lastUpdated": "2025-04-16T15:49:11.566086"
+    "lastUpdated": "2025-04-16T16:13:42.626530"
   },
   "AJG": {
     "symbol": "AJG",
-    "currentPrice": 337.7559,
-    "change": 2.1959,
-    "percentChange": 0.6544,
+    "currentPrice": 336.34,
+    "change": 0.78,
+    "percentChange": 0.2324,
     "open": 337.77,
     "high": 339,
     "low": 334.3,
     "previousClose": 335.56,
-    "lastUpdated": "2025-04-16T15:49:11.638823"
+    "lastUpdated": "2025-04-16T16:13:43.280146"
   },
   "WM": {
     "symbol": "WM",
-    "currentPrice": 232.245,
-    "change": 0.765,
-    "percentChange": 0.3305,
+    "currentPrice": 231.99,
+    "change": 0.51,
+    "percentChange": 0.2203,
     "open": 232.52,
     "high": 233.13,
     "low": 231.09,
     "previousClose": 231.48,
-    "lastUpdated": "2025-04-16T15:49:11.715553"
+    "lastUpdated": "2025-04-16T16:13:43.903708"
   },
   "AON": {
     "symbol": "AON",
-    "currentPrice": 379.675,
-    "change": 0.565,
-    "percentChange": 0.149,
+    "currentPrice": 378.25,
+    "change": -0.86,
+    "percentChange": -0.2268,
     "open": 378.5,
     "high": 382.32,
     "low": 377.745,
     "previousClose": 379.11,
-    "lastUpdated": "2025-04-16T15:49:11.774500"
+    "lastUpdated": "2025-04-16T16:13:44.162179"
   },
   "ORLY": {
     "symbol": "ORLY",
-    "currentPrice": 1386.68,
-    "change": -11.25,
-    "percentChange": -0.8048,
+    "currentPrice": 1379.98,
+    "change": -17.95,
+    "percentChange": -1.284,
     "open": 1397,
     "high": 1408.55,
-    "low": 1382.01,
+    "low": 1377.4759,
     "previousClose": 1397.93,
-    "lastUpdated": "2025-04-16T15:49:11.859344"
+    "lastUpdated": "2025-04-16T16:13:44.808004"
   },
   "MU": {
     "symbol": "MU",
-    "currentPrice": 69.99,
-    "change": -1.05,
-    "percentChange": -1.478,
+    "currentPrice": 70.005,
+    "change": -1.035,
+    "percentChange": -1.4569,
     "open": 68.49,
     "high": 70.4505,
     "low": 67.92,
     "previousClose": 71.04,
-    "lastUpdated": "2025-04-16T15:49:11.918409"
+    "lastUpdated": "2025-04-16T16:13:45.043861"
   },
   "APH": {
     "symbol": "APH",
-    "currentPrice": 65.425,
-    "change": -0.335,
-    "percentChange": -0.5094,
+    "currentPrice": 65.215,
+    "change": -0.545,
+    "percentChange": -0.8288,
     "open": 64.83,
     "high": 65.79,
     "low": 64.505,
     "previousClose": 65.76,
-    "lastUpdated": "2025-04-16T15:49:11.979557"
+    "lastUpdated": "2025-04-16T16:13:45.258579"
   },
   "SHW": {
     "symbol": "SHW",
-    "currentPrice": 335.42,
-    "change": -1.46,
-    "percentChange": -0.4334,
+    "currentPrice": 334.73,
+    "change": -2.15,
+    "percentChange": -0.6382,
     "open": 334.56,
     "high": 337.69,
     "low": 333.485,
     "previousClose": 336.88,
-    "lastUpdated": "2025-04-16T15:49:12.054658"
+    "lastUpdated": "2025-04-16T16:13:45.933352"
   },
   "TT": {
     "symbol": "TT",
-    "currentPrice": 336.67,
-    "change": -7.29,
-    "percentChange": -2.1194,
+    "currentPrice": 335.27,
+    "change": -8.69,
+    "percentChange": -2.5265,
     "open": 338.57,
     "high": 341.49,
     "low": 332.32,
     "previousClose": 343.96,
-    "lastUpdated": "2025-04-16T15:49:12.129863"
+    "lastUpdated": "2025-04-16T16:13:46.549177"
   },
   "ANET": {
     "symbol": "ANET",
-    "currentPrice": 72.8,
-    "change": -0.4,
-    "percentChange": -0.5464,
+    "currentPrice": 72.62,
+    "change": -0.58,
+    "percentChange": -0.7923,
     "open": 70.69,
     "high": 73.1342,
     "low": 69.125,
     "previousClose": 73.2,
-    "lastUpdated": "2025-04-16T15:49:12.214876"
+    "lastUpdated": "2025-04-16T16:13:47.202584"
   },
   "EQIX": {
     "symbol": "EQIX",
-    "currentPrice": 786.75,
-    "change": -0.74,
-    "percentChange": -0.094,
+    "currentPrice": 783,
+    "change": -4.49,
+    "percentChange": -0.5702,
     "open": 784.15,
     "high": 788.79,
     "low": 778.61,
     "previousClose": 787.49,
-    "lastUpdated": "2025-04-16T15:50:12.294676"
+    "lastUpdated": "2025-04-16T16:14:47.443979"
   },
   "CL": {
     "symbol": "CL",
-    "currentPrice": 94.74,
-    "change": 0.48,
-    "percentChange": 0.5092,
+    "currentPrice": 94.57,
+    "change": 0.31,
+    "percentChange": 0.3289,
     "open": 94.85,
     "high": 95,
     "low": 94.1,
     "previousClose": 94.26,
-    "lastUpdated": "2025-04-16T15:50:12.356622"
+    "lastUpdated": "2025-04-16T16:14:47.682267"
   },
   "TDG": {
     "symbol": "TDG",
-    "currentPrice": 1361.79,
-    "change": 0.87,
-    "percentChange": 0.0639,
+    "currentPrice": 1356.635,
+    "change": -4.285,
+    "percentChange": -0.3149,
     "open": 1368.225,
     "high": 1368.295,
     "low": 1344.69,
     "previousClose": 1360.92,
-    "lastUpdated": "2025-04-16T15:50:12.432621"
+    "lastUpdated": "2025-04-16T16:14:47.893488"
   },
   "MMM": {
     "symbol": "MMM",
-    "currentPrice": 134.08,
-    "change": -1.18,
-    "percentChange": -0.8724,
+    "currentPrice": 133.465,
+    "change": -1.795,
+    "percentChange": -1.3271,
     "open": 134.99,
     "high": 134.99,
     "low": 132.21,
     "previousClose": 135.26,
-    "lastUpdated": "2025-04-16T15:50:12.498670"
+    "lastUpdated": "2025-04-16T16:14:48.131402"
   },
   "PH": {
     "symbol": "PH",
-    "currentPrice": 562.6,
-    "change": -5.65,
-    "percentChange": -0.9943,
+    "currentPrice": 561.82,
+    "change": -6.43,
+    "percentChange": -1.1315,
     "open": 564.8,
     "high": 567.105,
     "low": 558.32,
     "previousClose": 568.25,
-    "lastUpdated": "2025-04-16T15:50:12.560459"
+    "lastUpdated": "2025-04-16T16:14:48.428303"
   },
   "UPS": {
     "symbol": "UPS",
-    "currentPrice": 95.58,
-    "change": -0.92,
-    "percentChange": -0.9534,
+    "currentPrice": 95.5752,
+    "change": -0.9248,
+    "percentChange": -0.9583,
     "open": 96.35,
     "high": 96.65,
     "low": 94.9,
     "previousClose": 96.5,
-    "lastUpdated": "2025-04-16T15:50:12.621180"
+    "lastUpdated": "2025-04-16T16:14:48.649167"
   },
   "NOC": {
     "symbol": "NOC",
-    "currentPrice": 540.28,
-    "change": 10.92,
-    "percentChange": 2.0629,
+    "currentPrice": 539.565,
+    "change": 10.205,
+    "percentChange": 1.9278,
     "open": 531.37,
     "high": 541.98,
     "low": 531.37,
     "previousClose": 529.36,
-    "lastUpdated": "2025-04-16T15:50:12.700605"
+    "lastUpdated": "2025-04-16T16:14:49.286937"
   },
   "CDNS": {
     "symbol": "CDNS",
-    "currentPrice": 259.66,
-    "change": -4.65,
-    "percentChange": -1.7593,
+    "currentPrice": 259.27,
+    "change": -5.04,
+    "percentChange": -1.9069,
     "open": 259.87,
     "high": 260.77,
     "low": 256.04,
     "previousClose": 264.31,
-    "lastUpdated": "2025-04-16T15:50:12.774380"
+    "lastUpdated": "2025-04-16T16:14:49.587069"
   },
   "CTAS": {
     "symbol": "CTAS",
-    "currentPrice": 207.9,
-    "change": -0.3,
-    "percentChange": -0.1441,
+    "currentPrice": 207.37,
+    "change": -0.83,
+    "percentChange": -0.3987,
     "open": 208,
     "high": 208.39,
     "low": 206.73,
     "previousClose": 208.2,
-    "lastUpdated": "2025-04-16T15:50:12.850477"
+    "lastUpdated": "2025-04-16T16:14:50.263169"
   },
   "MSI": {
     "symbol": "MSI",
-    "currentPrice": 429.91,
-    "change": -0.73,
-    "percentChange": -0.1695,
+    "currentPrice": 429.54,
+    "change": -1.1,
+    "percentChange": -0.2554,
     "open": 428.98,
     "high": 430.7,
     "low": 425.57,
     "previousClose": 430.64,
-    "lastUpdated": "2025-04-16T15:50:12.934681"
+    "lastUpdated": "2025-04-16T16:14:50.913235"
   },
   "KKR": {
     "symbol": "KKR",
@@ -1438,656 +1438,656 @@
     "high": 104.37,
     "low": 101.845,
     "previousClose": 104.23,
-    "lastUpdated": "2025-04-16T15:50:13.016119"
+    "lastUpdated": "2025-04-16T16:14:51.605336"
   },
   "GD": {
     "symbol": "GD",
-    "currentPrice": 279.75,
-    "change": 2.61,
-    "percentChange": 0.9418,
+    "currentPrice": 279.79,
+    "change": 2.65,
+    "percentChange": 0.9562,
     "open": 276,
     "high": 280.33,
     "low": 275.46,
     "previousClose": 277.14,
-    "lastUpdated": "2025-04-16T15:50:13.077853"
+    "lastUpdated": "2025-04-16T16:14:52.280541"
   },
   "CMG": {
     "symbol": "CMG",
-    "currentPrice": 48.79,
-    "change": -0.01,
-    "percentChange": -0.0205,
+    "currentPrice": 48.72,
+    "change": -0.08,
+    "percentChange": -0.1639,
     "open": 48.59,
     "high": 49.07,
     "low": 48.43,
     "previousClose": 48.8,
-    "lastUpdated": "2025-04-16T15:50:13.165560"
+    "lastUpdated": "2025-04-16T16:14:52.562216"
   },
   "WMB": {
     "symbol": "WMB",
-    "currentPrice": 59.08,
-    "change": 0.54,
-    "percentChange": 0.9224,
+    "currentPrice": 58.8,
+    "change": 0.26,
+    "percentChange": 0.4441,
     "open": 59.06,
     "high": 59.1959,
     "low": 58.32,
     "previousClose": 58.54,
-    "lastUpdated": "2025-04-16T15:50:13.227371"
+    "lastUpdated": "2025-04-16T16:14:52.817903"
   },
   "ZTS": {
     "symbol": "ZTS",
-    "currentPrice": 148.935,
-    "change": -0.285,
-    "percentChange": -0.191,
+    "currentPrice": 148.535,
+    "change": -0.685,
+    "percentChange": -0.4591,
     "open": 149.56,
     "high": 150.12,
     "low": 147.32,
     "previousClose": 149.22,
-    "lastUpdated": "2025-04-16T15:50:13.289205"
+    "lastUpdated": "2025-04-16T16:14:53.526987"
   },
   "MCO": {
     "symbol": "MCO",
-    "currentPrice": 430.2,
-    "change": -4.85,
-    "percentChange": -1.1148,
+    "currentPrice": 429.08,
+    "change": -5.97,
+    "percentChange": -1.3723,
     "open": 432.26,
     "high": 436.59,
     "low": 427.06,
     "previousClose": 435.05,
-    "lastUpdated": "2025-04-16T15:50:13.370229"
+    "lastUpdated": "2025-04-16T16:14:54.151484"
   },
   "NKE": {
     "symbol": "NKE",
-    "currentPrice": 54.725,
-    "change": -0.105,
-    "percentChange": -0.1915,
+    "currentPrice": 54.78,
+    "change": -0.05,
+    "percentChange": -0.0912,
     "open": 54.63,
     "high": 55.15,
     "low": 54.41,
     "previousClose": 54.83,
-    "lastUpdated": "2025-04-16T15:50:13.460977"
+    "lastUpdated": "2025-04-16T16:14:54.395231"
   },
   "CEG": {
     "symbol": "CEG",
-    "currentPrice": 206.7,
-    "change": -1.72,
-    "percentChange": -0.8253,
+    "currentPrice": 205.4388,
+    "change": -2.9812,
+    "percentChange": -1.4304,
     "open": 205.57,
     "high": 207.4,
     "low": 202.65,
     "previousClose": 208.42,
-    "lastUpdated": "2025-04-16T15:50:13.538694"
+    "lastUpdated": "2025-04-16T16:14:54.624204"
   },
   "SNPS": {
     "symbol": "SNPS",
-    "currentPrice": 421.955,
-    "change": -3.695,
-    "percentChange": -0.8681,
+    "currentPrice": 420.685,
+    "change": -4.965,
+    "percentChange": -1.1665,
     "open": 420.5,
     "high": 423.56,
     "low": 412.62,
     "previousClose": 425.65,
-    "lastUpdated": "2025-04-16T15:50:13.617586"
+    "lastUpdated": "2025-04-16T16:14:54.856175"
   },
   "COF": {
     "symbol": "COF",
-    "currentPrice": 162.94,
-    "change": -0.6,
-    "percentChange": -0.3669,
+    "currentPrice": 162.41,
+    "change": -1.13,
+    "percentChange": -0.691,
     "open": 161.5,
     "high": 164.01,
     "low": 161.14,
     "previousClose": 163.54,
-    "lastUpdated": "2025-04-16T15:50:13.690966"
+    "lastUpdated": "2025-04-16T16:14:55.082200"
   },
   "FTNT": {
     "symbol": "FTNT",
-    "currentPrice": 97.995,
-    "change": -1.205,
-    "percentChange": -1.2147,
+    "currentPrice": 97.925,
+    "change": -1.275,
+    "percentChange": -1.2853,
     "open": 97.71,
     "high": 98.6,
     "low": 96.76,
     "previousClose": 99.2,
-    "lastUpdated": "2025-04-16T15:50:13.778370"
+    "lastUpdated": "2025-04-16T16:14:55.293493"
   },
   "AZO": {
     "symbol": "AZO",
-    "currentPrice": 3644.49,
-    "change": 13.32,
-    "percentChange": 0.3668,
+    "currentPrice": 3604.41,
+    "change": -26.76,
+    "percentChange": -0.737,
     "open": 3643.33,
     "high": 3661.54,
-    "low": 3615.265,
+    "low": 3604.27,
     "previousClose": 3631.17,
-    "lastUpdated": "2025-04-16T15:50:13.840392"
+    "lastUpdated": "2025-04-16T16:14:55.509967"
   },
   "ITW": {
     "symbol": "ITW",
-    "currentPrice": 230.675,
-    "change": -0.825,
-    "percentChange": -0.3564,
+    "currentPrice": 230.93,
+    "change": -0.57,
+    "percentChange": -0.2462,
     "open": 230.01,
     "high": 233.435,
-    "low": 229.91,
+    "low": 229.9,
     "previousClose": 231.5,
-    "lastUpdated": "2025-04-16T15:50:13.914855"
+    "lastUpdated": "2025-04-16T16:14:56.198769"
   },
   "DASH": {
     "symbol": "DASH",
-    "currentPrice": 181.39,
-    "change": -0.16,
-    "percentChange": -0.0881,
+    "currentPrice": 181.5,
+    "change": -0.05,
+    "percentChange": -0.0275,
     "open": 178.08,
     "high": 182.57,
     "low": 176.6701,
     "previousClose": 181.55,
-    "lastUpdated": "2025-04-16T15:50:13.987863"
+    "lastUpdated": "2025-04-16T16:14:56.834589"
   },
   "PNC": {
     "symbol": "PNC",
-    "currentPrice": 153.415,
-    "change": -1.975,
-    "percentChange": -1.271,
+    "currentPrice": 153.025,
+    "change": -2.365,
+    "percentChange": -1.522,
     "open": 152.55,
     "high": 154.93,
     "low": 152.08,
     "previousClose": 155.39,
-    "lastUpdated": "2025-04-16T15:50:14.056815"
+    "lastUpdated": "2025-04-16T16:14:57.095984"
   },
   "PYPL": {
     "symbol": "PYPL",
-    "currentPrice": 61.1,
-    "change": -0.9,
-    "percentChange": -1.4516,
+    "currentPrice": 61.075,
+    "change": -0.925,
+    "percentChange": -1.4919,
     "open": 61.68,
     "high": 61.68,
     "low": 60.32,
     "previousClose": 62,
-    "lastUpdated": "2025-04-16T15:50:14.109097"
+    "lastUpdated": "2025-04-16T16:14:57.355290"
   },
   "HCA": {
     "symbol": "HCA",
-    "currentPrice": 334.31,
-    "change": -1.24,
-    "percentChange": -0.3695,
+    "currentPrice": 334.565,
+    "change": -0.985,
+    "percentChange": -0.2935,
     "open": 337.1,
     "high": 337.33,
     "low": 329.15,
     "previousClose": 335.55,
-    "lastUpdated": "2025-04-16T15:50:14.183637"
+    "lastUpdated": "2025-04-16T16:14:58.032314"
   },
   "ROP": {
     "symbol": "ROP",
-    "currentPrice": 566.7,
-    "change": -0.38,
-    "percentChange": -0.067,
+    "currentPrice": 565.76,
+    "change": -1.32,
+    "percentChange": -0.2328,
     "open": 562.34,
     "high": 569.89,
     "low": 561.275,
     "previousClose": 567.08,
-    "lastUpdated": "2025-04-16T15:50:14.263702"
+    "lastUpdated": "2025-04-16T16:14:58.715716"
   },
   "EOG": {
     "symbol": "EOG",
-    "currentPrice": 109.6,
-    "change": 2.12,
-    "percentChange": 1.9725,
+    "currentPrice": 109.215,
+    "change": 1.735,
+    "percentChange": 1.6143,
     "open": 107,
-    "high": 109.65,
+    "high": 109.81,
     "low": 106.6301,
     "previousClose": 107.48,
-    "lastUpdated": "2025-04-16T15:50:14.321538"
+    "lastUpdated": "2025-04-16T16:14:59.021602"
   },
   "ECL": {
     "symbol": "ECL",
-    "currentPrice": 238.2325,
-    "change": 0.0525,
-    "percentChange": 0.022,
+    "currentPrice": 238.045,
+    "change": -0.135,
+    "percentChange": -0.0567,
     "open": 236.39,
     "high": 238.93,
     "low": 235.65,
     "previousClose": 238.18,
-    "lastUpdated": "2025-04-16T15:50:14.393754"
+    "lastUpdated": "2025-04-16T16:14:59.256079"
   },
   "APD": {
     "symbol": "APD",
-    "currentPrice": 265.8,
-    "change": 0.5,
-    "percentChange": 0.1885,
+    "currentPrice": 264.765,
+    "change": -0.535,
+    "percentChange": -0.2017,
     "open": 265.71,
     "high": 268.14,
     "low": 263.4466,
     "previousClose": 265.3,
-    "lastUpdated": "2025-04-16T15:50:14.452652"
+    "lastUpdated": "2025-04-16T16:14:59.909443"
   },
   "USB": {
     "symbol": "USB",
-    "currentPrice": 38.3,
-    "change": -0.33,
-    "percentChange": -0.8543,
+    "currentPrice": 38.25,
+    "change": -0.38,
+    "percentChange": -0.9837,
     "open": 38.84,
     "high": 39.15,
     "low": 37.78,
     "previousClose": 38.63,
-    "lastUpdated": "2025-04-16T15:50:14.522033"
+    "lastUpdated": "2025-04-16T16:15:00.114321"
   },
   "NEM": {
     "symbol": "NEM",
-    "currentPrice": 56.54,
-    "change": 1.96,
-    "percentChange": 3.5911,
+    "currentPrice": 56.26,
+    "change": 1.68,
+    "percentChange": 3.0781,
     "open": 56.56,
     "high": 57.08,
     "low": 55.89,
     "previousClose": 54.58,
-    "lastUpdated": "2025-04-16T15:50:14.580763"
+    "lastUpdated": "2025-04-16T16:15:00.345539"
   },
   "REGN": {
     "symbol": "REGN",
-    "currentPrice": 554.93,
-    "change": -2.98,
-    "percentChange": -0.5341,
+    "currentPrice": 553.64,
+    "change": -4.27,
+    "percentChange": -0.7654,
     "open": 557.49,
     "high": 561.83,
     "low": 544.5,
     "previousClose": 557.91,
-    "lastUpdated": "2025-04-16T15:50:14.650604"
+    "lastUpdated": "2025-04-16T16:15:01.035695"
   },
   "BDX": {
     "symbol": "BDX",
-    "currentPrice": 203.94,
-    "change": 1.9,
-    "percentChange": 0.9404,
+    "currentPrice": 203.37,
+    "change": 1.33,
+    "percentChange": 0.6583,
     "open": 201.99,
     "high": 205.11,
     "low": 200.9151,
     "previousClose": 202.04,
-    "lastUpdated": "2025-04-16T15:50:14.704846"
+    "lastUpdated": "2025-04-16T16:15:01.888877"
   },
   "EMR": {
     "symbol": "EMR",
-    "currentPrice": 99.615,
-    "change": -0.825,
-    "percentChange": -0.8214,
+    "currentPrice": 99.54,
+    "change": -0.9,
+    "percentChange": -0.8961,
     "open": 100.47,
     "high": 100.47,
     "low": 98.4547,
     "previousClose": 100.44,
-    "lastUpdated": "2025-04-16T15:50:14.790433"
+    "lastUpdated": "2025-04-16T16:15:02.520496"
   },
   "TRV": {
     "symbol": "TRV",
-    "currentPrice": 259.38,
-    "change": 9.72,
-    "percentChange": 3.8933,
+    "currentPrice": 258.1986,
+    "change": 8.5386,
+    "percentChange": 3.4201,
     "open": 258.89,
-    "high": 260.26,
+    "high": 260.39,
     "low": 252.46,
     "previousClose": 249.66,
-    "lastUpdated": "2025-04-16T15:50:14.871768"
+    "lastUpdated": "2025-04-16T16:15:03.173883"
   },
   "APO": {
     "symbol": "APO",
-    "currentPrice": 126.87,
-    "change": -0.97,
-    "percentChange": -0.7588,
+    "currentPrice": 126.45,
+    "change": -1.39,
+    "percentChange": -1.0873,
     "open": 126.7,
     "high": 127.64,
     "low": 124.93,
     "previousClose": 127.84,
-    "lastUpdated": "2025-04-16T15:50:14.959367"
+    "lastUpdated": "2025-04-16T16:15:03.548089"
   },
   "ADSK": {
     "symbol": "ADSK",
-    "currentPrice": 264.64,
-    "change": -0.7,
-    "percentChange": -0.2638,
+    "currentPrice": 263.95,
+    "change": -1.39,
+    "percentChange": -0.5239,
     "open": 265,
     "high": 266.145,
     "low": 261.79,
     "previousClose": 265.34,
-    "lastUpdated": "2025-04-16T15:50:15.026664"
+    "lastUpdated": "2025-04-16T16:15:03.825020"
   },
   "AEP": {
     "symbol": "AEP",
-    "currentPrice": 107.42,
-    "change": 0.74,
-    "percentChange": 0.6937,
+    "currentPrice": 106.9881,
+    "change": 0.3081,
+    "percentChange": 0.2888,
     "open": 106.99,
     "high": 107.46,
     "low": 106.605,
     "previousClose": 106.68,
-    "lastUpdated": "2025-04-16T15:50:15.084221"
+    "lastUpdated": "2025-04-16T16:15:04.046862"
   },
   "BK": {
     "symbol": "BK",
-    "currentPrice": 76.92,
-    "change": -0.85,
-    "percentChange": -1.093,
+    "currentPrice": 76.74,
+    "change": -1.03,
+    "percentChange": -1.3244,
     "open": 77.81,
     "high": 77.832,
     "low": 76.5606,
     "previousClose": 77.77,
-    "lastUpdated": "2025-04-16T15:50:15.166857"
+    "lastUpdated": "2025-04-16T16:15:04.689466"
   },
   "CSX": {
     "symbol": "CSX",
-    "currentPrice": 27.81,
-    "change": -0.09,
-    "percentChange": -0.3226,
+    "currentPrice": 27.845,
+    "change": -0.055,
+    "percentChange": -0.1971,
     "open": 27.8,
     "high": 27.96,
     "low": 27.51,
     "previousClose": 27.9,
-    "lastUpdated": "2025-04-16T15:50:15.227882"
+    "lastUpdated": "2025-04-16T16:15:05.408548"
   },
   "AFL": {
     "symbol": "AFL",
-    "currentPrice": 108.55,
-    "change": 0.52,
-    "percentChange": 0.4813,
+    "currentPrice": 108.65,
+    "change": 0.62,
+    "percentChange": 0.5739,
     "open": 108.68,
     "high": 109.06,
     "low": 107.723934,
     "previousClose": 108.03,
-    "lastUpdated": "2025-04-16T15:50:15.285562"
+    "lastUpdated": "2025-04-16T16:15:05.724707"
   },
   "CPRT": {
     "symbol": "CPRT",
-    "currentPrice": 60.32,
-    "change": -0.13,
-    "percentChange": -0.2151,
+    "currentPrice": 60.17,
+    "change": -0.28,
+    "percentChange": -0.4632,
     "open": 60.255,
     "high": 60.68,
     "low": 60.065,
     "previousClose": 60.45,
-    "lastUpdated": "2025-04-16T15:50:15.359455"
+    "lastUpdated": "2025-04-16T16:15:06.422334"
   },
   "MAR": {
     "symbol": "MAR",
-    "currentPrice": 222.12,
-    "change": -0.46,
-    "percentChange": -0.2067,
+    "currentPrice": 221.79,
+    "change": -0.79,
+    "percentChange": -0.3549,
     "open": 219.44,
     "high": 223.9799,
     "low": 219.44,
     "previousClose": 222.58,
-    "lastUpdated": "2025-04-16T15:50:15.431999"
+    "lastUpdated": "2025-04-16T16:15:07.055664"
   },
   "ALL": {
     "symbol": "ALL",
-    "currentPrice": 197.19,
-    "change": 2.65,
-    "percentChange": 1.3622,
+    "currentPrice": 197.13,
+    "change": 2.59,
+    "percentChange": 1.3313,
     "open": 196.5,
     "high": 197.72,
     "low": 194.5401,
     "previousClose": 194.54,
-    "lastUpdated": "2025-04-16T15:50:15.512727"
+    "lastUpdated": "2025-04-16T16:15:07.328787"
   },
   "HLT": {
     "symbol": "HLT",
-    "currentPrice": 211.87,
-    "change": 0.55,
-    "percentChange": 0.2603,
+    "currentPrice": 212.04,
+    "change": 0.72,
+    "percentChange": 0.3407,
     "open": 210.8,
     "high": 213.03,
     "low": 208.92,
     "previousClose": 211.32,
-    "lastUpdated": "2025-04-16T15:50:15.596387"
+    "lastUpdated": "2025-04-16T16:15:07.568536"
   },
   "OKE": {
     "symbol": "OKE",
-    "currentPrice": 86.03,
-    "change": 1.87,
-    "percentChange": 2.222,
+    "currentPrice": 85.6,
+    "change": 1.44,
+    "percentChange": 1.711,
     "open": 85,
     "high": 86.22,
     "low": 84.16,
     "previousClose": 84.16,
-    "lastUpdated": "2025-04-16T15:50:15.679805"
+    "lastUpdated": "2025-04-16T16:15:07.811805"
   },
   "JCI": {
     "symbol": "JCI",
-    "currentPrice": 77.74,
-    "change": -0.85,
-    "percentChange": -1.0816,
+    "currentPrice": 77.57,
+    "change": -1.02,
+    "percentChange": -1.2979,
     "open": 77.62,
     "high": 78.1,
     "low": 77.02,
     "previousClose": 78.59,
-    "lastUpdated": "2025-04-16T15:50:15.763559"
+    "lastUpdated": "2025-04-16T16:15:08.690717"
   },
   "HWM": {
     "symbol": "HWM",
-    "currentPrice": 125.775,
-    "change": 1.305,
-    "percentChange": 1.0484,
+    "currentPrice": 125.35,
+    "change": 0.88,
+    "percentChange": 0.707,
     "open": 124.61,
     "high": 126.3,
     "low": 123.48,
     "previousClose": 124.47,
-    "lastUpdated": "2025-04-16T15:50:15.847286"
+    "lastUpdated": "2025-04-16T16:15:08.927742"
   },
   "KMI": {
     "symbol": "KMI",
-    "currentPrice": 27.345,
-    "change": 0.125,
-    "percentChange": 0.4592,
+    "currentPrice": 27.22,
+    "change": 0,
+    "percentChange": 0,
     "open": 27.22,
     "high": 27.46,
     "low": 27.065,
     "previousClose": 27.22,
-    "lastUpdated": "2025-04-16T15:50:15.911654"
+    "lastUpdated": "2025-04-16T16:15:09.782771"
   },
   "ABNB": {
     "symbol": "ABNB",
-    "currentPrice": 114.32,
-    "change": -0.32,
-    "percentChange": -0.2791,
+    "currentPrice": 114.51,
+    "change": -0.13,
+    "percentChange": -0.1134,
     "open": 113.48,
     "high": 115.62,
     "low": 113.3,
     "previousClose": 114.64,
-    "lastUpdated": "2025-04-16T15:50:15.967035"
+    "lastUpdated": "2025-04-16T16:15:10.662561"
   },
   "NSC": {
     "symbol": "NSC",
-    "currentPrice": 216.46,
-    "change": -1.26,
-    "percentChange": -0.5787,
+    "currentPrice": 216.39,
+    "change": -1.33,
+    "percentChange": -0.6109,
     "open": 216.36,
     "high": 217.9141,
     "low": 214.19,
     "previousClose": 217.72,
-    "lastUpdated": "2025-04-16T15:50:16.041127"
+    "lastUpdated": "2025-04-16T16:15:11.336930"
   },
   "RSG": {
     "symbol": "RSG",
-    "currentPrice": 245.735,
-    "change": 0.735,
-    "percentChange": 0.3,
+    "currentPrice": 245.1114,
+    "change": 0.1114,
+    "percentChange": 0.0455,
     "open": 246.23,
     "high": 246.6,
     "low": 244.6037,
     "previousClose": 245,
-    "lastUpdated": "2025-04-16T15:50:16.137689"
+    "lastUpdated": "2025-04-16T16:15:11.575057"
   },
   "AIG": {
     "symbol": "AIG",
-    "currentPrice": 82.7,
-    "change": 0.75,
-    "percentChange": 0.9152,
+    "currentPrice": 82.5,
+    "change": 0.55,
+    "percentChange": 0.6711,
     "open": 82.38,
     "high": 82.9,
     "low": 81.56,
     "previousClose": 81.95,
-    "lastUpdated": "2025-04-16T15:50:16.221172"
+    "lastUpdated": "2025-04-16T16:15:12.211211"
   },
   "COR": {
     "symbol": "COR",
-    "currentPrice": 286.59,
-    "change": 2.05,
-    "percentChange": 0.7205,
+    "currentPrice": 286.11,
+    "change": 1.57,
+    "percentChange": 0.5518,
     "open": 285.75,
     "high": 287.19,
     "low": 283.06,
     "previousClose": 284.54,
-    "lastUpdated": "2025-04-16T15:50:16.288768"
+    "lastUpdated": "2025-04-16T16:15:12.888493"
   },
   "WDAY": {
     "symbol": "WDAY",
-    "currentPrice": 233.49,
-    "change": 0.17,
-    "percentChange": 0.0729,
+    "currentPrice": 232.97,
+    "change": -0.35,
+    "percentChange": -0.15,
     "open": 232.12,
     "high": 235,
     "low": 231.085,
     "previousClose": 233.32,
-    "lastUpdated": "2025-04-16T15:50:16.374742"
+    "lastUpdated": "2025-04-16T16:15:13.513198"
   },
   "CARR": {
     "symbol": "CARR",
-    "currentPrice": 59.945,
-    "change": -0.525,
-    "percentChange": -0.8682,
+    "currentPrice": 59.905,
+    "change": -0.565,
+    "percentChange": -0.9343,
     "open": 60,
     "high": 60.58,
     "low": 59.48,
     "previousClose": 60.47,
-    "lastUpdated": "2025-04-16T15:50:16.446273"
+    "lastUpdated": "2025-04-16T16:15:13.750808"
   },
   "RCL": {
     "symbol": "RCL",
-    "currentPrice": 192.8056,
-    "change": -0.5644,
-    "percentChange": -0.2919,
+    "currentPrice": 193.28,
+    "change": -0.09,
+    "percentChange": -0.0465,
     "open": 193.9,
     "high": 194.33,
     "low": 190.22,
     "previousClose": 193.37,
-    "lastUpdated": "2025-04-16T15:50:16.522507"
+    "lastUpdated": "2025-04-16T16:15:14.392584"
   },
   "O": {
     "symbol": "O",
-    "currentPrice": 57.7548,
-    "change": 0.7448,
-    "percentChange": 1.3064,
+    "currentPrice": 57.53,
+    "change": 0.52,
+    "percentChange": 0.9121,
     "open": 56.9,
     "high": 57.92,
     "low": 56.9,
     "previousClose": 57.01,
-    "lastUpdated": "2025-04-16T15:50:16.605840"
+    "lastUpdated": "2025-04-16T16:15:14.637471"
   },
   "TFC": {
     "symbol": "TFC",
-    "currentPrice": 36.37,
-    "change": -0.12,
-    "percentChange": -0.3289,
+    "currentPrice": 36.31,
+    "change": -0.18,
+    "percentChange": -0.4933,
     "open": 36.39,
     "high": 36.67,
     "low": 35.9436,
     "previousClose": 36.49,
-    "lastUpdated": "2025-04-16T15:51:16.665846"
+    "lastUpdated": "2025-04-16T16:16:14.877888"
   },
   "PCAR": {
     "symbol": "PCAR",
-    "currentPrice": 88.32,
-    "change": -0.5,
-    "percentChange": -0.5629,
+    "currentPrice": 88.16,
+    "change": -0.66,
+    "percentChange": -0.7431,
     "open": 88.79,
     "high": 88.905,
     "low": 87,
     "previousClose": 88.82,
-    "lastUpdated": "2025-04-16T15:51:16.726811"
+    "lastUpdated": "2025-04-16T16:16:15.116692"
   },
   "PAYX": {
     "symbol": "PAYX",
-    "currentPrice": 147.71,
-    "change": 0.09,
-    "percentChange": 0.061,
+    "currentPrice": 147.36,
+    "change": -0.26,
+    "percentChange": -0.1761,
     "open": 148.1,
     "high": 148.2348,
     "low": 146.388109,
     "previousClose": 147.62,
-    "lastUpdated": "2025-04-16T15:51:16.785435"
+    "lastUpdated": "2025-04-16T16:16:15.897943"
   },
   "ROST": {
     "symbol": "ROST",
-    "currentPrice": 140.5,
-    "change": -0.53,
-    "percentChange": -0.3758,
+    "currentPrice": 140.695,
+    "change": -0.335,
+    "percentChange": -0.2375,
     "open": 142,
     "high": 142.265,
     "low": 139.671,
     "previousClose": 141.03,
-    "lastUpdated": "2025-04-16T15:51:16.845795"
+    "lastUpdated": "2025-04-16T16:16:16.579808"
   },
   "FDX": {
     "symbol": "FDX",
-    "currentPrice": 205.368,
-    "change": -1.982,
-    "percentChange": -0.9559,
+    "currentPrice": 205.89,
+    "change": -1.46,
+    "percentChange": -0.7041,
     "open": 207.09,
     "high": 207.09,
     "low": 202.8,
     "previousClose": 207.35,
-    "lastUpdated": "2025-04-16T15:51:16.919552"
+    "lastUpdated": "2025-04-16T16:16:17.225046"
   },
   "KMB": {
     "symbol": "KMB",
-    "currentPrice": 141.63,
-    "change": 0.16,
-    "percentChange": 0.1131,
+    "currentPrice": 141.51,
+    "change": 0.04,
+    "percentChange": 0.0283,
     "open": 141.48,
     "high": 142.64,
-    "low": 141.45,
+    "low": 141.37,
     "previousClose": 141.47,
-    "lastUpdated": "2025-04-16T15:51:16.974134"
+    "lastUpdated": "2025-04-16T16:16:17.907719"
   },
   "SLB": {
     "symbol": "SLB",
-    "currentPrice": 34.435,
-    "change": 0.675,
-    "percentChange": 1.9994,
+    "currentPrice": 34.425,
+    "change": 0.665,
+    "percentChange": 1.9698,
     "open": 33.98,
     "high": 34.59,
     "low": 33.79,
     "previousClose": 33.76,
-    "lastUpdated": "2025-04-16T15:51:17.035535"
+    "lastUpdated": "2025-04-16T16:16:18.556704"
   },
   "EXC": {
     "symbol": "EXC",
-    "currentPrice": 47.235,
-    "change": 0.495,
-    "percentChange": 1.0591,
+    "currentPrice": 47.055,
+    "change": 0.315,
+    "percentChange": 0.6739,
     "open": 46.97,
     "high": 47.49,
     "low": 46.81,
     "previousClose": 46.74,
-    "lastUpdated": "2025-04-16T15:51:17.103587"
+    "lastUpdated": "2025-04-16T16:16:19.415097"
   },
   "SPG": {
     "symbol": "SPG",
-    "currentPrice": 150.085,
-    "change": 0.715,
-    "percentChange": 0.4787,
+    "currentPrice": 150.08,
+    "change": 0.71,
+    "percentChange": 0.4753,
     "open": 149.25,
     "high": 151.2299,
     "low": 148.065,
     "previousClose": 149.37,
-    "lastUpdated": "2025-04-16T15:51:17.178501"
+    "lastUpdated": "2025-04-16T16:16:20.099668"
   },
   "KR": {
     "symbol": "KR",
-    "currentPrice": 69.58,
-    "change": 1.44,
-    "percentChange": 2.1133,
+    "currentPrice": 69.36,
+    "change": 1.22,
+    "percentChange": 1.7904,
     "open": 68.78,
     "high": 69.6,
     "low": 68.33,
     "previousClose": 68.14,
-    "lastUpdated": "2025-04-16T15:51:17.249107"
+    "lastUpdated": "2025-04-16T16:16:20.741609"
   },
   "FICO": {
     "symbol": "FICO",
@@ -2098,2229 +2098,2229 @@
     "high": 1936.83,
     "low": 1882.29,
     "previousClose": 1923.93,
-    "lastUpdated": "2025-04-16T15:51:17.315335"
+    "lastUpdated": "2025-04-16T16:16:21.031016"
   },
   "FCX": {
     "symbol": "FCX",
-    "currentPrice": 33.855,
-    "change": 0.485,
-    "percentChange": 1.4534,
+    "currentPrice": 33.87,
+    "change": 0.5,
+    "percentChange": 1.4984,
     "open": 33.66,
     "high": 33.98,
     "low": 33.2,
     "previousClose": 33.37,
-    "lastUpdated": "2025-04-16T15:51:17.375568"
+    "lastUpdated": "2025-04-16T16:16:21.695885"
   },
   "DLR": {
     "symbol": "DLR",
-    "currentPrice": 149.04,
-    "change": 2.81,
-    "percentChange": 1.9216,
+    "currentPrice": 148.98,
+    "change": 2.75,
+    "percentChange": 1.8806,
     "open": 147.81,
     "high": 149.41,
     "low": 145.64,
     "previousClose": 146.23,
-    "lastUpdated": "2025-04-16T15:51:17.447457"
+    "lastUpdated": "2025-04-16T16:16:21.911186"
   },
   "AMP": {
     "symbol": "AMP",
-    "currentPrice": 471.36,
-    "change": -5.08,
-    "percentChange": -1.0662,
+    "currentPrice": 470.65,
+    "change": -5.79,
+    "percentChange": -1.2153,
     "open": 475,
     "high": 475.7,
     "low": 467.055,
     "previousClose": 476.44,
-    "lastUpdated": "2025-04-16T15:51:17.520371"
+    "lastUpdated": "2025-04-16T16:16:22.561686"
   },
   "PSA": {
     "symbol": "PSA",
-    "currentPrice": 291.39,
-    "change": 2.48,
-    "percentChange": 0.8584,
+    "currentPrice": 290.87,
+    "change": 1.96,
+    "percentChange": 0.6784,
     "open": 289.5,
-    "high": 291.975,
+    "high": 292.09,
     "low": 288.59,
     "previousClose": 288.91,
-    "lastUpdated": "2025-04-16T15:51:17.600306"
+    "lastUpdated": "2025-04-16T16:16:22.820487"
   },
   "D": {
     "symbol": "D",
-    "currentPrice": 53.8328,
-    "change": 0.1628,
-    "percentChange": 0.3033,
+    "currentPrice": 53.65,
+    "change": -0.02,
+    "percentChange": -0.0373,
     "open": 54.25,
     "high": 54.25,
     "low": 53.305,
     "previousClose": 53.67,
-    "lastUpdated": "2025-04-16T15:51:17.671542"
+    "lastUpdated": "2025-04-16T16:16:23.058027"
   },
   "GM": {
     "symbol": "GM",
-    "currentPrice": 44.84,
-    "change": 0.3,
-    "percentChange": 0.6736,
+    "currentPrice": 44.92,
+    "change": 0.38,
+    "percentChange": 0.8532,
     "open": 44.35,
     "high": 45.055,
     "low": 44.27,
     "previousClose": 44.54,
-    "lastUpdated": "2025-04-16T15:51:17.756711"
+    "lastUpdated": "2025-04-16T16:16:23.726836"
   },
   "FAST": {
     "symbol": "FAST",
-    "currentPrice": 81.0325,
-    "change": -0.6175,
-    "percentChange": -0.7563,
+    "currentPrice": 80.94,
+    "change": -0.71,
+    "percentChange": -0.8696,
     "open": 81.44,
     "high": 81.81,
     "low": 80.65,
     "previousClose": 81.65,
-    "lastUpdated": "2025-04-16T15:51:17.828851"
+    "lastUpdated": "2025-04-16T16:16:24.369448"
   },
   "GWW": {
     "symbol": "GWW",
-    "currentPrice": 994.29,
-    "change": -5.44,
-    "percentChange": -0.5441,
+    "currentPrice": 991.67,
+    "change": -8.06,
+    "percentChange": -0.8062,
     "open": 991.39,
     "high": 1009.075,
     "low": 988.4704,
     "previousClose": 999.73,
-    "lastUpdated": "2025-04-16T15:51:17.897819"
+    "lastUpdated": "2025-04-16T16:16:24.600048"
   },
   "TGT": {
     "symbol": "TGT",
-    "currentPrice": 91.38,
-    "change": -0.7,
-    "percentChange": -0.7602,
+    "currentPrice": 91.165,
+    "change": -0.915,
+    "percentChange": -0.9937,
     "open": 90.99,
     "high": 92.63,
     "low": 90.7,
     "previousClose": 92.08,
-    "lastUpdated": "2025-04-16T15:51:17.956592"
+    "lastUpdated": "2025-04-16T16:16:25.255608"
   },
   "SRE": {
     "symbol": "SRE",
-    "currentPrice": 71.11,
-    "change": 0.89,
-    "percentChange": 1.2674,
+    "currentPrice": 70.895,
+    "change": 0.675,
+    "percentChange": 0.9613,
     "open": 70.46,
     "high": 71.16,
     "low": 69.7,
     "previousClose": 70.22,
-    "lastUpdated": "2025-04-16T15:51:18.026723"
+    "lastUpdated": "2025-04-16T16:16:25.880757"
   },
   "NXPI": {
     "symbol": "NXPI",
-    "currentPrice": 168.34,
-    "change": -3.29,
-    "percentChange": -1.9169,
+    "currentPrice": 168.64,
+    "change": -2.99,
+    "percentChange": -1.7421,
     "open": 167.51,
     "high": 169.87,
     "low": 165.25,
     "previousClose": 171.63,
-    "lastUpdated": "2025-04-16T15:51:18.081430"
+    "lastUpdated": "2025-04-16T16:16:26.125503"
   },
   "KVUE": {
     "symbol": "KVUE",
-    "currentPrice": 23.09,
-    "change": 0.18,
-    "percentChange": 0.7857,
+    "currentPrice": 23.085,
+    "change": 0.175,
+    "percentChange": 0.7639,
     "open": 23.08,
     "high": 23.21,
     "low": 22.97,
     "previousClose": 22.91,
-    "lastUpdated": "2025-04-16T15:51:18.157300"
+    "lastUpdated": "2025-04-16T16:16:26.986590"
   },
   "KDP": {
     "symbol": "KDP",
-    "currentPrice": 35.44,
-    "change": 0.05,
-    "percentChange": 0.1413,
+    "currentPrice": 35.38,
+    "change": -0.01,
+    "percentChange": -0.0283,
     "open": 35.67,
     "high": 35.71,
     "low": 35.3,
     "previousClose": 35.39,
-    "lastUpdated": "2025-04-16T15:51:18.225414"
+    "lastUpdated": "2025-04-16T16:16:27.661015"
   },
   "CCI": {
     "symbol": "CCI",
-    "currentPrice": 102.19,
-    "change": 1.68,
-    "percentChange": 1.6715,
+    "currentPrice": 102.12,
+    "change": 1.61,
+    "percentChange": 1.6018,
     "open": 101.65,
-    "high": 102.28,
+    "high": 102.44,
     "low": 100.5901,
     "previousClose": 100.51,
-    "lastUpdated": "2025-04-16T15:51:18.302413"
+    "lastUpdated": "2025-04-16T16:16:27.904592"
   },
   "MET": {
     "symbol": "MET",
-    "currentPrice": 73.095,
-    "change": 0.385,
-    "percentChange": 0.5295,
+    "currentPrice": 72.99,
+    "change": 0.28,
+    "percentChange": 0.3851,
     "open": 73.02,
     "high": 73.29,
     "low": 72.07,
     "previousClose": 72.71,
-    "lastUpdated": "2025-04-16T15:51:18.372884"
+    "lastUpdated": "2025-04-16T16:16:28.581135"
   },
   "MSCI": {
     "symbol": "MSCI",
-    "currentPrice": 552.44,
-    "change": -4.13,
-    "percentChange": -0.742,
+    "currentPrice": 550.485,
+    "change": -6.085,
+    "percentChange": -1.0933,
     "open": 555.47,
     "high": 556.16,
     "low": 548.995,
     "previousClose": 556.57,
-    "lastUpdated": "2025-04-16T15:51:18.467227"
+    "lastUpdated": "2025-04-16T16:16:29.217722"
   },
   "YUM": {
     "symbol": "YUM",
-    "currentPrice": 143.94,
-    "change": -0.75,
-    "percentChange": -0.5183,
+    "currentPrice": 143.425,
+    "change": -1.265,
+    "percentChange": -0.8743,
     "open": 145.18,
     "high": 145.47,
-    "low": 143.675,
+    "low": 143.42,
     "previousClose": 144.69,
-    "lastUpdated": "2025-04-16T15:51:18.558364"
+    "lastUpdated": "2025-04-16T16:16:29.422888"
   },
   "PEG": {
     "symbol": "PEG",
-    "currentPrice": 83.91,
-    "change": 0.38,
-    "percentChange": 0.4549,
+    "currentPrice": 83.68,
+    "change": 0.15,
+    "percentChange": 0.1796,
     "open": 84.07,
     "high": 84.07,
     "low": 83.255,
     "previousClose": 83.53,
-    "lastUpdated": "2025-04-16T15:51:18.623273"
+    "lastUpdated": "2025-04-16T16:16:30.180012"
   },
   "MNST": {
     "symbol": "MNST",
-    "currentPrice": 58.94,
-    "change": 0.3,
-    "percentChange": 0.5116,
+    "currentPrice": 58.865,
+    "change": 0.225,
+    "percentChange": 0.3837,
     "open": 58.93,
     "high": 59.14,
     "low": 58.63,
     "previousClose": 58.64,
-    "lastUpdated": "2025-04-16T15:51:18.708103"
+    "lastUpdated": "2025-04-16T16:16:30.867311"
   },
   "VRSK": {
     "symbol": "VRSK",
-    "currentPrice": 296.685,
-    "change": 1.635,
-    "percentChange": 0.5541,
+    "currentPrice": 296.62,
+    "change": 1.57,
+    "percentChange": 0.5321,
     "open": 296.85,
     "high": 297.25,
     "low": 294.02,
     "previousClose": 295.05,
-    "lastUpdated": "2025-04-16T15:51:18.769087"
+    "lastUpdated": "2025-04-16T16:16:31.110763"
   },
   "EW": {
     "symbol": "EW",
-    "currentPrice": 71.56,
-    "change": 0.8,
-    "percentChange": 1.1306,
+    "currentPrice": 71.52,
+    "change": 0.76,
+    "percentChange": 1.0741,
     "open": 70.87,
     "high": 71.91,
     "low": 70.52,
     "previousClose": 70.76,
-    "lastUpdated": "2025-04-16T15:51:18.844982"
+    "lastUpdated": "2025-04-16T16:16:31.774931"
   },
   "LHX": {
     "symbol": "LHX",
-    "currentPrice": 221.5,
-    "change": 0.55,
-    "percentChange": 0.2489,
+    "currentPrice": 221.68,
+    "change": 0.73,
+    "percentChange": 0.3304,
     "open": 221.25,
     "high": 222.89,
     "low": 220.525,
     "previousClose": 220.95,
-    "lastUpdated": "2025-04-16T15:51:18.922032"
+    "lastUpdated": "2025-04-16T16:16:32.516145"
   },
   "PSX": {
     "symbol": "PSX",
-    "currentPrice": 98.23,
-    "change": 2.02,
-    "percentChange": 2.0996,
+    "currentPrice": 98.15,
+    "change": 1.94,
+    "percentChange": 2.0164,
     "open": 97.29,
     "high": 98.63,
     "low": 96.41,
     "previousClose": 96.21,
-    "lastUpdated": "2025-04-16T15:51:18.995514"
+    "lastUpdated": "2025-04-16T16:16:33.153407"
   },
   "AXON": {
     "symbol": "AXON",
-    "currentPrice": 579.2,
-    "change": 0.78,
-    "percentChange": 0.1349,
+    "currentPrice": 578.245,
+    "change": -0.175,
+    "percentChange": -0.0303,
     "open": 574.73,
     "high": 581.105,
     "low": 568.11,
     "previousClose": 578.42,
-    "lastUpdated": "2025-04-16T15:51:19.070130"
+    "lastUpdated": "2025-04-16T16:16:33.859134"
   },
   "DFS": {
     "symbol": "DFS",
-    "currentPrice": 159.26,
-    "change": -0.88,
-    "percentChange": -0.5495,
+    "currentPrice": 158.93,
+    "change": -1.21,
+    "percentChange": -0.7556,
     "open": 156.71,
     "high": 160.57,
     "low": 156.71,
     "previousClose": 160.14,
-    "lastUpdated": "2025-04-16T15:51:19.132491"
+    "lastUpdated": "2025-04-16T16:16:34.713696"
   },
   "CTVA": {
     "symbol": "CTVA",
-    "currentPrice": 60.01,
-    "change": 0.31,
-    "percentChange": 0.5193,
+    "currentPrice": 59.98,
+    "change": 0.28,
+    "percentChange": 0.469,
     "open": 59.78,
     "high": 60.26,
     "low": 59.46,
     "previousClose": 59.7,
-    "lastUpdated": "2025-04-16T15:51:19.203546"
+    "lastUpdated": "2025-04-16T16:16:34.946542"
   },
   "XEL": {
     "symbol": "XEL",
-    "currentPrice": 70.47,
-    "change": 0.2,
-    "percentChange": 0.2846,
+    "currentPrice": 70.135,
+    "change": -0.135,
+    "percentChange": -0.1921,
     "open": 70.48,
     "high": 70.82,
-    "low": 70.155,
+    "low": 70.12,
     "previousClose": 70.27,
-    "lastUpdated": "2025-04-16T15:51:19.271634"
+    "lastUpdated": "2025-04-16T16:16:35.181869"
   },
   "PWR": {
     "symbol": "PWR",
-    "currentPrice": 273.09,
-    "change": 0.06,
-    "percentChange": 0.022,
+    "currentPrice": 272.65,
+    "change": -0.38,
+    "percentChange": -0.1392,
     "open": 268.56,
     "high": 273.73,
     "low": 266.9101,
     "previousClose": 273.03,
-    "lastUpdated": "2025-04-16T15:51:19.340578"
+    "lastUpdated": "2025-04-16T16:16:35.805408"
   },
   "CMI": {
     "symbol": "CMI",
-    "currentPrice": 283.6,
-    "change": -3.76,
-    "percentChange": -1.3085,
+    "currentPrice": 284.38,
+    "change": -2.98,
+    "percentChange": -1.037,
     "open": 283.49,
     "high": 287.11,
     "low": 281.89,
     "previousClose": 287.36,
-    "lastUpdated": "2025-04-16T15:51:19.445694"
+    "lastUpdated": "2025-04-16T16:16:36.068894"
   },
   "MPC": {
     "symbol": "MPC",
-    "currentPrice": 126.933,
-    "change": 4.703,
-    "percentChange": 3.8477,
+    "currentPrice": 126.67,
+    "change": 4.44,
+    "percentChange": 3.6325,
     "open": 123,
     "high": 127.87,
     "low": 122.72,
     "previousClose": 122.23,
-    "lastUpdated": "2025-04-16T15:51:19.518405"
+    "lastUpdated": "2025-04-16T16:16:36.828551"
   },
   "TEL": {
     "symbol": "TEL",
-    "currentPrice": 128.27,
-    "change": -1.27,
-    "percentChange": -0.9804,
+    "currentPrice": 127.91,
+    "change": -1.63,
+    "percentChange": -1.2583,
     "open": 127.88,
     "high": 129.24,
     "low": 127.21,
     "previousClose": 129.54,
-    "lastUpdated": "2025-04-16T15:51:19.592866"
+    "lastUpdated": "2025-04-16T16:16:37.061001"
   },
   "URI": {
     "symbol": "URI",
-    "currentPrice": 593.79,
-    "change": -3.39,
-    "percentChange": -0.5677,
+    "currentPrice": 592.925,
+    "change": -4.255,
+    "percentChange": -0.7125,
     "open": 599.44,
     "high": 599.47,
     "low": 588.6,
     "previousClose": 597.18,
-    "lastUpdated": "2025-04-16T15:51:19.653633"
+    "lastUpdated": "2025-04-16T16:16:37.726313"
   },
   "ED": {
     "symbol": "ED",
-    "currentPrice": 112.59,
-    "change": 0.78,
-    "percentChange": 0.6976,
+    "currentPrice": 112.24,
+    "change": 0.43,
+    "percentChange": 0.3846,
     "open": 112.63,
     "high": 112.98,
     "low": 111.92,
     "previousClose": 111.81,
-    "lastUpdated": "2025-04-16T15:51:19.729182"
+    "lastUpdated": "2025-04-16T16:16:38.398662"
   },
   "OTIS": {
     "symbol": "OTIS",
-    "currentPrice": 98.03,
-    "change": -0.76,
-    "percentChange": -0.7693,
+    "currentPrice": 97.89,
+    "change": -0.9,
+    "percentChange": -0.911,
     "open": 99.39,
     "high": 99.39,
-    "low": 97.915,
+    "low": 97.81,
     "previousClose": 98.79,
-    "lastUpdated": "2025-04-16T15:51:19.802391"
+    "lastUpdated": "2025-04-16T16:16:39.070747"
   },
   "VST": {
     "symbol": "VST",
-    "currentPrice": 117.185,
-    "change": 1.435,
-    "percentChange": 1.2397,
+    "currentPrice": 116.49,
+    "change": 0.74,
+    "percentChange": 0.6393,
     "open": 113.02,
     "high": 117.62,
     "low": 111.95,
     "previousClose": 115.75,
-    "lastUpdated": "2025-04-16T15:51:19.875199"
+    "lastUpdated": "2025-04-16T16:16:39.719994"
   },
   "FIS": {
     "symbol": "FIS",
-    "currentPrice": 69.67,
-    "change": -0.41,
-    "percentChange": -0.585,
+    "currentPrice": 69.37,
+    "change": -0.71,
+    "percentChange": -1.0131,
     "open": 70.39,
     "high": 70.39,
     "low": 69.14,
     "previousClose": 70.08,
-    "lastUpdated": "2025-04-16T15:51:19.948614"
+    "lastUpdated": "2025-04-16T16:16:40.482115"
   },
   "AME": {
     "symbol": "AME",
-    "currentPrice": 160.52,
-    "change": 0.31,
-    "percentChange": 0.1935,
+    "currentPrice": 160.35,
+    "change": 0.14,
+    "percentChange": 0.0874,
     "open": 158.31,
     "high": 160.99,
     "low": 158.16,
     "previousClose": 160.21,
-    "lastUpdated": "2025-04-16T15:51:20.007887"
+    "lastUpdated": "2025-04-16T16:16:41.143929"
   },
   "BKR": {
     "symbol": "BKR",
-    "currentPrice": 38.54,
-    "change": 0.38,
-    "percentChange": 0.9958,
+    "currentPrice": 38.5,
+    "change": 0.34,
+    "percentChange": 0.891,
     "open": 38.16,
     "high": 38.68,
     "low": 37.94,
     "previousClose": 38.16,
-    "lastUpdated": "2025-04-16T15:51:20.082118"
+    "lastUpdated": "2025-04-16T16:16:41.380946"
   },
   "PCG": {
     "symbol": "PCG",
-    "currentPrice": 17.405,
-    "change": 0.245,
-    "percentChange": 1.4277,
+    "currentPrice": 17.3154,
+    "change": 0.1554,
+    "percentChange": 0.9056,
     "open": 17.25,
     "high": 17.42,
     "low": 17.11,
     "previousClose": 17.16,
-    "lastUpdated": "2025-04-16T15:51:20.146478"
+    "lastUpdated": "2025-04-16T16:16:42.234457"
   },
   "F": {
     "symbol": "F",
-    "currentPrice": 9.577,
-    "change": 0.127,
-    "percentChange": 1.3439,
+    "currentPrice": 9.5869,
+    "change": 0.1369,
+    "percentChange": 1.4487,
     "open": 9.43,
     "high": 9.62,
     "low": 9.43,
     "previousClose": 9.45,
-    "lastUpdated": "2025-04-16T15:51:20.231582"
+    "lastUpdated": "2025-04-16T16:16:42.440765"
   },
   "TRGP": {
     "symbol": "TRGP",
-    "currentPrice": 173.82,
-    "change": 5.78,
-    "percentChange": 3.4397,
+    "currentPrice": 173.8,
+    "change": 5.76,
+    "percentChange": 3.4278,
     "open": 167.15,
-    "high": 174,
+    "high": 174.04,
     "low": 167.15,
     "previousClose": 168.04,
-    "lastUpdated": "2025-04-16T15:51:20.326552"
+    "lastUpdated": "2025-04-16T16:16:43.080665"
   },
   "HES": {
     "symbol": "HES",
-    "currentPrice": 129.74,
-    "change": 2.53,
-    "percentChange": 1.9888,
+    "currentPrice": 129.42,
+    "change": 2.21,
+    "percentChange": 1.7373,
     "open": 128.85,
     "high": 130,
     "low": 127.868,
     "previousClose": 127.21,
-    "lastUpdated": "2025-04-16T15:51:20.402160"
+    "lastUpdated": "2025-04-16T16:16:43.327822"
   },
   "HUM": {
     "symbol": "HUM",
-    "currentPrice": 289.625,
-    "change": 2.845,
-    "percentChange": 0.992,
+    "currentPrice": 287.921,
+    "change": 1.141,
+    "percentChange": 0.3979,
     "open": 288.12,
     "high": 291.33,
     "low": 284.8,
     "previousClose": 286.78,
-    "lastUpdated": "2025-04-16T15:51:20.462007"
+    "lastUpdated": "2025-04-16T16:16:44.116492"
   },
   "PRU": {
     "symbol": "PRU",
-    "currentPrice": 100.33,
-    "change": 0.1,
-    "percentChange": 0.0998,
+    "currentPrice": 100.09,
+    "change": -0.14,
+    "percentChange": -0.1397,
     "open": 99.66,
     "high": 100.92,
     "low": 99.18,
     "previousClose": 100.23,
-    "lastUpdated": "2025-04-16T15:51:20.534764"
+    "lastUpdated": "2025-04-16T16:16:44.353026"
   },
   "VLO": {
     "symbol": "VLO",
-    "currentPrice": 109.5483,
-    "change": 1.9983,
-    "percentChange": 1.858,
+    "currentPrice": 109.34,
+    "change": 1.79,
+    "percentChange": 1.6643,
     "open": 108.37,
     "high": 110.58,
     "low": 106.73,
     "previousClose": 107.55,
-    "lastUpdated": "2025-04-16T15:51:20.601355"
+    "lastUpdated": "2025-04-16T16:16:45.135049"
   },
   "CBRE": {
     "symbol": "CBRE",
-    "currentPrice": 118.62,
-    "change": -0.06,
-    "percentChange": -0.0506,
+    "currentPrice": 118.095,
+    "change": -0.585,
+    "percentChange": -0.4929,
     "open": 118.57,
     "high": 119.555,
     "low": 117.71,
     "previousClose": 118.68,
-    "lastUpdated": "2025-04-16T15:51:20.672022"
+    "lastUpdated": "2025-04-16T16:16:45.414151"
   },
   "ETR": {
     "symbol": "ETR",
-    "currentPrice": 83.22,
-    "change": -0.24,
-    "percentChange": -0.2876,
+    "currentPrice": 82.895,
+    "change": -0.565,
+    "percentChange": -0.677,
     "open": 83.47,
     "high": 83.74,
     "low": 82.71,
     "previousClose": 83.46,
-    "lastUpdated": "2025-04-16T15:51:20.737523"
+    "lastUpdated": "2025-04-16T16:16:46.127335"
   },
   "CTSH": {
     "symbol": "CTSH",
-    "currentPrice": 71.36,
-    "change": 0.1,
-    "percentChange": 0.1403,
+    "currentPrice": 71.245,
+    "change": -0.015,
+    "percentChange": -0.021,
     "open": 70.35,
     "high": 71.73,
     "low": 69.82,
     "previousClose": 71.26,
-    "lastUpdated": "2025-04-16T15:51:20.829615"
+    "lastUpdated": "2025-04-16T16:16:46.810322"
   },
   "SYY": {
     "symbol": "SYY",
-    "currentPrice": 71.43,
-    "change": 0.15,
-    "percentChange": 0.2104,
+    "currentPrice": 71.405,
+    "change": 0.125,
+    "percentChange": 0.1754,
     "open": 71.45,
     "high": 71.91,
     "low": 71.16,
     "previousClose": 71.28,
-    "lastUpdated": "2025-04-16T15:51:20.905687"
+    "lastUpdated": "2025-04-16T16:16:47.714377"
   },
   "ACGL": {
     "symbol": "ACGL",
-    "currentPrice": 93.8,
-    "change": 1.34,
-    "percentChange": 1.4493,
+    "currentPrice": 93.8178,
+    "change": 1.3578,
+    "percentChange": 1.4685,
     "open": 92.48,
-    "high": 93.91,
+    "high": 94.09,
     "low": 91.985,
     "previousClose": 92.46,
-    "lastUpdated": "2025-04-16T15:52:20.970539"
+    "lastUpdated": "2025-04-16T16:17:48.441528"
   },
   "DHI": {
     "symbol": "DHI",
-    "currentPrice": 118.965,
-    "change": -0.845,
-    "percentChange": -0.7053,
+    "currentPrice": 118.53,
+    "change": -1.28,
+    "percentChange": -1.0684,
     "open": 119.25,
     "high": 120.52,
-    "low": 118.63,
+    "low": 118.4,
     "previousClose": 119.81,
-    "lastUpdated": "2025-04-16T15:52:21.036616"
+    "lastUpdated": "2025-04-16T16:17:49.175460"
   },
   "TTWO": {
     "symbol": "TTWO",
-    "currentPrice": 214.54,
-    "change": -0.06,
-    "percentChange": -0.028,
+    "currentPrice": 214.49,
+    "change": -0.11,
+    "percentChange": -0.0513,
     "open": 213.82,
     "high": 215.8513,
     "low": 212.64,
     "previousClose": 214.6,
-    "lastUpdated": "2025-04-16T15:52:21.155137"
+    "lastUpdated": "2025-04-16T16:17:49.851376"
   },
   "WEC": {
     "symbol": "WEC",
-    "currentPrice": 108.77,
-    "change": 0.51,
-    "percentChange": 0.4711,
+    "currentPrice": 108.2,
+    "change": -0.06,
+    "percentChange": -0.0554,
     "open": 109,
     "high": 109.045,
-    "low": 108.21,
+    "low": 108.14,
     "previousClose": 108.26,
-    "lastUpdated": "2025-04-16T15:52:21.214760"
+    "lastUpdated": "2025-04-16T16:17:50.500349"
   },
   "EA": {
     "symbol": "EA",
-    "currentPrice": 144.94,
-    "change": -0.67,
-    "percentChange": -0.4601,
+    "currentPrice": 144.68,
+    "change": -0.93,
+    "percentChange": -0.6387,
     "open": 145.26,
     "high": 145.78,
     "low": 143.78,
     "previousClose": 145.61,
-    "lastUpdated": "2025-04-16T15:52:21.273377"
+    "lastUpdated": "2025-04-16T16:17:51.356208"
   },
   "HIG": {
     "symbol": "HIG",
-    "currentPrice": 119.95,
-    "change": 2.79,
-    "percentChange": 2.3814,
+    "currentPrice": 119.71,
+    "change": 2.55,
+    "percentChange": 2.1765,
     "open": 117.38,
     "high": 120.14,
     "low": 117.38,
     "previousClose": 117.16,
-    "lastUpdated": "2025-04-16T15:52:21.349028"
+    "lastUpdated": "2025-04-16T16:17:52.251467"
   },
   "CHTR": {
     "symbol": "CHTR",
-    "currentPrice": 337.78,
-    "change": -5.4,
-    "percentChange": -1.5735,
+    "currentPrice": 336.11,
+    "change": -7.07,
+    "percentChange": -2.0601,
     "open": 341.99,
     "high": 343.985,
-    "low": 336.17,
+    "low": 335.72,
     "previousClose": 343.18,
-    "lastUpdated": "2025-04-16T15:52:21.429556"
+    "lastUpdated": "2025-04-16T16:17:52.534247"
   },
   "GLW": {
     "symbol": "GLW",
-    "currentPrice": 41.78,
-    "change": 0,
-    "percentChange": 0,
+    "currentPrice": 41.6399,
+    "change": -0.1401,
+    "percentChange": -0.3353,
     "open": 40.92,
     "high": 41.9,
     "low": 40.92,
     "previousClose": 41.78,
-    "lastUpdated": "2025-04-16T15:52:21.491184"
+    "lastUpdated": "2025-04-16T16:17:53.194320"
   },
   "CSGP": {
     "symbol": "CSGP",
-    "currentPrice": 80.245,
-    "change": -0.265,
-    "percentChange": -0.3292,
+    "currentPrice": 80.015,
+    "change": -0.495,
+    "percentChange": -0.6148,
     "open": 80.17,
     "high": 80.49,
     "low": 79.165,
     "previousClose": 80.51,
-    "lastUpdated": "2025-04-16T15:52:21.556757"
+    "lastUpdated": "2025-04-16T16:17:53.865646"
   },
   "VICI": {
     "symbol": "VICI",
-    "currentPrice": 32.43,
-    "change": 0.38,
-    "percentChange": 1.1856,
+    "currentPrice": 32.33,
+    "change": 0.28,
+    "percentChange": 0.8736,
     "open": 32.19,
     "high": 32.57,
     "low": 32.08,
     "previousClose": 32.05,
-    "lastUpdated": "2025-04-16T15:52:21.627349"
+    "lastUpdated": "2025-04-16T16:17:54.508150"
   },
   "WTW": {
     "symbol": "WTW",
-    "currentPrice": 328.41,
-    "change": 1.25,
-    "percentChange": 0.3821,
+    "currentPrice": 328.15,
+    "change": 0.99,
+    "percentChange": 0.3026,
     "open": 328.89,
     "high": 330.145,
     "low": 326.49,
     "previousClose": 327.16,
-    "lastUpdated": "2025-04-16T15:52:21.704107"
+    "lastUpdated": "2025-04-16T16:17:55.171325"
   },
   "GIS": {
     "symbol": "GIS",
-    "currentPrice": 57.67,
-    "change": -0.18,
-    "percentChange": -0.3111,
+    "currentPrice": 57.5,
+    "change": -0.35,
+    "percentChange": -0.605,
     "open": 58.47,
     "high": 58.47,
-    "low": 57.61,
+    "low": 57.4201,
     "previousClose": 57.85,
-    "lastUpdated": "2025-04-16T15:52:21.772048"
+    "lastUpdated": "2025-04-16T16:17:55.897592"
   },
   "IDXX": {
     "symbol": "IDXX",
-    "currentPrice": 406.43,
-    "change": 2.41,
-    "percentChange": 0.5965,
+    "currentPrice": 406.745,
+    "change": 2.725,
+    "percentChange": 0.6745,
     "open": 403.8,
     "high": 407.94,
     "low": 399.07,
     "previousClose": 404.02,
-    "lastUpdated": "2025-04-16T15:52:21.841814"
+    "lastUpdated": "2025-04-16T16:17:56.639256"
   },
   "CAH": {
     "symbol": "CAH",
-    "currentPrice": 136.02,
-    "change": 1.77,
-    "percentChange": 1.3184,
+    "currentPrice": 136.18,
+    "change": 1.93,
+    "percentChange": 1.4376,
     "open": 134.72,
-    "high": 136.27,
+    "high": 136.3,
     "low": 134.35,
     "previousClose": 134.25,
-    "lastUpdated": "2025-04-16T15:52:21.907127"
+    "lastUpdated": "2025-04-16T16:17:57.305527"
   },
   "VMC": {
     "symbol": "VMC",
-    "currentPrice": 242.93,
-    "change": -1.6,
-    "percentChange": -0.6543,
+    "currentPrice": 242.63,
+    "change": -1.9,
+    "percentChange": -0.777,
     "open": 242.62,
     "high": 244.3,
     "low": 240.793,
     "previousClose": 244.53,
-    "lastUpdated": "2025-04-16T15:52:21.971515"
+    "lastUpdated": "2025-04-16T16:17:57.941879"
   },
   "CNC": {
     "symbol": "CNC",
-    "currentPrice": 62.89,
-    "change": 0.61,
-    "percentChange": 0.9794,
+    "currentPrice": 62.84,
+    "change": 0.56,
+    "percentChange": 0.8992,
     "open": 62.71,
     "high": 63.15,
     "low": 62.56,
     "previousClose": 62.28,
-    "lastUpdated": "2025-04-16T15:52:22.069509"
+    "lastUpdated": "2025-04-16T16:17:58.590395"
   },
   "RMD": {
     "symbol": "RMD",
-    "currentPrice": 214,
-    "change": 0.03,
-    "percentChange": 0.014,
+    "currentPrice": 214.08,
+    "change": 0.11,
+    "percentChange": 0.0514,
     "open": 213.58,
     "high": 214.81,
     "low": 210.665,
     "previousClose": 213.97,
-    "lastUpdated": "2025-04-16T15:52:22.144875"
+    "lastUpdated": "2025-04-16T16:17:59.261914"
   },
   "IT": {
     "symbol": "IT",
-    "currentPrice": 405.42,
-    "change": 1.81,
-    "percentChange": 0.4485,
+    "currentPrice": 404.17,
+    "change": 0.56,
+    "percentChange": 0.1387,
     "open": 402,
     "high": 408.24,
     "low": 400.86,
     "previousClose": 403.61,
-    "lastUpdated": "2025-04-16T15:52:22.224190"
+    "lastUpdated": "2025-04-16T16:17:59.536329"
   },
   "EBAY": {
     "symbol": "EBAY",
-    "currentPrice": 67.21,
-    "change": 1.71,
-    "percentChange": 2.6107,
+    "currentPrice": 67.08,
+    "change": 1.58,
+    "percentChange": 2.4122,
     "open": 65.61,
     "high": 67.36,
     "low": 65.18,
     "previousClose": 65.5,
-    "lastUpdated": "2025-04-16T15:52:22.284246"
+    "lastUpdated": "2025-04-16T16:18:00.184728"
   },
   "ODFL": {
     "symbol": "ODFL",
-    "currentPrice": 150.24,
-    "change": -2.61,
-    "percentChange": -1.7076,
+    "currentPrice": 150.45,
+    "change": -2.4,
+    "percentChange": -1.5702,
     "open": 151.41,
     "high": 151.89,
     "low": 148.44,
     "previousClose": 152.85,
-    "lastUpdated": "2025-04-16T15:52:22.341270"
+    "lastUpdated": "2025-04-16T16:18:00.381061"
   },
   "NDAQ": {
     "symbol": "NDAQ",
-    "currentPrice": 72.68,
-    "change": -0.49,
-    "percentChange": -0.6697,
+    "currentPrice": 72.465,
+    "change": -0.705,
+    "percentChange": -0.9635,
     "open": 73,
     "high": 73.05,
     "low": 72.105,
     "previousClose": 73.17,
-    "lastUpdated": "2025-04-16T15:52:22.416549"
+    "lastUpdated": "2025-04-16T16:18:01.153913"
   },
   "MLM": {
     "symbol": "MLM",
-    "currentPrice": 495.31,
-    "change": -3.74,
-    "percentChange": -0.7494,
+    "currentPrice": 494.43,
+    "change": -4.62,
+    "percentChange": -0.9258,
     "open": 499.4,
     "high": 499.4,
     "low": 492.57,
     "previousClose": 499.05,
-    "lastUpdated": "2025-04-16T15:52:22.494661"
+    "lastUpdated": "2025-04-16T16:18:01.817753"
   },
   "EQT": {
     "symbol": "EQT",
-    "currentPrice": 51.72,
-    "change": 0.98,
-    "percentChange": 1.9314,
+    "currentPrice": 51.55,
+    "change": 0.81,
+    "percentChange": 1.5964,
     "open": 50.78,
     "high": 51.83,
     "low": 50.52,
     "previousClose": 50.74,
-    "lastUpdated": "2025-04-16T15:52:22.557614"
+    "lastUpdated": "2025-04-16T16:18:02.533507"
   },
   "WAB": {
     "symbol": "WAB",
-    "currentPrice": 172.01,
-    "change": -0.58,
-    "percentChange": -0.3361,
+    "currentPrice": 172.0562,
+    "change": -0.5338,
+    "percentChange": -0.3093,
     "open": 170.95,
     "high": 172.8436,
     "low": 170.425,
     "previousClose": 172.59,
-    "lastUpdated": "2025-04-16T15:52:22.625418"
+    "lastUpdated": "2025-04-16T16:18:03.391074"
   },
   "LULU": {
     "symbol": "LULU",
-    "currentPrice": 251.72,
-    "change": -3.92,
-    "percentChange": -1.5334,
+    "currentPrice": 252.44,
+    "change": -3.2,
+    "percentChange": -1.2518,
     "open": 253.87,
     "high": 256.94,
-    "low": 251.17,
+    "low": 250.7001,
     "previousClose": 255.64,
-    "lastUpdated": "2025-04-16T15:52:22.686097"
+    "lastUpdated": "2025-04-16T16:18:04.128968"
   },
   "GRMN": {
     "symbol": "GRMN",
-    "currentPrice": 191.785,
-    "change": -0.525,
-    "percentChange": -0.273,
+    "currentPrice": 190.99,
+    "change": -1.32,
+    "percentChange": -0.6864,
     "open": 191.56,
     "high": 192.99,
     "low": 189.99,
     "previousClose": 192.31,
-    "lastUpdated": "2025-04-16T15:52:22.758033"
+    "lastUpdated": "2025-04-16T16:18:05.068425"
   },
   "STZ": {
     "symbol": "STZ",
-    "currentPrice": 184.51,
-    "change": 0.65,
-    "percentChange": 0.3535,
+    "currentPrice": 184.4,
+    "change": 0.54,
+    "percentChange": 0.2937,
     "open": 183.95,
     "high": 185.1,
     "low": 183.35,
     "previousClose": 183.86,
-    "lastUpdated": "2025-04-16T15:52:22.828904"
+    "lastUpdated": "2025-04-16T16:18:05.753038"
   },
   "VTR": {
     "symbol": "VTR",
-    "currentPrice": 68.33,
-    "change": 0.55,
-    "percentChange": 0.8114,
+    "currentPrice": 68.195,
+    "change": 0.415,
+    "percentChange": 0.6123,
     "open": 67.9,
     "high": 68.52,
     "low": 67.65,
     "previousClose": 67.78,
-    "lastUpdated": "2025-04-16T15:52:22.884356"
+    "lastUpdated": "2025-04-16T16:18:06.474530"
   },
   "IR": {
     "symbol": "IR",
-    "currentPrice": 72.3,
-    "change": -0.53,
-    "percentChange": -0.7277,
+    "currentPrice": 72.22,
+    "change": -0.61,
+    "percentChange": -0.8376,
     "open": 71.89,
     "high": 72.69,
     "low": 71.69,
     "previousClose": 72.83,
-    "lastUpdated": "2025-04-16T15:52:22.957104"
+    "lastUpdated": "2025-04-16T16:18:07.126171"
   },
   "A": {
     "symbol": "A",
-    "currentPrice": 103.415,
-    "change": 0.295,
-    "percentChange": 0.2861,
+    "currentPrice": 103.315,
+    "change": 0.195,
+    "percentChange": 0.1891,
     "open": 103.65,
     "high": 104.83,
     "low": 102.36,
     "previousClose": 103.12,
-    "lastUpdated": "2025-04-16T15:52:23.017331"
+    "lastUpdated": "2025-04-16T16:18:07.773477"
   },
   "GEHC": {
     "symbol": "GEHC",
-    "currentPrice": 62.59,
-    "change": -0.51,
-    "percentChange": -0.8082,
+    "currentPrice": 62.51,
+    "change": -0.59,
+    "percentChange": -0.935,
     "open": 63,
     "high": 63.695,
     "low": 62.06,
     "previousClose": 63.1,
-    "lastUpdated": "2025-04-16T15:52:23.090446"
+    "lastUpdated": "2025-04-16T16:18:08.458849"
   },
   "EXR": {
     "symbol": "EXR",
-    "currentPrice": 139.145,
-    "change": 0.905,
-    "percentChange": 0.6547,
+    "currentPrice": 138.84,
+    "change": 0.6,
+    "percentChange": 0.434,
     "open": 138.2,
-    "high": 139.53,
+    "high": 139.61,
     "low": 138.09,
     "previousClose": 138.24,
-    "lastUpdated": "2025-04-16T15:52:23.165136"
+    "lastUpdated": "2025-04-16T16:18:09.128211"
   },
   "AWK": {
     "symbol": "AWK",
-    "currentPrice": 147.78,
-    "change": 0.9,
-    "percentChange": 0.6127,
+    "currentPrice": 147.08,
+    "change": 0.2,
+    "percentChange": 0.1362,
     "open": 148.21,
     "high": 148.52,
     "low": 146.48,
     "previousClose": 146.88,
-    "lastUpdated": "2025-04-16T15:52:23.229581"
+    "lastUpdated": "2025-04-16T16:18:09.402096"
   },
   "BRO": {
     "symbol": "BRO",
-    "currentPrice": 120.71,
-    "change": 1.18,
-    "percentChange": 0.9872,
+    "currentPrice": 120.4234,
+    "change": 0.8934,
+    "percentChange": 0.7474,
     "open": 120.47,
     "high": 120.86,
     "low": 119.68,
     "previousClose": 119.53,
-    "lastUpdated": "2025-04-16T15:52:23.316040"
+    "lastUpdated": "2025-04-16T16:18:10.159936"
   },
   "AVB": {
     "symbol": "AVB",
-    "currentPrice": 201.95,
-    "change": 1.45,
-    "percentChange": 0.7232,
+    "currentPrice": 201.4388,
+    "change": 0.9388,
+    "percentChange": 0.4682,
     "open": 201.85,
     "high": 203.08,
     "low": 200.43,
     "previousClose": 200.5,
-    "lastUpdated": "2025-04-16T15:52:23.396028"
+    "lastUpdated": "2025-04-16T16:18:10.360297"
   },
   "TSCO": {
     "symbol": "TSCO",
-    "currentPrice": 50.535,
-    "change": -0.465,
-    "percentChange": -0.9118,
+    "currentPrice": 50.415,
+    "change": -0.585,
+    "percentChange": -1.1471,
     "open": 51.07,
     "high": 51.08,
     "low": 50.34,
     "previousClose": 51,
-    "lastUpdated": "2025-04-16T15:52:23.467681"
+    "lastUpdated": "2025-04-16T16:18:11.084598"
   },
   "EFX": {
     "symbol": "EFX",
-    "currentPrice": 222.98,
-    "change": -2.57,
-    "percentChange": -1.1394,
+    "currentPrice": 221.73,
+    "change": -3.82,
+    "percentChange": -1.6936,
     "open": 224.13,
     "high": 225.95,
     "low": 221.1696,
     "previousClose": 225.55,
-    "lastUpdated": "2025-04-16T15:52:23.525450"
+    "lastUpdated": "2025-04-16T16:18:11.801881"
   },
   "BR": {
     "symbol": "BR",
-    "currentPrice": 236.29,
-    "change": 0.53,
-    "percentChange": 0.2248,
+    "currentPrice": 236.37,
+    "change": 0.61,
+    "percentChange": 0.2587,
     "open": 235.805,
     "high": 236.9124,
     "low": 233.68,
     "previousClose": 235.76,
-    "lastUpdated": "2025-04-16T15:52:23.614991"
+    "lastUpdated": "2025-04-16T16:18:12.555284"
   },
   "DTE": {
     "symbol": "DTE",
-    "currentPrice": 133.82,
-    "change": 0.9,
-    "percentChange": 0.6771,
+    "currentPrice": 133.37,
+    "change": 0.45,
+    "percentChange": 0.3385,
     "open": 133.69,
     "high": 134.245,
     "low": 132.875,
     "previousClose": 132.92,
-    "lastUpdated": "2025-04-16T15:52:23.709273"
+    "lastUpdated": "2025-04-16T16:18:13.201464"
   },
   "DXCM": {
     "symbol": "DXCM",
-    "currentPrice": 69.25,
-    "change": 0.02,
-    "percentChange": 0.0289,
+    "currentPrice": 69.33,
+    "change": 0.1,
+    "percentChange": 0.1444,
     "open": 69,
     "high": 69.69,
     "low": 68.06,
     "previousClose": 69.23,
-    "lastUpdated": "2025-04-16T15:52:23.789502"
+    "lastUpdated": "2025-04-16T16:18:13.843441"
   },
   "MTB": {
     "symbol": "MTB",
-    "currentPrice": 161.415,
-    "change": 1.825,
-    "percentChange": 1.1436,
+    "currentPrice": 161.35,
+    "change": 1.76,
+    "percentChange": 1.1028,
     "open": 159.06,
     "high": 161.76,
     "low": 158.2,
     "previousClose": 159.59,
-    "lastUpdated": "2025-04-16T15:52:23.854024"
+    "lastUpdated": "2025-04-16T16:18:14.496919"
   },
   "XYL": {
     "symbol": "XYL",
-    "currentPrice": 110.06,
-    "change": 0.92,
-    "percentChange": 0.843,
+    "currentPrice": 110,
+    "change": 0.86,
+    "percentChange": 0.788,
     "open": 108.89,
     "high": 110.475,
     "low": 108.26,
     "previousClose": 109.14,
-    "lastUpdated": "2025-04-16T15:52:23.938723"
+    "lastUpdated": "2025-04-16T16:18:15.138327"
   },
   "AEE": {
     "symbol": "AEE",
-    "currentPrice": 99.46,
-    "change": 0.43,
-    "percentChange": 0.4342,
+    "currentPrice": 99.11,
+    "change": 0.08,
+    "percentChange": 0.0808,
     "open": 99.37,
     "high": 99.63,
     "low": 98.79,
     "previousClose": 99.03,
-    "lastUpdated": "2025-04-16T15:52:24.013559"
+    "lastUpdated": "2025-04-16T16:18:15.800439"
   },
   "ROK": {
     "symbol": "ROK",
-    "currentPrice": 230.05,
-    "change": -3,
-    "percentChange": -1.2873,
+    "currentPrice": 229.78,
+    "change": -3.27,
+    "percentChange": -1.4031,
     "open": 229.9,
     "high": 232.24,
     "low": 228.475,
     "previousClose": 233.05,
-    "lastUpdated": "2025-04-16T15:52:24.070854"
+    "lastUpdated": "2025-04-16T16:18:16.445425"
   },
   "ANSS": {
     "symbol": "ANSS",
-    "currentPrice": 304.88,
-    "change": 0.8,
-    "percentChange": 0.2631,
+    "currentPrice": 304.17,
+    "change": 0.09,
+    "percentChange": 0.0296,
     "open": 301.4,
     "high": 305.43,
     "low": 299.05,
     "previousClose": 304.08,
-    "lastUpdated": "2025-04-16T15:52:24.155661"
+    "lastUpdated": "2025-04-16T16:18:16.639123"
   },
   "NUE": {
     "symbol": "NUE",
-    "currentPrice": 110.35,
-    "change": -0.13,
-    "percentChange": -0.1177,
+    "currentPrice": 110.165,
+    "change": -0.315,
+    "percentChange": -0.2851,
     "open": 110.6,
     "high": 111.605,
     "low": 109.3,
     "previousClose": 110.48,
-    "lastUpdated": "2025-04-16T15:52:24.227865"
+    "lastUpdated": "2025-04-16T16:18:17.293888"
   },
   "CHD": {
     "symbol": "CHD",
-    "currentPrice": 104.58,
-    "change": -0.49,
-    "percentChange": -0.4664,
+    "currentPrice": 104.49,
+    "change": -0.58,
+    "percentChange": -0.552,
     "open": 105.63,
     "high": 106.12,
-    "low": 104.5,
+    "low": 104.27,
     "previousClose": 105.07,
-    "lastUpdated": "2025-04-16T15:52:24.294312"
+    "lastUpdated": "2025-04-16T16:18:18.051517"
   },
   "PPL": {
     "symbol": "PPL",
-    "currentPrice": 35.68,
-    "change": 0.31,
-    "percentChange": 0.8764,
+    "currentPrice": 35.555,
+    "change": 0.185,
+    "percentChange": 0.523,
     "open": 35.48,
-    "high": 35.685,
+    "high": 35.7,
     "low": 35.33,
     "previousClose": 35.37,
-    "lastUpdated": "2025-04-16T15:52:24.365011"
+    "lastUpdated": "2025-04-16T16:18:18.781340"
   },
   "DAL": {
     "symbol": "DAL",
-    "currentPrice": 41.57,
-    "change": 0.74,
-    "percentChange": 1.8124,
+    "currentPrice": 41.415,
+    "change": 0.585,
+    "percentChange": 1.4328,
     "open": 42.15,
     "high": 42.15,
     "low": 40.47,
     "previousClose": 40.83,
-    "lastUpdated": "2025-04-16T15:52:24.439101"
+    "lastUpdated": "2025-04-16T16:18:19.635814"
   },
   "KHC": {
     "symbol": "KHC",
-    "currentPrice": 29.26,
-    "change": -0.16,
-    "percentChange": -0.5438,
+    "currentPrice": 29.24,
+    "change": -0.18,
+    "percentChange": -0.6118,
     "open": 29.54,
     "high": 29.65,
-    "low": 29.21,
+    "low": 29.16,
     "previousClose": 29.42,
-    "lastUpdated": "2025-04-16T15:52:24.512121"
+    "lastUpdated": "2025-04-16T16:18:20.393788"
   },
   "OXY": {
     "symbol": "OXY",
-    "currentPrice": 39.0253,
-    "change": 1.2253,
-    "percentChange": 3.2415,
+    "currentPrice": 39.0298,
+    "change": 1.2298,
+    "percentChange": 3.2534,
     "open": 37.96,
     "high": 39.195,
     "low": 37.96,
     "previousClose": 37.8,
-    "lastUpdated": "2025-04-16T15:52:24.582383"
+    "lastUpdated": "2025-04-16T16:18:21.110263"
   },
   "DELL": {
     "symbol": "DELL",
-    "currentPrice": 84.37,
-    "change": -1.12,
-    "percentChange": -1.3101,
+    "currentPrice": 83.92,
+    "change": -1.57,
+    "percentChange": -1.8365,
     "open": 82.58,
     "high": 85.3,
     "low": 82.58,
     "previousClose": 85.49,
-    "lastUpdated": "2025-04-16T15:52:24.642605"
+    "lastUpdated": "2025-04-16T16:18:21.726154"
   },
   "LEN": {
     "symbol": "LEN",
-    "currentPrice": 104.41,
-    "change": -0.67,
-    "percentChange": -0.6376,
+    "currentPrice": 103.915,
+    "change": -1.165,
+    "percentChange": -1.1087,
     "open": 104.82,
     "high": 105.74,
-    "low": 103.965,
+    "low": 103.88,
     "previousClose": 105.08,
-    "lastUpdated": "2025-04-16T15:52:24.702063"
+    "lastUpdated": "2025-04-16T16:18:22.448862"
   },
   "IP": {
     "symbol": "IP",
-    "currentPrice": 46.925,
-    "change": 0.055,
-    "percentChange": 0.1173,
+    "currentPrice": 46.91,
+    "change": 0.04,
+    "percentChange": 0.0853,
     "open": 46.29,
     "high": 47.09,
     "low": 46.22,
     "previousClose": 46.87,
-    "lastUpdated": "2025-04-16T15:52:24.767971"
+    "lastUpdated": "2025-04-16T16:18:23.118459"
   },
   "HSY": {
     "symbol": "HSY",
-    "currentPrice": 167.025,
-    "change": -0.925,
-    "percentChange": -0.5508,
+    "currentPrice": 167.12,
+    "change": -0.83,
+    "percentChange": -0.4942,
     "open": 168.26,
     "high": 169.51,
     "low": 166.47,
     "previousClose": 167.95,
-    "lastUpdated": "2025-04-16T15:52:24.836311"
+    "lastUpdated": "2025-04-16T16:18:23.799337"
   },
   "RJF": {
     "symbol": "RJF",
-    "currentPrice": 134.71,
-    "change": -1.5,
-    "percentChange": -1.1012,
+    "currentPrice": 134.21,
+    "change": -2,
+    "percentChange": -1.4683,
     "open": 134.445,
     "high": 136.02,
     "low": 134.09,
     "previousClose": 136.21,
-    "lastUpdated": "2025-04-16T15:52:24.905655"
+    "lastUpdated": "2025-04-16T16:18:24.462338"
   },
   "DD": {
     "symbol": "DD",
-    "currentPrice": 60.14,
-    "change": -0.32,
-    "percentChange": -0.5293,
+    "currentPrice": 60.04,
+    "change": -0.42,
+    "percentChange": -0.6947,
     "open": 60.38,
     "high": 60.7991,
     "low": 59.79,
     "previousClose": 60.46,
-    "lastUpdated": "2025-04-16T15:52:25.005696"
+    "lastUpdated": "2025-04-16T16:18:25.164851"
   },
   "IRM": {
     "symbol": "IRM",
-    "currentPrice": 83.74,
-    "change": 0.44,
-    "percentChange": 0.5282,
+    "currentPrice": 83.145,
+    "change": -0.155,
+    "percentChange": -0.1861,
     "open": 82.85,
     "high": 84.23,
     "low": 82.2821,
     "previousClose": 83.3,
-    "lastUpdated": "2025-04-16T15:52:25.096016"
+    "lastUpdated": "2025-04-16T16:18:25.372447"
   },
   "IQV": {
     "symbol": "IQV",
-    "currentPrice": 150.505,
-    "change": 1.355,
-    "percentChange": 0.9085,
+    "currentPrice": 150.06,
+    "change": 0.91,
+    "percentChange": 0.6101,
     "open": 149.53,
     "high": 151.49,
     "low": 148.25,
     "previousClose": 149.15,
-    "lastUpdated": "2025-04-16T15:52:25.187577"
+    "lastUpdated": "2025-04-16T16:18:26.131610"
   },
   "TYL": {
     "symbol": "TYL",
-    "currentPrice": 575.905,
-    "change": -2.525,
-    "percentChange": -0.4365,
+    "currentPrice": 575.215,
+    "change": -3.215,
+    "percentChange": -0.5558,
     "open": 575.5,
     "high": 578.35,
     "low": 571,
     "previousClose": 578.43,
-    "lastUpdated": "2025-04-16T15:52:25.254946"
+    "lastUpdated": "2025-04-16T16:18:26.329655"
   },
   "GDDY": {
     "symbol": "GDDY",
-    "currentPrice": 174.41,
-    "change": -0.59,
-    "percentChange": -0.3371,
+    "currentPrice": 173.96,
+    "change": -1.04,
+    "percentChange": -0.5943,
     "open": 174,
     "high": 175.0744,
     "low": 172.0301,
     "previousClose": 175,
-    "lastUpdated": "2025-04-16T15:53:25.404530"
+    "lastUpdated": "2025-04-16T16:19:27.032239"
   },
   "ATO": {
     "symbol": "ATO",
-    "currentPrice": 157.55,
-    "change": 1.28,
-    "percentChange": 0.8191,
+    "currentPrice": 157.4,
+    "change": 1.13,
+    "percentChange": 0.7231,
     "open": 157.05,
     "high": 157.75,
     "low": 156.1634,
     "previousClose": 156.27,
-    "lastUpdated": "2025-04-16T15:53:25.460739"
+    "lastUpdated": "2025-04-16T16:19:27.675433"
   },
   "CNP": {
     "symbol": "CNP",
-    "currentPrice": 37.185,
-    "change": 0.025,
-    "percentChange": 0.0673,
+    "currentPrice": 37.195,
+    "change": 0.035,
+    "percentChange": 0.0942,
     "open": 37.39,
     "high": 37.39,
     "low": 36.855,
     "previousClose": 37.16,
-    "lastUpdated": "2025-04-16T15:53:25.540738"
+    "lastUpdated": "2025-04-16T16:19:28.327838"
   },
   "MPWR": {
     "symbol": "MPWR",
-    "currentPrice": 523.485,
-    "change": -20.765,
-    "percentChange": -3.8153,
+    "currentPrice": 523.815,
+    "change": -20.435,
+    "percentChange": -3.7547,
     "open": 526.1,
     "high": 531.075,
     "low": 517.27,
     "previousClose": 544.25,
-    "lastUpdated": "2025-04-16T15:53:25.594387"
+    "lastUpdated": "2025-04-16T16:19:29.057929"
   },
   "KEYS": {
     "symbol": "KEYS",
-    "currentPrice": 135.65,
-    "change": -1.24,
-    "percentChange": -0.9058,
+    "currentPrice": 135.68,
+    "change": -1.21,
+    "percentChange": -0.8839,
     "open": 136.06,
     "high": 136.525,
     "low": 134.65,
     "previousClose": 136.89,
-    "lastUpdated": "2025-04-16T15:53:25.653708"
+    "lastUpdated": "2025-04-16T16:19:29.821403"
   },
   "FANG": {
     "symbol": "FANG",
-    "currentPrice": 131.68,
-    "change": 4.54,
-    "percentChange": 3.5709,
+    "currentPrice": 131.2023,
+    "change": 4.0623,
+    "percentChange": 3.1951,
     "open": 128.28,
     "high": 132.18,
     "low": 127.71,
     "previousClose": 127.14,
-    "lastUpdated": "2025-04-16T15:53:25.722083"
+    "lastUpdated": "2025-04-16T16:19:30.470403"
   },
   "PPG": {
     "symbol": "PPG",
-    "currentPrice": 99.58,
-    "change": -0.03,
-    "percentChange": -0.0301,
+    "currentPrice": 99.455,
+    "change": -0.155,
+    "percentChange": -0.1556,
     "open": 100.08,
     "high": 100.55,
     "low": 98.245,
     "previousClose": 99.61,
-    "lastUpdated": "2025-04-16T15:53:25.788109"
+    "lastUpdated": "2025-04-16T16:19:31.381914"
   },
   "STT": {
     "symbol": "STT",
-    "currentPrice": 80.73,
-    "change": -0.67,
-    "percentChange": -0.8231,
+    "currentPrice": 80.58,
+    "change": -0.82,
+    "percentChange": -1.0074,
     "open": 80.9,
     "high": 81.645,
     "low": 80.16,
     "previousClose": 81.4,
-    "lastUpdated": "2025-04-16T15:53:25.859232"
+    "lastUpdated": "2025-04-16T16:19:32.033490"
   },
   "SBAC": {
     "symbol": "SBAC",
-    "currentPrice": 228.17,
-    "change": 3.3,
-    "percentChange": 1.4675,
+    "currentPrice": 227.1,
+    "change": 2.23,
+    "percentChange": 0.9917,
     "open": 226.57,
     "high": 228.75,
     "low": 221.88,
     "previousClose": 224.87,
-    "lastUpdated": "2025-04-16T15:53:25.918848"
+    "lastUpdated": "2025-04-16T16:19:32.737565"
   },
   "FITB": {
     "symbol": "FITB",
-    "currentPrice": 34.84,
-    "change": -0.23,
-    "percentChange": -0.6558,
+    "currentPrice": 34.815,
+    "change": -0.255,
+    "percentChange": -0.7271,
     "open": 35.14,
     "high": 35.2699,
     "low": 34.51,
     "previousClose": 35.07,
-    "lastUpdated": "2025-04-16T15:53:25.989860"
+    "lastUpdated": "2025-04-16T16:19:33.021317"
   },
   "DRI": {
     "symbol": "DRI",
-    "currentPrice": 199.91,
-    "change": 0.35,
-    "percentChange": 0.1754,
+    "currentPrice": 199.255,
+    "change": -0.305,
+    "percentChange": -0.1528,
     "open": 199.57,
     "high": 200.43,
     "low": 198.04,
     "previousClose": 199.56,
-    "lastUpdated": "2025-04-16T15:53:26.067444"
+    "lastUpdated": "2025-04-16T16:19:33.711925"
   },
   "TPL": {
     "symbol": "TPL",
-    "currentPrice": 1287.19,
-    "change": 22.92,
-    "percentChange": 1.8129,
+    "currentPrice": 1283.17,
+    "change": 18.9,
+    "percentChange": 1.4949,
     "open": 1241.51,
     "high": 1290.85,
     "low": 1241.51,
     "previousClose": 1264.27,
-    "lastUpdated": "2025-04-16T15:53:26.132404"
+    "lastUpdated": "2025-04-16T16:19:34.574057"
   },
   "K": {
     "symbol": "K",
-    "currentPrice": 82.33,
-    "change": 0.03,
-    "percentChange": 0.0365,
+    "currentPrice": 82.32,
+    "change": 0.02,
+    "percentChange": 0.0243,
     "open": 82.3,
     "high": 82.39,
     "low": 82.295,
     "previousClose": 82.3,
-    "lastUpdated": "2025-04-16T15:53:26.211628"
+    "lastUpdated": "2025-04-16T16:19:35.192269"
   },
   "VLTO": {
     "symbol": "VLTO",
-    "currentPrice": 90.17,
-    "change": 0.11,
-    "percentChange": 0.1221,
+    "currentPrice": 90.27,
+    "change": 0.21,
+    "percentChange": 0.2332,
     "open": 89.94,
     "high": 90.725,
     "low": 89.16,
     "previousClose": 90.06,
-    "lastUpdated": "2025-04-16T15:53:26.285376"
+    "lastUpdated": "2025-04-16T16:19:35.953014"
   },
   "CBOE": {
     "symbol": "CBOE",
-    "currentPrice": 219.15,
-    "change": 1.2,
-    "percentChange": 0.5506,
+    "currentPrice": 218.81,
+    "change": 0.86,
+    "percentChange": 0.3946,
     "open": 218.13,
     "high": 219.659,
     "low": 217.81,
     "previousClose": 217.95,
-    "lastUpdated": "2025-04-16T15:53:26.351351"
+    "lastUpdated": "2025-04-16T16:19:36.683997"
   },
   "EQR": {
     "symbol": "EQR",
-    "currentPrice": 67.71,
-    "change": 0.69,
-    "percentChange": 1.0295,
+    "currentPrice": 67.5,
+    "change": 0.48,
+    "percentChange": 0.7162,
     "open": 67.29,
     "high": 67.94,
     "low": 66.88,
     "previousClose": 67.02,
-    "lastUpdated": "2025-04-16T15:53:26.412358"
+    "lastUpdated": "2025-04-16T16:19:37.352195"
   },
   "DOV": {
     "symbol": "DOV",
-    "currentPrice": 163.36,
-    "change": 0.08,
-    "percentChange": 0.049,
+    "currentPrice": 162.495,
+    "change": -0.785,
+    "percentChange": -0.4808,
     "open": 162.65,
     "high": 164.54,
     "low": 161.5169,
     "previousClose": 163.28,
-    "lastUpdated": "2025-04-16T15:53:26.485187"
+    "lastUpdated": "2025-04-16T16:19:37.993460"
   },
   "FTV": {
     "symbol": "FTV",
-    "currentPrice": 65.31,
-    "change": -0.48,
-    "percentChange": -0.7296,
+    "currentPrice": 65.28,
+    "change": -0.51,
+    "percentChange": -0.7752,
     "open": 65.84,
     "high": 66.235,
     "low": 65.03,
     "previousClose": 65.79,
-    "lastUpdated": "2025-04-16T15:53:26.545412"
+    "lastUpdated": "2025-04-16T16:19:38.767866"
   },
   "EIX": {
     "symbol": "EIX",
-    "currentPrice": 57.21,
-    "change": 0.31,
-    "percentChange": 0.5448,
+    "currentPrice": 56.91,
+    "change": 0.01,
+    "percentChange": 0.0176,
     "open": 57,
     "high": 57.4,
     "low": 56.89,
     "previousClose": 56.9,
-    "lastUpdated": "2025-04-16T15:53:26.621037"
+    "lastUpdated": "2025-04-16T16:19:39.419953"
   },
   "HPQ": {
     "symbol": "HPQ",
-    "currentPrice": 23.625,
-    "change": -0.115,
-    "percentChange": -0.4844,
+    "currentPrice": 23.545,
+    "change": -0.195,
+    "percentChange": -0.8214,
     "open": 23.57,
     "high": 23.7899,
     "low": 23.3,
     "previousClose": 23.74,
-    "lastUpdated": "2025-04-16T15:53:26.675044"
+    "lastUpdated": "2025-04-16T16:19:40.070150"
   },
   "TDY": {
     "symbol": "TDY",
-    "currentPrice": 465.39,
-    "change": -3.23,
-    "percentChange": -0.6893,
+    "currentPrice": 464.62,
+    "change": -4,
+    "percentChange": -0.8536,
     "open": 464.95,
     "high": 466.94,
     "low": 462.475,
     "previousClose": 468.62,
-    "lastUpdated": "2025-04-16T15:53:26.786052"
+    "lastUpdated": "2025-04-16T16:19:40.719477"
   },
   "CMS": {
     "symbol": "CMS",
-    "currentPrice": 73.215,
-    "change": 0.505,
-    "percentChange": 0.6945,
+    "currentPrice": 72.89,
+    "change": 0.18,
+    "percentChange": 0.2476,
     "open": 73.35,
     "high": 73.43,
     "low": 72.74,
     "previousClose": 72.71,
-    "lastUpdated": "2025-04-16T15:53:26.843100"
+    "lastUpdated": "2025-04-16T16:19:41.401224"
   },
   "STE": {
     "symbol": "STE",
-    "currentPrice": 222.77,
-    "change": 1.73,
-    "percentChange": 0.7827,
+    "currentPrice": 222.4,
+    "change": 1.36,
+    "percentChange": 0.6153,
     "open": 221.56,
     "high": 223.395,
     "low": 219.91,
     "previousClose": 221.04,
-    "lastUpdated": "2025-04-16T15:53:26.895403"
+    "lastUpdated": "2025-04-16T16:19:42.154583"
   },
   "ADM": {
     "symbol": "ADM",
-    "currentPrice": 46.7702,
-    "change": 0.7002,
-    "percentChange": 1.5199,
+    "currentPrice": 46.81,
+    "change": 0.74,
+    "percentChange": 1.6063,
     "open": 46.18,
     "high": 46.88,
     "low": 46.1,
     "previousClose": 46.07,
-    "lastUpdated": "2025-04-16T15:53:26.973745"
+    "lastUpdated": "2025-04-16T16:19:43.011831"
   },
   "NVR": {
     "symbol": "NVR",
-    "currentPrice": 7194.22,
-    "change": -10.95,
-    "percentChange": -0.152,
+    "currentPrice": 7162.69,
+    "change": -42.48,
+    "percentChange": -0.5896,
     "open": 7193.18,
     "high": 7284.1399,
     "low": 7150.65,
     "previousClose": 7205.17,
-    "lastUpdated": "2025-04-16T15:53:27.036803"
+    "lastUpdated": "2025-04-16T16:19:43.635515"
   },
   "EXE": {
     "symbol": "EXE",
-    "currentPrice": 106.23,
-    "change": 2,
-    "percentChange": 1.9188,
+    "currentPrice": 106.03,
+    "change": 1.8,
+    "percentChange": 1.727,
     "open": 104.145,
     "high": 106.33,
     "low": 104.03,
     "previousClose": 104.23,
-    "lastUpdated": "2025-04-16T15:53:27.099949"
+    "lastUpdated": "2025-04-16T16:19:43.832838"
   },
   "CPAY": {
     "symbol": "CPAY",
-    "currentPrice": 311.39,
-    "change": -1.45,
-    "percentChange": -0.4635,
+    "currentPrice": 310.85,
+    "change": -1.99,
+    "percentChange": -0.6361,
     "open": 310.38,
     "high": 314.485,
     "low": 309.345,
     "previousClose": 312.84,
-    "lastUpdated": "2025-04-16T15:53:27.166158"
+    "lastUpdated": "2025-04-16T16:19:44.502195"
   },
   "MTD": {
     "symbol": "MTD",
-    "currentPrice": 1022.72,
-    "change": -23.86,
-    "percentChange": -2.2798,
+    "currentPrice": 1024.545,
+    "change": -22.035,
+    "percentChange": -2.1054,
     "open": 1041.52,
     "high": 1049.9,
     "low": 1020.695,
     "previousClose": 1046.58,
-    "lastUpdated": "2025-04-16T15:53:27.242492"
+    "lastUpdated": "2025-04-16T16:19:45.411610"
   },
   "MCHP": {
     "symbol": "MCHP",
-    "currentPrice": 37.76,
-    "change": -0.97,
-    "percentChange": -2.5045,
+    "currentPrice": 37.67,
+    "change": -1.06,
+    "percentChange": -2.7369,
     "open": 37.88,
     "high": 38.4,
     "low": 37.04,
     "previousClose": 38.73,
-    "lastUpdated": "2025-04-16T15:53:27.335126"
+    "lastUpdated": "2025-04-16T16:19:46.091652"
   },
   "UAL": {
     "symbol": "UAL",
-    "currentPrice": 68.66,
-    "change": 1.66,
-    "percentChange": 2.4776,
+    "currentPrice": 68.1728,
+    "change": 1.1728,
+    "percentChange": 1.7504,
     "open": 71.67,
     "high": 71.67,
     "low": 66.63,
     "previousClose": 67,
-    "lastUpdated": "2025-04-16T15:53:27.421331"
+    "lastUpdated": "2025-04-16T16:19:46.863693"
   },
   "GPN": {
     "symbol": "GPN",
-    "currentPrice": 85.52,
-    "change": 0.1,
-    "percentChange": 0.1171,
+    "currentPrice": 85.24,
+    "change": -0.18,
+    "percentChange": -0.2107,
     "open": 85.21,
     "high": 85.712,
     "low": 84.49,
     "previousClose": 85.42,
-    "lastUpdated": "2025-04-16T15:53:27.490275"
+    "lastUpdated": "2025-04-16T16:19:47.571697"
   },
   "CINF": {
     "symbol": "CINF",
-    "currentPrice": 134.13,
-    "change": 0.8,
-    "percentChange": 0.6,
+    "currentPrice": 134.555,
+    "change": 1.225,
+    "percentChange": 0.9188,
     "open": 133.85,
     "high": 135.32,
     "low": 132.6,
     "previousClose": 133.33,
-    "lastUpdated": "2025-04-16T15:53:27.551683"
+    "lastUpdated": "2025-04-16T16:19:48.271442"
   },
   "FE": {
     "symbol": "FE",
-    "currentPrice": 41.34,
-    "change": 0.3,
-    "percentChange": 0.731,
+    "currentPrice": 41.215,
+    "change": 0.175,
+    "percentChange": 0.4264,
     "open": 41.04,
     "high": 41.42,
     "low": 41.04,
     "previousClose": 41.04,
-    "lastUpdated": "2025-04-16T15:53:27.617276"
+    "lastUpdated": "2025-04-16T16:19:49.002566"
   },
   "ES": {
     "symbol": "ES",
-    "currentPrice": 59.035,
-    "change": 1.055,
-    "percentChange": 1.8196,
+    "currentPrice": 58.785,
+    "change": 0.805,
+    "percentChange": 1.3884,
     "open": 58.43,
     "high": 59.08,
     "low": 58.08,
     "previousClose": 57.98,
-    "lastUpdated": "2025-04-16T15:53:27.708538"
+    "lastUpdated": "2025-04-16T16:19:49.762754"
   },
   "ZBH": {
     "symbol": "ZBH",
-    "currentPrice": 98.23,
-    "change": 0.96,
-    "percentChange": 0.9869,
+    "currentPrice": 98.195,
+    "change": 0.925,
+    "percentChange": 0.951,
     "open": 97.83,
     "high": 98.71,
     "low": 96.86,
     "previousClose": 97.27,
-    "lastUpdated": "2025-04-16T15:53:27.778160"
+    "lastUpdated": "2025-04-16T16:19:50.783340"
   },
   "LYV": {
     "symbol": "LYV",
-    "currentPrice": 126.81,
-    "change": -2.17,
-    "percentChange": -1.6824,
+    "currentPrice": 126.315,
+    "change": -2.665,
+    "percentChange": -2.0662,
     "open": 127.13,
     "high": 128.04,
-    "low": 126.37,
+    "low": 126.3,
     "previousClose": 128.98,
-    "lastUpdated": "2025-04-16T15:53:27.849268"
+    "lastUpdated": "2025-04-16T16:19:51.422107"
   },
   "WRB": {
     "symbol": "WRB",
-    "currentPrice": 69.6699,
-    "change": 1.3099,
-    "percentChange": 1.9162,
+    "currentPrice": 69.46,
+    "change": 1.1,
+    "percentChange": 1.6091,
     "open": 69.19,
     "high": 69.83,
     "low": 68.41,
     "previousClose": 68.36,
-    "lastUpdated": "2025-04-16T15:53:27.923751"
+    "lastUpdated": "2025-04-16T16:19:52.066144"
   },
   "SW": {
     "symbol": "SW",
-    "currentPrice": 41.02,
-    "change": -0.09,
-    "percentChange": -0.2189,
+    "currentPrice": 40.96,
+    "change": -0.15,
+    "percentChange": -0.3649,
     "open": 40.94,
     "high": 41.34,
     "low": 40.84,
     "previousClose": 41.11,
-    "lastUpdated": "2025-04-16T15:53:27.984657"
+    "lastUpdated": "2025-04-16T16:19:52.814140"
   },
   "VRSN": {
     "symbol": "VRSN",
-    "currentPrice": 249.97,
-    "change": -0.26,
-    "percentChange": -0.1039,
+    "currentPrice": 249.565,
+    "change": -0.665,
+    "percentChange": -0.2658,
     "open": 249.32,
     "high": 251,
     "low": 248.13,
     "previousClose": 250.23,
-    "lastUpdated": "2025-04-16T15:53:28.061750"
+    "lastUpdated": "2025-04-16T16:19:53.467502"
   },
   "CDW": {
     "symbol": "CDW",
-    "currentPrice": 150.305,
-    "change": -0.525,
-    "percentChange": -0.3481,
+    "currentPrice": 150.19,
+    "change": -0.64,
+    "percentChange": -0.4243,
     "open": 150.4,
     "high": 151.1568,
     "low": 148.89,
     "previousClose": 150.83,
-    "lastUpdated": "2025-04-16T15:53:28.119537"
+    "lastUpdated": "2025-04-16T16:19:54.210595"
   },
   "DOW": {
     "symbol": "DOW",
-    "currentPrice": 27.92,
-    "change": 0.22,
-    "percentChange": 0.7942,
+    "currentPrice": 27.845,
+    "change": 0.145,
+    "percentChange": 0.5235,
     "open": 27.79,
     "high": 28.18,
     "low": 27.46,
     "previousClose": 27.7,
-    "lastUpdated": "2025-04-16T15:53:28.215429"
+    "lastUpdated": "2025-04-16T16:19:55.064931"
   },
   "DG": {
     "symbol": "DG",
-    "currentPrice": 88.94,
-    "change": 0.51,
-    "percentChange": 0.5767,
+    "currentPrice": 88.9135,
+    "change": 0.4835,
+    "percentChange": 0.5468,
     "open": 88.56,
     "high": 89.735,
     "low": 87.25,
     "previousClose": 88.43,
-    "lastUpdated": "2025-04-16T15:53:28.273903"
+    "lastUpdated": "2025-04-16T16:19:55.782331"
   },
   "TROW": {
     "symbol": "TROW",
-    "currentPrice": 86.75,
-    "change": -0.83,
-    "percentChange": -0.9477,
+    "currentPrice": 86.615,
+    "change": -0.965,
+    "percentChange": -1.1018,
     "open": 87.45,
     "high": 87.83,
     "low": 86.1075,
     "previousClose": 87.58,
-    "lastUpdated": "2025-04-16T15:53:28.356100"
+    "lastUpdated": "2025-04-16T16:19:56.445896"
   },
   "MOH": {
     "symbol": "MOH",
-    "currentPrice": 337.1,
-    "change": 1.6,
-    "percentChange": 0.4769,
+    "currentPrice": 336.31,
+    "change": 0.81,
+    "percentChange": 0.2414,
     "open": 335,
     "high": 340.88,
     "low": 335,
     "previousClose": 335.5,
-    "lastUpdated": "2025-04-16T15:53:28.430818"
+    "lastUpdated": "2025-04-16T16:19:57.171768"
   },
   "MKC": {
     "symbol": "MKC",
-    "currentPrice": 74.83,
-    "change": -0.44,
-    "percentChange": -0.5846,
+    "currentPrice": 74.49,
+    "change": -0.78,
+    "percentChange": -1.0363,
     "open": 75.46,
     "high": 75.77,
-    "low": 74.67,
+    "low": 74.49,
     "previousClose": 75.27,
-    "lastUpdated": "2025-04-16T15:53:28.496075"
+    "lastUpdated": "2025-04-16T16:19:57.370025"
   },
   "PHM": {
     "symbol": "PHM",
-    "currentPrice": 94.365,
-    "change": -0.425,
-    "percentChange": -0.4484,
+    "currentPrice": 93.96,
+    "change": -0.83,
+    "percentChange": -0.8756,
     "open": 94.74,
     "high": 95.9239,
-    "low": 94.15,
+    "low": 93.91,
     "previousClose": 94.79,
-    "lastUpdated": "2025-04-16T15:53:28.578716"
+    "lastUpdated": "2025-04-16T16:19:58.014259"
   },
   "NRG": {
     "symbol": "NRG",
-    "currentPrice": 98.805,
-    "change": 1.695,
-    "percentChange": 1.7454,
+    "currentPrice": 97.88,
+    "change": 0.77,
+    "percentChange": 0.7929,
     "open": 95.43,
     "high": 99.095,
     "low": 95.38,
     "previousClose": 97.11,
-    "lastUpdated": "2025-04-16T15:53:28.648712"
+    "lastUpdated": "2025-04-16T16:19:58.680747"
   },
   "WY": {
     "symbol": "WY",
-    "currentPrice": 25.875,
-    "change": 0.025,
-    "percentChange": 0.0967,
+    "currentPrice": 25.8,
+    "change": -0.05,
+    "percentChange": -0.1934,
     "open": 25.93,
     "high": 26,
     "low": 25.65,
     "previousClose": 25.85,
-    "lastUpdated": "2025-04-16T15:53:28.701457"
+    "lastUpdated": "2025-04-16T16:19:59.331022"
   },
   "HBAN": {
     "symbol": "HBAN",
-    "currentPrice": 13.43,
-    "change": 0.03,
-    "percentChange": 0.2239,
+    "currentPrice": 13.415,
+    "change": 0.015,
+    "percentChange": 0.1119,
     "open": 13.4,
     "high": 13.49,
     "low": 13.27,
     "previousClose": 13.4,
-    "lastUpdated": "2025-04-16T15:53:28.772601"
+    "lastUpdated": "2025-04-16T16:20:00.005167"
   },
   "WAT": {
     "symbol": "WAT",
-    "currentPrice": 322.18,
-    "change": -1.26,
-    "percentChange": -0.3896,
+    "currentPrice": 322.227,
+    "change": -1.213,
+    "percentChange": -0.375,
     "open": 323.765,
     "high": 329.345,
     "low": 318.4252,
     "previousClose": 323.44,
-    "lastUpdated": "2025-04-16T15:53:28.845749"
+    "lastUpdated": "2025-04-16T16:20:00.680346"
   },
   "EXPE": {
     "symbol": "EXPE",
-    "currentPrice": 154.33,
-    "change": 2.74,
-    "percentChange": 1.8075,
+    "currentPrice": 154.6,
+    "change": 3.01,
+    "percentChange": 1.9856,
     "open": 150.3,
     "high": 155.52,
     "low": 150.02,
     "previousClose": 151.59,
-    "lastUpdated": "2025-04-16T15:53:28.919240"
+    "lastUpdated": "2025-04-16T16:20:01.321420"
   },
   "HUBB": {
     "symbol": "HUBB",
-    "currentPrice": 341.68,
-    "change": -4.91,
-    "percentChange": -1.4167,
+    "currentPrice": 341.14,
+    "change": -5.45,
+    "percentChange": -1.5725,
     "open": 344.09,
     "high": 345.5,
     "low": 339.37,
     "previousClose": 346.59,
-    "lastUpdated": "2025-04-16T15:53:28.974106"
+    "lastUpdated": "2025-04-16T16:20:01.997521"
   },
   "LDOS": {
     "symbol": "LDOS",
-    "currentPrice": 142.15,
-    "change": 0.75,
-    "percentChange": 0.5304,
+    "currentPrice": 141.77,
+    "change": 0.37,
+    "percentChange": 0.2617,
     "open": 141.6,
     "high": 142.36,
     "low": 140.39,
     "previousClose": 141.4,
-    "lastUpdated": "2025-04-16T15:53:29.047263"
+    "lastUpdated": "2025-04-16T16:20:02.647727"
   },
   "CCL": {
     "symbol": "CCL",
-    "currentPrice": 18.12,
-    "change": 0.12,
-    "percentChange": 0.6667,
+    "currentPrice": 18.145,
+    "change": 0.145,
+    "percentChange": 0.8056,
     "open": 17.99,
     "high": 18.25,
     "low": 17.7716,
     "previousClose": 18,
-    "lastUpdated": "2025-04-16T15:53:29.117447"
+    "lastUpdated": "2025-04-16T16:20:03.298575"
   },
   "LH": {
     "symbol": "LH",
-    "currentPrice": 224.97,
-    "change": -1.05,
-    "percentChange": -0.4646,
+    "currentPrice": 224.45,
+    "change": -1.57,
+    "percentChange": -0.6946,
     "open": 226.54,
     "high": 226.925,
     "low": 222.36,
     "previousClose": 226.02,
-    "lastUpdated": "2025-04-16T15:53:29.195833"
+    "lastUpdated": "2025-04-16T16:20:04.066362"
   },
   "IFF": {
     "symbol": "IFF",
-    "currentPrice": 72.06,
-    "change": -0.43,
-    "percentChange": -0.5932,
+    "currentPrice": 71.975,
+    "change": -0.515,
+    "percentChange": -0.7104,
     "open": 72.66,
     "high": 72.84,
-    "low": 72.06,
+    "low": 71.87,
     "previousClose": 72.49,
-    "lastUpdated": "2025-04-16T15:53:29.281085"
+    "lastUpdated": "2025-04-16T16:20:04.779583"
   },
   "DVN": {
     "symbol": "DVN",
-    "currentPrice": 29.68,
-    "change": 1.15,
-    "percentChange": 4.0308,
+    "currentPrice": 29.6,
+    "change": 1.07,
+    "percentChange": 3.7504,
     "open": 28.56,
     "high": 29.845,
     "low": 28.56,
     "previousClose": 28.53,
-    "lastUpdated": "2025-04-16T15:53:29.369661"
+    "lastUpdated": "2025-04-16T16:20:05.527741"
   },
   "CTRA": {
     "symbol": "CTRA",
-    "currentPrice": 25.96,
-    "change": 0.64,
-    "percentChange": 2.5276,
+    "currentPrice": 25.945,
+    "change": 0.625,
+    "percentChange": 2.4684,
     "open": 25.55,
-    "high": 26,
+    "high": 26.0099,
     "low": 25.36,
     "previousClose": 25.32,
-    "lastUpdated": "2025-04-16T15:53:29.450882"
+    "lastUpdated": "2025-04-16T16:20:06.291802"
   },
   "WSM": {
     "symbol": "WSM",
-    "currentPrice": 140.85,
-    "change": -2.05,
-    "percentChange": -1.4346,
+    "currentPrice": 140.18,
+    "change": -2.72,
+    "percentChange": -1.9034,
     "open": 141.14,
     "high": 142.3174,
-    "low": 140.21,
+    "low": 139.69,
     "previousClose": 142.9,
-    "lastUpdated": "2025-04-16T15:53:29.526782"
+    "lastUpdated": "2025-04-16T16:20:06.570057"
   },
   "DGX": {
     "symbol": "DGX",
-    "currentPrice": 168.26,
-    "change": 1.03,
-    "percentChange": 0.6159,
+    "currentPrice": 167.67,
+    "change": 0.44,
+    "percentChange": 0.2631,
     "open": 167.71,
     "high": 169.67,
     "low": 166.95,
     "previousClose": 167.23,
-    "lastUpdated": "2025-04-16T15:53:29.601304"
+    "lastUpdated": "2025-04-16T16:20:07.217691"
   },
   "SYF": {
     "symbol": "SYF",
-    "currentPrice": 47.745,
-    "change": 0.235,
-    "percentChange": 0.4946,
+    "currentPrice": 47.58,
+    "change": 0.07,
+    "percentChange": 0.1473,
     "open": 46.85,
     "high": 47.89,
     "low": 46.83,
     "previousClose": 47.51,
-    "lastUpdated": "2025-04-16T15:54:29.674319"
+    "lastUpdated": "2025-04-16T16:21:07.933918"
   },
   "WBD": {
     "symbol": "WBD",
-    "currentPrice": 8.02,
-    "change": -0.23,
-    "percentChange": -2.7879,
+    "currentPrice": 8.0199,
+    "change": -0.2301,
+    "percentChange": -2.7891,
     "open": 8.23,
     "high": 8.34,
     "low": 7.99,
     "previousClose": 8.25,
-    "lastUpdated": "2025-04-16T15:54:29.749552"
+    "lastUpdated": "2025-04-16T16:21:08.695829"
   },
   "MAA": {
     "symbol": "MAA",
-    "currentPrice": 155.17,
-    "change": 0.28,
-    "percentChange": 0.1808,
+    "currentPrice": 155.07,
+    "change": 0.18,
+    "percentChange": 0.1162,
     "open": 155.16,
     "high": 156.32,
     "low": 154.02,
     "previousClose": 154.89,
-    "lastUpdated": "2025-04-16T15:54:29.813154"
+    "lastUpdated": "2025-04-16T16:21:09.572000"
   },
   "HPE": {
     "symbol": "HPE",
-    "currentPrice": 15.06,
-    "change": 0.05,
-    "percentChange": 0.3331,
+    "currentPrice": 15.01,
+    "change": 0,
+    "percentChange": 0,
     "open": 14.8,
     "high": 15.19,
     "low": 14.66,
     "previousClose": 15.01,
-    "lastUpdated": "2025-04-16T15:54:29.879312"
+    "lastUpdated": "2025-04-16T16:21:10.425810"
   },
   "INVH": {
     "symbol": "INVH",
-    "currentPrice": 33.32,
-    "change": 0.35,
-    "percentChange": 1.0616,
+    "currentPrice": 33.28,
+    "change": 0.31,
+    "percentChange": 0.9402,
     "open": 33.42,
     "high": 33.48,
     "low": 32.96,
     "previousClose": 32.97,
-    "lastUpdated": "2025-04-16T15:54:29.942058"
+    "lastUpdated": "2025-04-16T16:21:11.064323"
   },
   "NI": {
     "symbol": "NI",
-    "currentPrice": 39.55,
-    "change": 0.08,
-    "percentChange": 0.2027,
+    "currentPrice": 39.39,
+    "change": -0.08,
+    "percentChange": -0.2027,
     "open": 39.48,
     "high": 39.595,
     "low": 39.26,
     "previousClose": 39.47,
-    "lastUpdated": "2025-04-16T15:54:30.006811"
+    "lastUpdated": "2025-04-16T16:21:11.832276"
   },
   "LII": {
     "symbol": "LII",
-    "currentPrice": 551.38,
-    "change": -5.82,
-    "percentChange": -1.0445,
+    "currentPrice": 550.69,
+    "change": -6.51,
+    "percentChange": -1.1683,
     "open": 549,
     "high": 557.94,
     "low": 546.96,
     "previousClose": 557.2,
-    "lastUpdated": "2025-04-16T15:54:30.074872"
+    "lastUpdated": "2025-04-16T16:21:12.552174"
   },
   "HAL": {
     "symbol": "HAL",
-    "currentPrice": 21.725,
-    "change": 0.475,
-    "percentChange": 2.2353,
+    "currentPrice": 21.665,
+    "change": 0.415,
+    "percentChange": 1.9529,
     "open": 21.4,
     "high": 21.85,
     "low": 21.34,
     "previousClose": 21.25,
-    "lastUpdated": "2025-04-16T15:54:30.128177"
+    "lastUpdated": "2025-04-16T16:21:13.201561"
   },
   "PODD": {
     "symbol": "PODD",
-    "currentPrice": 250.68,
-    "change": -5.745,
-    "percentChange": -2.2404,
+    "currentPrice": 251.575,
+    "change": -4.85,
+    "percentChange": -1.8914,
     "open": 254.01,
     "high": 258,
     "low": 248.15,
     "previousClose": 256.425,
-    "lastUpdated": "2025-04-16T15:54:30.434974"
+    "lastUpdated": "2025-04-16T16:21:13.487035"
   },
   "CLX": {
     "symbol": "CLX",
-    "currentPrice": 139.2606,
-    "change": -0.1994,
-    "percentChange": -0.143,
+    "currentPrice": 138.86,
+    "change": -0.6,
+    "percentChange": -0.4302,
     "open": 139.09,
     "high": 140.61,
-    "low": 139.09,
+    "low": 138.8,
     "previousClose": 139.46,
-    "lastUpdated": "2025-04-16T15:54:30.497945"
+    "lastUpdated": "2025-04-16T16:21:14.144401"
   },
   "PTC": {
     "symbol": "PTC",
-    "currentPrice": 146.09,
-    "change": -0.97,
-    "percentChange": -0.6596,
+    "currentPrice": 145.845,
+    "change": -1.215,
+    "percentChange": -0.8262,
     "open": 145.53,
     "high": 146.94,
     "low": 143.91,
     "previousClose": 147.06,
-    "lastUpdated": "2025-04-16T15:54:30.551496"
+    "lastUpdated": "2025-04-16T16:21:14.817920"
   },
   "RF": {
     "symbol": "RF",
-    "currentPrice": 19.4054,
-    "change": -0.0246,
-    "percentChange": -0.1266,
+    "currentPrice": 19.375,
+    "change": -0.055,
+    "percentChange": -0.2831,
     "open": 19.35,
     "high": 19.53,
     "low": 19.18,
     "previousClose": 19.43,
-    "lastUpdated": "2025-04-16T15:54:30.613336"
+    "lastUpdated": "2025-04-16T16:21:15.736416"
   },
   "NTRS": {
     "symbol": "NTRS",
-    "currentPrice": 88.45,
-    "change": -0.82,
-    "percentChange": -0.9186,
+    "currentPrice": 88.26,
+    "change": -1.01,
+    "percentChange": -1.1314,
     "open": 88.36,
     "high": 89.48,
     "low": 87.83,
     "previousClose": 89.27,
-    "lastUpdated": "2025-04-16T15:54:30.682886"
+    "lastUpdated": "2025-04-16T16:21:16.622342"
   },
   "TSN": {
     "symbol": "TSN",
-    "currentPrice": 61.21,
-    "change": 0.22,
-    "percentChange": 0.3607,
+    "currentPrice": 61.145,
+    "change": 0.155,
+    "percentChange": 0.2541,
     "open": 60.85,
     "high": 61.5,
     "low": 60.7962,
     "previousClose": 60.99,
-    "lastUpdated": "2025-04-16T15:54:30.752650"
+    "lastUpdated": "2025-04-16T16:21:17.269909"
   },
   "SMCI": {
     "symbol": "SMCI",
-    "currentPrice": 33.125,
-    "change": -0.355,
-    "percentChange": -1.0603,
+    "currentPrice": 33.385,
+    "change": -0.095,
+    "percentChange": -0.2838,
     "open": 32.12,
     "high": 33.65,
     "low": 31.71,
     "previousClose": 33.48,
-    "lastUpdated": "2025-04-16T15:54:30.847509"
+    "lastUpdated": "2025-04-16T16:21:18.127804"
   },
   "SNA": {
     "symbol": "SNA",
-    "currentPrice": 335.68,
-    "change": -1.39,
-    "percentChange": -0.4124,
+    "currentPrice": 334.11,
+    "change": -2.96,
+    "percentChange": -0.8782,
     "open": 338.32,
     "high": 339.11,
-    "low": 334.0799,
+    "low": 333.6425,
     "previousClose": 337.07,
-    "lastUpdated": "2025-04-16T15:54:30.918565"
+    "lastUpdated": "2025-04-16T16:21:19.045707"
   },
   "ESS": {
     "symbol": "ESS",
-    "currentPrice": 276.645,
-    "change": 3.255,
-    "percentChange": 1.1906,
+    "currentPrice": 275.305,
+    "change": 1.915,
+    "percentChange": 0.7005,
     "open": 272.33,
     "high": 278.5,
     "low": 272.33,
     "previousClose": 273.39,
-    "lastUpdated": "2025-04-16T15:54:30.991953"
+    "lastUpdated": "2025-04-16T16:21:19.899979"
   },
   "NTAP": {
     "symbol": "NTAP",
-    "currentPrice": 81.96,
-    "change": -0.22,
-    "percentChange": -0.2677,
+    "currentPrice": 81.88,
+    "change": -0.3,
+    "percentChange": -0.3651,
     "open": 80.92,
     "high": 82.21,
     "low": 80.3992,
     "previousClose": 82.18,
-    "lastUpdated": "2025-04-16T15:54:31.066490"
+    "lastUpdated": "2025-04-16T16:21:20.589286"
   },
   "DECK": {
     "symbol": "DECK",
-    "currentPrice": 103.21,
-    "change": -0.97,
-    "percentChange": -0.9311,
+    "currentPrice": 104.285,
+    "change": 0.105,
+    "percentChange": 0.1008,
     "open": 103.6,
     "high": 105.15,
     "low": 102.63,
     "previousClose": 104.18,
-    "lastUpdated": "2025-04-16T15:54:31.159122"
+    "lastUpdated": "2025-04-16T16:21:21.312642"
   },
   "STLD": {
     "symbol": "STLD",
-    "currentPrice": 118.94,
-    "change": 0.7,
-    "percentChange": 0.592,
+    "currentPrice": 118.76,
+    "change": 0.52,
+    "percentChange": 0.4398,
     "open": 117.71,
     "high": 119.78,
     "low": 117.17,
     "previousClose": 118.24,
-    "lastUpdated": "2025-04-16T15:54:31.239171"
+    "lastUpdated": "2025-04-16T16:21:21.963862"
   },
   "PKG": {
     "symbol": "PKG",
-    "currentPrice": 188.335,
-    "change": -0.375,
-    "percentChange": -0.1987,
+    "currentPrice": 188.595,
+    "change": -0.115,
+    "percentChange": -0.0609,
     "open": 189.34,
     "high": 189.34,
     "low": 186.19,
     "previousClose": 188.71,
-    "lastUpdated": "2025-04-16T15:54:31.317556"
+    "lastUpdated": "2025-04-16T16:21:22.613680"
   },
   "BIIB": {
     "symbol": "BIIB",
-    "currentPrice": 117.49,
-    "change": 0.51,
-    "percentChange": 0.436,
+    "currentPrice": 117.17,
+    "change": 0.19,
+    "percentChange": 0.1624,
     "open": 118.48,
     "high": 118.48,
     "low": 115.59,
     "previousClose": 116.98,
-    "lastUpdated": "2025-04-16T15:54:31.393464"
+    "lastUpdated": "2025-04-16T16:21:22.814603"
   },
   "ULTA": {
     "symbol": "ULTA",
-    "currentPrice": 355.91,
-    "change": -2.18,
-    "percentChange": -0.6088,
+    "currentPrice": 355.93,
+    "change": -2.16,
+    "percentChange": -0.6032,
     "open": 361.18,
     "high": 361.18,
     "low": 350.55,
     "previousClose": 358.09,
-    "lastUpdated": "2025-04-16T15:54:31.463558"
+    "lastUpdated": "2025-04-16T16:21:23.444050"
   },
   "FDS": {
     "symbol": "FDS",
-    "currentPrice": 433.015,
-    "change": -3.215,
-    "percentChange": -0.737,
+    "currentPrice": 431.66,
+    "change": -4.57,
+    "percentChange": -1.0476,
     "open": 435.96,
     "high": 435.96,
-    "low": 431.93,
+    "low": 431.33,
     "previousClose": 436.23,
-    "lastUpdated": "2025-04-16T15:54:31.534056"
+    "lastUpdated": "2025-04-16T16:21:24.178972"
   },
   "GPC": {
     "symbol": "GPC",
-    "currentPrice": 114.2375,
-    "change": -0.0725,
-    "percentChange": -0.0634,
+    "currentPrice": 113.92,
+    "change": -0.39,
+    "percentChange": -0.3412,
     "open": 114.21,
     "high": 114.69,
     "low": 113.51,
     "previousClose": 114.31,
-    "lastUpdated": "2025-04-16T15:54:31.603865"
+    "lastUpdated": "2025-04-16T16:21:24.883271"
   },
   "DPZ": {
     "symbol": "DPZ",
-    "currentPrice": 467.54,
-    "change": -1.02,
-    "percentChange": -0.2177,
+    "currentPrice": 464.29,
+    "change": -4.27,
+    "percentChange": -0.9113,
     "open": 467.9,
     "high": 469.775,
-    "low": 465.22,
+    "low": 464.2101,
     "previousClose": 468.56,
-    "lastUpdated": "2025-04-16T15:54:31.653752"
+    "lastUpdated": "2025-04-16T16:21:25.619460"
   },
   "LNT": {
     "symbol": "LNT",
-    "currentPrice": 61.65,
-    "change": 0.05,
-    "percentChange": 0.0812,
+    "currentPrice": 61.39,
+    "change": -0.21,
+    "percentChange": -0.3409,
     "open": 61.78,
     "high": 61.93,
-    "low": 61.45,
+    "low": 61.33,
     "previousClose": 61.6,
-    "lastUpdated": "2025-04-16T15:54:31.714902"
+    "lastUpdated": "2025-04-16T16:21:26.301290"
   },
   "LUV": {
     "symbol": "LUV",
-    "currentPrice": 25.375,
-    "change": -0.435,
-    "percentChange": -1.6854,
+    "currentPrice": 25.33,
+    "change": -0.48,
+    "percentChange": -1.8597,
     "open": 26.06,
     "high": 26.08,
     "low": 25.18,
     "previousClose": 25.81,
-    "lastUpdated": "2025-04-16T15:54:31.790003"
+    "lastUpdated": "2025-04-16T16:21:26.522657"
   },
   "ROL": {
     "symbol": "ROL",
-    "currentPrice": 55.61,
-    "change": 0.25,
-    "percentChange": 0.4516,
+    "currentPrice": 55.5,
+    "change": 0.14,
+    "percentChange": 0.2529,
     "open": 55.34,
     "high": 55.73,
     "low": 55.16,
     "previousClose": 55.36,
-    "lastUpdated": "2025-04-16T15:54:31.873452"
+    "lastUpdated": "2025-04-16T16:21:27.183198"
   },
   "CFG": {
     "symbol": "CFG",
-    "currentPrice": 35.87,
-    "change": -0.23,
-    "percentChange": -0.6371,
+    "currentPrice": 35.82,
+    "change": -0.28,
+    "percentChange": -0.7756,
     "open": 36,
     "high": 36.62,
     "low": 35.27,
     "previousClose": 36.1,
-    "lastUpdated": "2025-04-16T15:54:31.942500"
+    "lastUpdated": "2025-04-16T16:21:27.941530"
   },
   "EXPD": {
     "symbol": "EXPD",
-    "currentPrice": 107.8,
-    "change": -2.23,
-    "percentChange": -2.0267,
+    "currentPrice": 107.71,
+    "change": -2.32,
+    "percentChange": -2.1085,
     "open": 108.76,
     "high": 110.18,
-    "low": 107.47,
+    "low": 107.39,
     "previousClose": 110.03,
-    "lastUpdated": "2025-04-16T15:54:31.997443"
+    "lastUpdated": "2025-04-16T16:21:28.585822"
   },
   "PFG": {
     "symbol": "PFG",
-    "currentPrice": 72.97,
-    "change": -0.12,
-    "percentChange": -0.1642,
+    "currentPrice": 72.74,
+    "change": -0.35,
+    "percentChange": -0.4789,
     "open": 73.05,
     "high": 73.655,
     "low": 72.41,
     "previousClose": 73.09,
-    "lastUpdated": "2025-04-16T15:54:32.072440"
+    "lastUpdated": "2025-04-16T16:21:29.235195"
   },
   "EVRG": {
     "symbol": "EVRG",
-    "currentPrice": 68.44,
-    "change": 0.57,
-    "percentChange": 0.8398,
+    "currentPrice": 68.025,
+    "change": 0.155,
+    "percentChange": 0.2284,
     "open": 67.8,
     "high": 68.46,
     "low": 67.76,
     "previousClose": 67.87,
-    "lastUpdated": "2025-04-16T15:54:32.146293"
+    "lastUpdated": "2025-04-16T16:21:29.948961"
   },
   "COO": {
     "symbol": "COO",
@@ -4331,997 +4331,997 @@
     "high": 78.41,
     "low": 76.825,
     "previousClose": 77.8,
-    "lastUpdated": "2025-04-16T15:54:32.221746"
+    "lastUpdated": "2025-04-16T16:21:30.802350"
   },
   "L": {
     "symbol": "L",
-    "currentPrice": 86.46,
-    "change": 0.33,
-    "percentChange": 0.3831,
+    "currentPrice": 86.11,
+    "change": -0.02,
+    "percentChange": -0.0232,
     "open": 86.47,
     "high": 86.79,
     "low": 86.02,
     "previousClose": 86.13,
-    "lastUpdated": "2025-04-16T15:54:32.290109"
+    "lastUpdated": "2025-04-16T16:21:31.489423"
   },
   "WST": {
     "symbol": "WST",
-    "currentPrice": 211.385,
-    "change": -1.115,
-    "percentChange": -0.5247,
+    "currentPrice": 211.16,
+    "change": -1.34,
+    "percentChange": -0.6306,
     "open": 211.95,
     "high": 214.62,
     "low": 209.355,
     "previousClose": 212.5,
-    "lastUpdated": "2025-04-16T15:54:32.365454"
+    "lastUpdated": "2025-04-16T16:21:32.196377"
   },
   "STX": {
     "symbol": "STX",
-    "currentPrice": 72.47,
-    "change": 0.47,
-    "percentChange": 0.6528,
+    "currentPrice": 72.69,
+    "change": 0.69,
+    "percentChange": 0.9583,
     "open": 71.01,
     "high": 72.98,
     "low": 71.01,
     "previousClose": 72,
-    "lastUpdated": "2025-04-16T15:54:32.446041"
+    "lastUpdated": "2025-04-16T16:21:32.912324"
   },
   "FFIV": {
     "symbol": "FFIV",
-    "currentPrice": 263.39,
-    "change": -0.14,
-    "percentChange": -0.0531,
+    "currentPrice": 263.0025,
+    "change": -0.5275,
+    "percentChange": -0.2002,
     "open": 261.55,
     "high": 264.04,
     "low": 259.58,
     "previousClose": 263.53,
-    "lastUpdated": "2025-04-16T15:54:32.533607"
+    "lastUpdated": "2025-04-16T16:21:33.611068"
   },
   "ON": {
     "symbol": "ON",
-    "currentPrice": 34.76,
-    "change": -1.09,
-    "percentChange": -3.0404,
+    "currentPrice": 34.625,
+    "change": -1.225,
+    "percentChange": -3.417,
     "open": 34.98,
     "high": 35.515,
     "low": 34.43,
     "previousClose": 35.85,
-    "lastUpdated": "2025-04-16T15:54:32.630229"
+    "lastUpdated": "2025-04-16T16:21:34.298752"
   },
   "EG": {
     "symbol": "EG",
-    "currentPrice": 354.28,
-    "change": 4.43,
-    "percentChange": 1.2663,
+    "currentPrice": 352.69,
+    "change": 2.84,
+    "percentChange": 0.8118,
     "open": 352.08,
     "high": 354.5,
     "low": 349.16,
     "previousClose": 349.85,
-    "lastUpdated": "2025-04-16T15:54:32.713125"
+    "lastUpdated": "2025-04-16T16:21:34.961014"
   },
   "DLTR": {
     "symbol": "DLTR",
-    "currentPrice": 71.72,
-    "change": -0.08,
-    "percentChange": -0.1114,
+    "currentPrice": 72.2,
+    "change": 0.4,
+    "percentChange": 0.5571,
     "open": 71.88,
     "high": 72.535,
     "low": 70.71,
     "previousClose": 71.8,
-    "lastUpdated": "2025-04-16T15:54:32.791165"
+    "lastUpdated": "2025-04-16T16:21:35.631120"
   },
   "JBL": {
     "symbol": "JBL",
-    "currentPrice": 134.73,
-    "change": -0.78,
-    "percentChange": -0.5756,
+    "currentPrice": 134.6,
+    "change": -0.91,
+    "percentChange": -0.6715,
     "open": 132.89,
     "high": 135.385,
     "low": 131.55,
     "previousClose": 135.51,
-    "lastUpdated": "2025-04-16T15:54:32.878010"
+    "lastUpdated": "2025-04-16T16:21:35.825343"
   },
   "OMC": {
     "symbol": "OMC",
-    "currentPrice": 73.11,
-    "change": -3.72,
-    "percentChange": -4.8419,
+    "currentPrice": 72.6,
+    "change": -4.23,
+    "percentChange": -5.5057,
     "open": 74.96,
     "high": 77.1,
-    "low": 73.09,
+    "low": 72.415,
     "previousClose": 76.83,
-    "lastUpdated": "2025-04-16T15:54:32.954097"
+    "lastUpdated": "2025-04-16T16:21:36.030147"
   },
   "BAX": {
     "symbol": "BAX",
-    "currentPrice": 28.52,
-    "change": 0.72,
-    "percentChange": 2.5899,
+    "currentPrice": 28.335,
+    "change": 0.535,
+    "percentChange": 1.9245,
     "open": 27.99,
     "high": 28.59,
     "low": 27.565,
     "previousClose": 27.8,
-    "lastUpdated": "2025-04-16T15:54:33.029281"
+    "lastUpdated": "2025-04-16T16:21:36.931722"
   },
   "TRMB": {
     "symbol": "TRMB",
-    "currentPrice": 58.555,
-    "change": -1.035,
-    "percentChange": -1.7369,
+    "currentPrice": 58.44,
+    "change": -1.15,
+    "percentChange": -1.9299,
     "open": 58.5,
     "high": 59.015,
     "low": 57.79,
     "previousClose": 59.59,
-    "lastUpdated": "2025-04-16T15:54:33.097889"
+    "lastUpdated": "2025-04-16T16:21:37.572076"
   },
   "LYB": {
     "symbol": "LYB",
-    "currentPrice": 57.035,
-    "change": 0.335,
-    "percentChange": 0.5908,
+    "currentPrice": 56.8409,
+    "change": 0.1409,
+    "percentChange": 0.2485,
     "open": 56.85,
     "high": 57.565,
     "low": 56.155,
     "previousClose": 56.7,
-    "lastUpdated": "2025-04-16T15:54:33.152460"
+    "lastUpdated": "2025-04-16T16:21:38.426153"
   },
   "J": {
     "symbol": "J",
-    "currentPrice": 117.73,
-    "change": 0.22,
-    "percentChange": 0.1872,
+    "currentPrice": 117.51,
+    "change": 0,
+    "percentChange": 0,
     "open": 117.73,
     "high": 118.32,
     "low": 116.515,
     "previousClose": 117.51,
-    "lastUpdated": "2025-04-16T15:54:33.223901"
+    "lastUpdated": "2025-04-16T16:21:39.093170"
   },
   "BLDR": {
     "symbol": "BLDR",
-    "currentPrice": 116.2,
-    "change": -2.02,
-    "percentChange": -1.7087,
+    "currentPrice": 115.71,
+    "change": -2.51,
+    "percentChange": -2.1232,
     "open": 117.22,
     "high": 119.095,
     "low": 115.51,
     "previousClose": 118.22,
-    "lastUpdated": "2025-04-16T15:54:33.294077"
+    "lastUpdated": "2025-04-16T16:21:39.727166"
   },
   "BALL": {
     "symbol": "BALL",
-    "currentPrice": 47.77,
-    "change": 0.17,
-    "percentChange": 0.3571,
+    "currentPrice": 47.68,
+    "change": 0.08,
+    "percentChange": 0.1681,
     "open": 47.78,
     "high": 48.0803,
     "low": 47.41,
     "previousClose": 47.6,
-    "lastUpdated": "2025-04-16T15:54:33.368597"
+    "lastUpdated": "2025-04-16T16:21:40.408805"
   },
   "KEY": {
     "symbol": "KEY",
-    "currentPrice": 14.255,
-    "change": 0.005,
-    "percentChange": 0.0351,
+    "currentPrice": 14.225,
+    "change": -0.025,
+    "percentChange": -0.1754,
     "open": 14.16,
     "high": 14.47,
     "low": 14.08,
     "previousClose": 14.25,
-    "lastUpdated": "2025-04-16T15:54:33.455960"
+    "lastUpdated": "2025-04-16T16:21:41.175493"
   },
   "AVY": {
     "symbol": "AVY",
-    "currentPrice": 170.04,
-    "change": 0.54,
-    "percentChange": 0.3186,
+    "currentPrice": 169.69,
+    "change": 0.19,
+    "percentChange": 0.1121,
     "open": 170.61,
     "high": 171.21,
     "low": 168.74,
     "previousClose": 169.5,
-    "lastUpdated": "2025-04-16T15:54:33.510820"
+    "lastUpdated": "2025-04-16T16:21:42.057356"
   },
   "PNR": {
     "symbol": "PNR",
-    "currentPrice": 81.24,
-    "change": -1.07,
-    "percentChange": -1.3,
+    "currentPrice": 80.98,
+    "change": -1.33,
+    "percentChange": -1.6158,
     "open": 81.675,
     "high": 82.195,
     "low": 80.76,
     "previousClose": 82.31,
-    "lastUpdated": "2025-04-16T15:54:33.582891"
+    "lastUpdated": "2025-04-16T16:21:42.779143"
   },
   "KIM": {
     "symbol": "KIM",
-    "currentPrice": 20.455,
-    "change": 0.165,
-    "percentChange": 0.8132,
+    "currentPrice": 20.39,
+    "change": 0.1,
+    "percentChange": 0.4929,
     "open": 20.5,
     "high": 20.52,
     "low": 20.13,
     "previousClose": 20.29,
-    "lastUpdated": "2025-04-16T15:54:33.652163"
+    "lastUpdated": "2025-04-16T16:21:43.485726"
   },
   "TPR": {
     "symbol": "TPR",
-    "currentPrice": 63.51,
-    "change": -0.43,
-    "percentChange": -0.6725,
+    "currentPrice": 63.725,
+    "change": -0.215,
+    "percentChange": -0.3363,
     "open": 63.41,
     "high": 64.19,
     "low": 62.7392,
     "previousClose": 63.94,
-    "lastUpdated": "2025-04-16T15:54:33.721612"
+    "lastUpdated": "2025-04-16T16:21:44.231493"
   },
   "GEN": {
     "symbol": "GEN",
-    "currentPrice": 24.75,
-    "change": -0.03,
-    "percentChange": -0.1211,
+    "currentPrice": 24.715,
+    "change": -0.065,
+    "percentChange": -0.2623,
     "open": 24.73,
     "high": 24.845,
     "low": 24.61,
     "previousClose": 24.78,
-    "lastUpdated": "2025-04-16T15:54:33.812580"
+    "lastUpdated": "2025-04-16T16:21:44.429929"
   },
   "FSLR": {
     "symbol": "FSLR",
-    "currentPrice": 126.46,
-    "change": -0.36,
-    "percentChange": -0.2839,
+    "currentPrice": 125.76,
+    "change": -1.06,
+    "percentChange": -0.8358,
     "open": 126.39,
     "high": 128.7,
-    "low": 125.81,
+    "low": 125.5,
     "previousClose": 126.82,
-    "lastUpdated": "2025-04-16T15:54:33.881263"
+    "lastUpdated": "2025-04-16T16:21:45.098956"
   },
   "MAS": {
     "symbol": "MAS",
-    "currentPrice": 61.51,
-    "change": -0.36,
-    "percentChange": -0.5819,
+    "currentPrice": 61.37,
+    "change": -0.5,
+    "percentChange": -0.8081,
     "open": 61.66,
     "high": 62.295,
     "low": 61.07,
     "previousClose": 61.87,
-    "lastUpdated": "2025-04-16T15:54:33.952167"
+    "lastUpdated": "2025-04-16T16:21:45.777189"
   },
   "AMCR": {
     "symbol": "AMCR",
-    "currentPrice": 9.3401,
-    "change": -0.0199,
-    "percentChange": -0.2126,
+    "currentPrice": 9.325,
+    "change": -0.035,
+    "percentChange": -0.3739,
     "open": 9.37,
     "high": 9.40855,
     "low": 9.28,
     "previousClose": 9.36,
-    "lastUpdated": "2025-04-16T15:54:34.046264"
+    "lastUpdated": "2025-04-16T16:21:46.439285"
   },
   "HOLX": {
     "symbol": "HOLX",
-    "currentPrice": 56.93,
-    "change": -0.93,
-    "percentChange": -1.6073,
+    "currentPrice": 56.71,
+    "change": -1.15,
+    "percentChange": -1.9876,
     "open": 57.95,
     "high": 58.285,
-    "low": 56.91,
+    "low": 56.35,
     "previousClose": 57.86,
-    "lastUpdated": "2025-04-16T15:54:34.121559"
+    "lastUpdated": "2025-04-16T16:21:47.306440"
   },
   "DOC": {
     "symbol": "DOC",
-    "currentPrice": 18.835,
-    "change": 0.065,
-    "percentChange": 0.3463,
+    "currentPrice": 18.765,
+    "change": -0.005,
+    "percentChange": -0.0266,
     "open": 18.78,
     "high": 18.965,
     "low": 18.7,
     "previousClose": 18.77,
-    "lastUpdated": "2025-04-16T15:54:34.249289"
+    "lastUpdated": "2025-04-16T16:21:48.021489"
   },
   "IEX": {
     "symbol": "IEX",
-    "currentPrice": 166.28,
-    "change": -1.06,
-    "percentChange": -0.6334,
+    "currentPrice": 166.2,
+    "change": -1.14,
+    "percentChange": -0.6812,
     "open": 165.96,
     "high": 167.96,
     "low": 165.49,
     "previousClose": 167.34,
-    "lastUpdated": "2025-04-16T15:55:34.319948"
+    "lastUpdated": "2025-04-16T16:22:48.818036"
   },
   "EL": {
     "symbol": "EL",
-    "currentPrice": 53.65,
-    "change": -0.76,
-    "percentChange": -1.3968,
+    "currentPrice": 53.5454,
+    "change": -0.8646,
+    "percentChange": -1.589,
     "open": 54.41,
     "high": 54.5842,
     "low": 53.44,
     "previousClose": 54.41,
-    "lastUpdated": "2025-04-16T15:55:34.380192"
+    "lastUpdated": "2025-04-16T16:22:49.671436"
   },
   "JKHY": {
     "symbol": "JKHY",
-    "currentPrice": 174.23,
-    "change": 0.28,
-    "percentChange": 0.161,
+    "currentPrice": 173.725,
+    "change": -0.225,
+    "percentChange": -0.1293,
     "open": 174.26,
     "high": 174.85,
     "low": 172.66,
     "previousClose": 173.95,
-    "lastUpdated": "2025-04-16T15:55:34.442624"
+    "lastUpdated": "2025-04-16T16:22:50.323247"
   },
   "SJM": {
     "symbol": "SJM",
-    "currentPrice": 116.53,
-    "change": 0.26,
-    "percentChange": 0.2236,
+    "currentPrice": 116.31,
+    "change": 0.04,
+    "percentChange": 0.0344,
     "open": 117.39,
     "high": 117.88,
     "low": 115.97,
     "previousClose": 116.27,
-    "lastUpdated": "2025-04-16T15:55:34.578937"
+    "lastUpdated": "2025-04-16T16:22:50.993172"
   },
   "CF": {
     "symbol": "CF",
-    "currentPrice": 74.96,
-    "change": 1.84,
-    "percentChange": 2.5164,
+    "currentPrice": 75.23,
+    "change": 2.11,
+    "percentChange": 2.8857,
     "open": 73.42,
-    "high": 75.21,
+    "high": 75.3,
     "low": 73.32,
     "previousClose": 73.12,
-    "lastUpdated": "2025-04-16T15:55:34.655625"
+    "lastUpdated": "2025-04-16T16:22:51.671996"
   },
   "CAG": {
     "symbol": "CAG",
-    "currentPrice": 25.395,
-    "change": -0.155,
-    "percentChange": -0.6067,
+    "currentPrice": 25.3258,
+    "change": -0.2242,
+    "percentChange": -0.8775,
     "open": 25.68,
     "high": 25.7545,
-    "low": 25.36,
+    "low": 25.305,
     "previousClose": 25.55,
-    "lastUpdated": "2025-04-16T15:55:34.731138"
+    "lastUpdated": "2025-04-16T16:22:51.949567"
   },
   "WDC": {
     "symbol": "WDC",
-    "currentPrice": 35.99,
-    "change": 0.06,
-    "percentChange": 0.167,
+    "currentPrice": 36.005,
+    "change": 0.075,
+    "percentChange": 0.2087,
     "open": 35.39,
     "high": 36.25,
     "low": 35.39,
     "previousClose": 35.93,
-    "lastUpdated": "2025-04-16T15:55:34.814094"
+    "lastUpdated": "2025-04-16T16:22:52.641822"
   },
   "UDR": {
     "symbol": "UDR",
-    "currentPrice": 41.6,
-    "change": 0.53,
-    "percentChange": 1.2905,
+    "currentPrice": 41.44,
+    "change": 0.37,
+    "percentChange": 0.9009,
     "open": 41.2,
     "high": 41.78,
     "low": 40.99,
     "previousClose": 41.07,
-    "lastUpdated": "2025-04-16T15:55:34.886462"
+    "lastUpdated": "2025-04-16T16:22:53.294458"
   },
   "TER": {
     "symbol": "TER",
-    "currentPrice": 71.84,
-    "change": -2.22,
-    "percentChange": -2.9976,
+    "currentPrice": 71.94,
+    "change": -2.12,
+    "percentChange": -2.8625,
     "open": 71.91,
     "high": 72.645,
     "low": 70.58,
     "previousClose": 74.06,
-    "lastUpdated": "2025-04-16T15:55:34.954525"
+    "lastUpdated": "2025-04-16T16:22:53.996228"
   },
   "TXT": {
     "symbol": "TXT",
-    "currentPrice": 65.6,
-    "change": 0.18,
-    "percentChange": 0.2751,
+    "currentPrice": 65.51,
+    "change": 0.09,
+    "percentChange": 0.1376,
     "open": 65.695,
     "high": 66.07,
     "low": 65.1,
     "previousClose": 65.42,
-    "lastUpdated": "2025-04-16T15:55:35.028394"
+    "lastUpdated": "2025-04-16T16:22:54.716000"
   },
   "BBY": {
     "symbol": "BBY",
-    "currentPrice": 60.43,
-    "change": -0.71,
-    "percentChange": -1.1613,
+    "currentPrice": 60.4,
+    "change": -0.74,
+    "percentChange": -1.2103,
     "open": 61.07,
     "high": 61.44,
     "low": 60.19,
     "previousClose": 61.14,
-    "lastUpdated": "2025-04-16T15:55:35.085598"
+    "lastUpdated": "2025-04-16T16:22:55.443124"
   },
   "POOL": {
     "symbol": "POOL",
-    "currentPrice": 303.55,
-    "change": -3.41,
-    "percentChange": -1.1109,
+    "currentPrice": 303.16,
+    "change": -3.8,
+    "percentChange": -1.2379,
     "open": 306.96,
     "high": 308.96,
     "low": 301.02,
     "previousClose": 306.96,
-    "lastUpdated": "2025-04-16T15:55:35.160061"
+    "lastUpdated": "2025-04-16T16:22:56.176466"
   },
   "CPT": {
     "symbol": "CPT",
-    "currentPrice": 111.92,
-    "change": 0.58,
-    "percentChange": 0.5209,
+    "currentPrice": 111.8199,
+    "change": 0.4799,
+    "percentChange": 0.431,
     "open": 111.665,
     "high": 112.49,
     "low": 111.14,
     "previousClose": 111.34,
-    "lastUpdated": "2025-04-16T15:55:35.229952"
+    "lastUpdated": "2025-04-16T16:22:56.858791"
   },
   "ZBRA": {
     "symbol": "ZBRA",
-    "currentPrice": 225.64,
-    "change": -2.47,
-    "percentChange": -1.0828,
+    "currentPrice": 225.75,
+    "change": -2.36,
+    "percentChange": -1.0346,
     "open": 223.01,
     "high": 227.925,
     "low": 223.01,
     "previousClose": 228.11,
-    "lastUpdated": "2025-04-16T15:55:35.300592"
+    "lastUpdated": "2025-04-16T16:22:57.071749"
   },
   "ARE": {
     "symbol": "ARE",
-    "currentPrice": 78.705,
-    "change": -0.415,
-    "percentChange": -0.5245,
+    "currentPrice": 78.51,
+    "change": -0.61,
+    "percentChange": -0.771,
     "open": 78.99,
     "high": 79.7282,
     "low": 78.02,
     "previousClose": 79.12,
-    "lastUpdated": "2025-04-16T15:55:35.373831"
+    "lastUpdated": "2025-04-16T16:22:57.780686"
   },
   "JNPR": {
     "symbol": "JNPR",
-    "currentPrice": 34.715,
-    "change": 0.045,
-    "percentChange": 0.1298,
+    "currentPrice": 34.74,
+    "change": 0.07,
+    "percentChange": 0.2019,
     "open": 34.58,
     "high": 34.8,
     "low": 34.505,
     "previousClose": 34.67,
-    "lastUpdated": "2025-04-16T15:55:35.436399"
+    "lastUpdated": "2025-04-16T16:22:58.512021"
   },
   "APTV": {
     "symbol": "APTV",
-    "currentPrice": 51.7,
-    "change": 0.96,
-    "percentChange": 1.892,
+    "currentPrice": 51.65,
+    "change": 0.91,
+    "percentChange": 1.7935,
     "open": 50.74,
     "high": 53.105,
     "low": 50.74,
     "previousClose": 50.74,
-    "lastUpdated": "2025-04-16T15:55:35.539522"
+    "lastUpdated": "2025-04-16T16:22:59.179203"
   },
   "RVTY": {
     "symbol": "RVTY",
-    "currentPrice": 94.695,
-    "change": -0.845,
-    "percentChange": -0.8844,
+    "currentPrice": 94.79,
+    "change": -0.75,
+    "percentChange": -0.785,
     "open": 96.565,
     "high": 97.185,
     "low": 93.52,
     "previousClose": 95.54,
-    "lastUpdated": "2025-04-16T15:55:35.594538"
+    "lastUpdated": "2025-04-16T16:22:59.812314"
   },
   "REG": {
     "symbol": "REG",
-    "currentPrice": 71.11,
-    "change": 0.75,
-    "percentChange": 1.0659,
+    "currentPrice": 70.915,
+    "change": 0.555,
+    "percentChange": 0.7888,
     "open": 70.84,
-    "high": 71.15,
+    "high": 71.235,
     "low": 70.13,
     "previousClose": 70.36,
-    "lastUpdated": "2025-04-16T15:55:35.670807"
+    "lastUpdated": "2025-04-16T16:23:00.502036"
   },
   "ALGN": {
     "symbol": "ALGN",
-    "currentPrice": 167.4,
-    "change": 3.25,
-    "percentChange": 1.9799,
+    "currentPrice": 168.09,
+    "change": 3.94,
+    "percentChange": 2.4002,
     "open": 163.3,
-    "high": 168.25,
+    "high": 168.28,
     "low": 162.32,
     "previousClose": 164.15,
-    "lastUpdated": "2025-04-16T15:55:35.733241"
+    "lastUpdated": "2025-04-16T16:23:01.176249"
   },
   "AKAM": {
     "symbol": "AKAM",
-    "currentPrice": 75.07,
-    "change": 0.56,
-    "percentChange": 0.7516,
+    "currentPrice": 75.01,
+    "change": 0.5,
+    "percentChange": 0.6711,
     "open": 73.825,
     "high": 75.575,
     "low": 73.75,
     "previousClose": 74.51,
-    "lastUpdated": "2025-04-16T15:55:35.804513"
+    "lastUpdated": "2025-04-16T16:23:02.060724"
   },
   "LVS": {
     "symbol": "LVS",
-    "currentPrice": 32.225,
-    "change": -0.445,
-    "percentChange": -1.3621,
+    "currentPrice": 32.33,
+    "change": -0.34,
+    "percentChange": -1.0407,
     "open": 32.31,
     "high": 32.65,
     "low": 31.98,
     "previousClose": 32.67,
-    "lastUpdated": "2025-04-16T15:55:35.869740"
+    "lastUpdated": "2025-04-16T16:23:02.775597"
   },
   "FOXA": {
     "symbol": "FOXA",
-    "currentPrice": 48.97,
-    "change": -1.09,
-    "percentChange": -2.1774,
+    "currentPrice": 48.94,
+    "change": -1.12,
+    "percentChange": -2.2373,
     "open": 49.84,
     "high": 49.92,
-    "low": 48.97,
+    "low": 48.83,
     "previousClose": 50.06,
-    "lastUpdated": "2025-04-16T15:55:35.937600"
+    "lastUpdated": "2025-04-16T16:23:03.413203"
   },
   "JBHT": {
     "symbol": "JBHT",
-    "currentPrice": 124.91,
-    "change": -10.2,
-    "percentChange": -7.5494,
+    "currentPrice": 125.135,
+    "change": -9.975,
+    "percentChange": -7.3829,
     "open": 126.98,
     "high": 131.35,
     "low": 123.31,
     "previousClose": 135.11,
-    "lastUpdated": "2025-04-16T15:55:36.007660"
+    "lastUpdated": "2025-04-16T16:23:04.120497"
   },
   "LKQ": {
     "symbol": "LKQ",
-    "currentPrice": 41.78,
-    "change": 0.15,
-    "percentChange": 0.3603,
+    "currentPrice": 41.69,
+    "change": 0.06,
+    "percentChange": 0.1441,
     "open": 41.59,
     "high": 41.96,
     "low": 41.48,
     "previousClose": 41.63,
-    "lastUpdated": "2025-04-16T15:55:36.078275"
+    "lastUpdated": "2025-04-16T16:23:04.798683"
   },
   "CHRW": {
     "symbol": "CHRW",
-    "currentPrice": 90.545,
-    "change": -1.015,
-    "percentChange": -1.1086,
+    "currentPrice": 90.73,
+    "change": -0.83,
+    "percentChange": -0.9065,
     "open": 91.2,
     "high": 91.635,
     "low": 89.9,
     "previousClose": 91.56,
-    "lastUpdated": "2025-04-16T15:55:36.168172"
+    "lastUpdated": "2025-04-16T16:23:05.528758"
   },
   "ALLE": {
     "symbol": "ALLE",
-    "currentPrice": 126.495,
-    "change": -0.405,
-    "percentChange": -0.3191,
+    "currentPrice": 126.55,
+    "change": -0.35,
+    "percentChange": -0.2758,
     "open": 126.69,
     "high": 127.22,
     "low": 125.725,
     "previousClose": 126.9,
-    "lastUpdated": "2025-04-16T15:55:36.243576"
+    "lastUpdated": "2025-04-16T16:23:06.258394"
   },
   "UHS": {
     "symbol": "UHS",
-    "currentPrice": 175.495,
-    "change": -0.005,
-    "percentChange": -0.0028,
+    "currentPrice": 175.77,
+    "change": 0.27,
+    "percentChange": 0.1538,
     "open": 175.65,
     "high": 176.365,
     "low": 173.18,
     "previousClose": 175.5,
-    "lastUpdated": "2025-04-16T15:55:36.325217"
+    "lastUpdated": "2025-04-16T16:23:06.926728"
   },
   "ERIE": {
     "symbol": "ERIE",
-    "currentPrice": 416.93,
-    "change": -2.79,
-    "percentChange": -0.6647,
+    "currentPrice": 415.64,
+    "change": -4.08,
+    "percentChange": -0.9721,
     "open": 422.51,
     "high": 422.51,
     "low": 415.08,
     "previousClose": 419.72,
-    "lastUpdated": "2025-04-16T15:55:36.473381"
+    "lastUpdated": "2025-04-16T16:23:07.222731"
   },
   "TAP": {
     "symbol": "TAP",
-    "currentPrice": 59.995,
-    "change": 0.485,
-    "percentChange": 0.815,
+    "currentPrice": 59.87,
+    "change": 0.36,
+    "percentChange": 0.6049,
     "open": 60,
     "high": 60.84,
     "low": 59.57,
     "previousClose": 59.51,
-    "lastUpdated": "2025-04-16T15:55:36.552939"
+    "lastUpdated": "2025-04-16T16:23:07.415388"
   },
   "KMX": {
     "symbol": "KMX",
-    "currentPrice": 65.54,
-    "change": -2.19,
-    "percentChange": -3.2334,
+    "currentPrice": 65.275,
+    "change": -2.455,
+    "percentChange": -3.6247,
     "open": 67.03,
     "high": 67.05,
-    "low": 65.5,
+    "low": 65.08,
     "previousClose": 67.73,
-    "lastUpdated": "2025-04-16T15:55:36.619263"
+    "lastUpdated": "2025-04-16T16:23:08.073553"
   },
   "PNW": {
     "symbol": "PNW",
-    "currentPrice": 94.88,
-    "change": 0.61,
-    "percentChange": 0.6471,
+    "currentPrice": 94.43,
+    "change": 0.16,
+    "percentChange": 0.1697,
     "open": 94.89,
     "high": 94.98,
-    "low": 94.39,
+    "low": 94.3,
     "previousClose": 94.27,
-    "lastUpdated": "2025-04-16T15:55:36.694256"
+    "lastUpdated": "2025-04-16T16:23:08.777996"
   },
   "GL": {
     "symbol": "GL",
-    "currentPrice": 123.285,
-    "change": 0.495,
-    "percentChange": 0.4031,
+    "currentPrice": 122.67,
+    "change": -0.12,
+    "percentChange": -0.0977,
     "open": 122.83,
     "high": 123.39,
     "low": 121.61,
     "previousClose": 122.79,
-    "lastUpdated": "2025-04-16T15:55:36.817584"
+    "lastUpdated": "2025-04-16T16:23:09.675869"
   },
   "PAYC": {
     "symbol": "PAYC",
-    "currentPrice": 218.52,
-    "change": -0.77,
-    "percentChange": -0.3511,
+    "currentPrice": 217.945,
+    "change": -1.345,
+    "percentChange": -0.6133,
     "open": 218.955,
     "high": 219.31,
     "low": 216.83,
     "previousClose": 219.29,
-    "lastUpdated": "2025-04-16T15:55:36.895567"
+    "lastUpdated": "2025-04-16T16:23:10.330080"
   },
   "NDSN": {
     "symbol": "NDSN",
-    "currentPrice": 181.83,
-    "change": -1.26,
-    "percentChange": -0.6882,
+    "currentPrice": 181.58,
+    "change": -1.51,
+    "percentChange": -0.8247,
     "open": 183.21,
     "high": 183.63,
     "low": 181.06,
     "previousClose": 183.09,
-    "lastUpdated": "2025-04-16T15:55:36.948399"
+    "lastUpdated": "2025-04-16T16:23:10.978332"
   },
   "BG": {
     "symbol": "BG",
-    "currentPrice": 77.22,
-    "change": 1.02,
-    "percentChange": 1.3386,
+    "currentPrice": 77.21,
+    "change": 1.01,
+    "percentChange": 1.3255,
     "open": 76.9,
     "high": 77.57,
     "low": 76.255,
     "previousClose": 76.2,
-    "lastUpdated": "2025-04-16T15:55:37.014163"
+    "lastUpdated": "2025-04-16T16:23:11.878058"
   },
   "AIZ": {
     "symbol": "AIZ",
-    "currentPrice": 194.97,
-    "change": 1.17,
-    "percentChange": 0.6037,
+    "currentPrice": 193.88,
+    "change": 0.08,
+    "percentChange": 0.0413,
     "open": 194.26,
     "high": 195.21,
     "low": 192.84,
     "previousClose": 193.8,
-    "lastUpdated": "2025-04-16T15:55:37.087035"
+    "lastUpdated": "2025-04-16T16:23:12.543443"
   },
   "NWSA": {
     "symbol": "NWSA",
-    "currentPrice": 26.145,
-    "change": -0.235,
-    "percentChange": -0.8908,
+    "currentPrice": 26.11,
+    "change": -0.27,
+    "percentChange": -1.0235,
     "open": 26.345,
     "high": 26.65,
     "low": 26.05,
     "previousClose": 26.38,
-    "lastUpdated": "2025-04-16T15:55:37.155379"
+    "lastUpdated": "2025-04-16T16:23:13.187847"
   },
   "TKO": {
     "symbol": "TKO",
-    "currentPrice": 149.95,
-    "change": 0.3,
-    "percentChange": 0.2005,
+    "currentPrice": 150.205,
+    "change": 0.555,
+    "percentChange": 0.3709,
     "open": 149.52,
     "high": 150.86,
     "low": 148,
     "previousClose": 149.65,
-    "lastUpdated": "2025-04-16T15:55:37.212408"
+    "lastUpdated": "2025-04-16T16:23:13.924564"
   },
   "HST": {
     "symbol": "HST",
-    "currentPrice": 13.58,
-    "change": -0.01,
-    "percentChange": -0.0736,
+    "currentPrice": 13.585,
+    "change": -0.005,
+    "percentChange": -0.0368,
     "open": 13.5,
     "high": 13.68,
     "low": 13.415,
     "previousClose": 13.59,
-    "lastUpdated": "2025-04-16T15:55:37.284001"
+    "lastUpdated": "2025-04-16T16:23:14.596331"
   },
   "SWK": {
     "symbol": "SWK",
-    "currentPrice": 58.26,
-    "change": -0.6,
-    "percentChange": -1.0194,
+    "currentPrice": 58.3,
+    "change": -0.56,
+    "percentChange": -0.9514,
     "open": 58.61,
     "high": 59.0999,
     "low": 57.98,
     "previousClose": 58.86,
-    "lastUpdated": "2025-04-16T15:55:37.365326"
+    "lastUpdated": "2025-04-16T16:23:15.283521"
   },
   "SOLV": {
     "symbol": "SOLV",
-    "currentPrice": 66.215,
-    "change": 0.285,
-    "percentChange": 0.4323,
+    "currentPrice": 66.345,
+    "change": 0.415,
+    "percentChange": 0.6295,
     "open": 66.41,
     "high": 66.575,
     "low": 65.51,
     "previousClose": 65.93,
-    "lastUpdated": "2025-04-16T15:55:37.438284"
+    "lastUpdated": "2025-04-16T16:23:16.206394"
   },
   "IPG": {
     "symbol": "IPG",
-    "currentPrice": 23.87,
-    "change": -1.27,
-    "percentChange": -5.0517,
+    "currentPrice": 23.705,
+    "change": -1.435,
+    "percentChange": -5.708,
     "open": 24.74,
     "high": 25.1,
-    "low": 23.86,
+    "low": 23.65,
     "previousClose": 25.14,
-    "lastUpdated": "2025-04-16T15:55:37.489642"
+    "lastUpdated": "2025-04-16T16:23:16.408339"
   },
   "INCY": {
     "symbol": "INCY",
-    "currentPrice": 58.375,
-    "change": -0.085,
-    "percentChange": -0.1454,
+    "currentPrice": 58.35,
+    "change": -0.11,
+    "percentChange": -0.1882,
     "open": 58.42,
     "high": 58.78,
     "low": 57.8238,
     "previousClose": 58.46,
-    "lastUpdated": "2025-04-16T15:55:37.573007"
+    "lastUpdated": "2025-04-16T16:23:17.130180"
   },
   "EMN": {
     "symbol": "EMN",
-    "currentPrice": 77.79,
-    "change": 0.11,
-    "percentChange": 0.1416,
+    "currentPrice": 77.34,
+    "change": -0.34,
+    "percentChange": -0.4377,
     "open": 77.525,
     "high": 78.81,
     "low": 77.13,
     "previousClose": 77.68,
-    "lastUpdated": "2025-04-16T15:55:37.628587"
+    "lastUpdated": "2025-04-16T16:23:17.797446"
   },
   "BXP": {
     "symbol": "BXP",
-    "currentPrice": 63.815,
-    "change": 0.225,
-    "percentChange": 0.3538,
+    "currentPrice": 63.645,
+    "change": 0.055,
+    "percentChange": 0.0865,
     "open": 61.51,
     "high": 64.105,
     "low": 61.51,
     "previousClose": 63.59,
-    "lastUpdated": "2025-04-16T15:55:37.715861"
+    "lastUpdated": "2025-04-16T16:23:18.455711"
   },
   "VTRS": {
     "symbol": "VTRS",
-    "currentPrice": 7.5899,
-    "change": 0.1099,
-    "percentChange": 1.4693,
+    "currentPrice": 7.565,
+    "change": 0.085,
+    "percentChange": 1.1364,
     "open": 7.5,
     "high": 7.63,
     "low": 7.48,
     "previousClose": 7.48,
-    "lastUpdated": "2025-04-16T15:55:37.783871"
+    "lastUpdated": "2025-04-16T16:23:19.123089"
   },
   "SWKS": {
     "symbol": "SWKS",
-    "currentPrice": 56.25,
-    "change": -1.15,
-    "percentChange": -2.0035,
+    "currentPrice": 56.265,
+    "change": -1.135,
+    "percentChange": -1.9774,
     "open": 55.76,
     "high": 56.88,
     "low": 55.565,
     "previousClose": 57.4,
-    "lastUpdated": "2025-04-16T15:55:37.854820"
+    "lastUpdated": "2025-04-16T16:23:19.850773"
   },
   "HRL": {
     "symbol": "HRL",
-    "currentPrice": 30.44,
-    "change": 0.06,
-    "percentChange": 0.1975,
+    "currentPrice": 30.405,
+    "change": 0.025,
+    "percentChange": 0.0823,
     "open": 30.43,
     "high": 30.63,
     "low": 30.3,
     "previousClose": 30.38,
-    "lastUpdated": "2025-04-16T15:55:37.929341"
+    "lastUpdated": "2025-04-16T16:23:20.048603"
   },
   "DAY": {
     "symbol": "DAY",
-    "currentPrice": 55.79,
-    "change": -0.02,
-    "percentChange": -0.0358,
+    "currentPrice": 55.625,
+    "change": -0.185,
+    "percentChange": -0.3315,
     "open": 55.57,
     "high": 56.1,
     "low": 55.09,
     "previousClose": 55.81,
-    "lastUpdated": "2025-04-16T15:55:38.006481"
+    "lastUpdated": "2025-04-16T16:23:20.688112"
   },
   "MRNA": {
     "symbol": "MRNA",
-    "currentPrice": 25.43,
-    "change": -0.81,
-    "percentChange": -3.0869,
+    "currentPrice": 25.465,
+    "change": -0.775,
+    "percentChange": -2.9535,
     "open": 25.93,
     "high": 26.065,
     "low": 25.382,
     "previousClose": 26.24,
-    "lastUpdated": "2025-04-16T15:55:38.089903"
+    "lastUpdated": "2025-04-16T16:23:21.402912"
   },
   "EPAM": {
     "symbol": "EPAM",
-    "currentPrice": 149.99,
-    "change": -1.56,
-    "percentChange": -1.0294,
+    "currentPrice": 150.175,
+    "change": -1.375,
+    "percentChange": -0.9073,
     "open": 149.15,
     "high": 152.07,
     "low": 148.485,
     "previousClose": 151.55,
-    "lastUpdated": "2025-04-16T15:55:38.162643"
+    "lastUpdated": "2025-04-16T16:23:22.079203"
   },
   "MKTX": {
     "symbol": "MKTX",
-    "currentPrice": 224.31,
-    "change": 0.33,
-    "percentChange": 0.1473,
+    "currentPrice": 224.245,
+    "change": 0.265,
+    "percentChange": 0.1183,
     "open": 223.695,
     "high": 226.69,
     "low": 223.14,
     "previousClose": 223.98,
-    "lastUpdated": "2025-04-16T15:55:38.237323"
+    "lastUpdated": "2025-04-16T16:23:23.012368"
   },
   "HSIC": {
     "symbol": "HSIC",
-    "currentPrice": 64.01,
-    "change": -0.27,
-    "percentChange": -0.42,
+    "currentPrice": 63.87,
+    "change": -0.41,
+    "percentChange": -0.6378,
     "open": 64.32,
     "high": 65.02,
     "low": 63.08,
     "previousClose": 64.28,
-    "lastUpdated": "2025-04-16T15:55:38.337470"
+    "lastUpdated": "2025-04-16T16:23:23.668350"
   },
   "HII": {
     "symbol": "HII",
-    "currentPrice": 217.17,
-    "change": -0.81,
-    "percentChange": -0.3716,
+    "currentPrice": 217.495,
+    "change": -0.485,
+    "percentChange": -0.2225,
     "open": 217.98,
     "high": 218.2899,
     "low": 215.77,
     "previousClose": 217.98,
-    "lastUpdated": "2025-04-16T15:55:38.408114"
+    "lastUpdated": "2025-04-16T16:23:23.861355"
   },
   "RL": {
     "symbol": "RL",
-    "currentPrice": 202.24,
-    "change": -1.02,
-    "percentChange": -0.5018,
+    "currentPrice": 203.645,
+    "change": 0.385,
+    "percentChange": 0.1894,
     "open": 201.29,
     "high": 204.44,
     "low": 201.2,
     "previousClose": 203.26,
-    "lastUpdated": "2025-04-16T15:55:38.485798"
+    "lastUpdated": "2025-04-16T16:23:24.511401"
   },
   "TECH": {
     "symbol": "TECH",
-    "currentPrice": 50.625,
-    "change": -0.445,
-    "percentChange": -0.8714,
+    "currentPrice": 50.61,
+    "change": -0.46,
+    "percentChange": -0.9007,
     "open": 50.81,
     "high": 51.87,
     "low": 50.14,
     "previousClose": 51.07,
-    "lastUpdated": "2025-04-16T15:55:38.549134"
+    "lastUpdated": "2025-04-16T16:23:25.153411"
   },
   "LW": {
     "symbol": "LW",
-    "currentPrice": 54.35,
-    "change": -0.28,
-    "percentChange": -0.5125,
+    "currentPrice": 54.45,
+    "change": -0.18,
+    "percentChange": -0.3295,
     "open": 54.98,
     "high": 55.07,
     "low": 54.07,
     "previousClose": 54.63,
-    "lastUpdated": "2025-04-16T15:55:38.600449"
+    "lastUpdated": "2025-04-16T16:23:25.781849"
   },
   "WBA": {
     "symbol": "WBA",
-    "currentPrice": 10.855,
-    "change": 0.005,
-    "percentChange": 0.0461,
+    "currentPrice": 10.875,
+    "change": 0.025,
+    "percentChange": 0.2304,
     "open": 10.86,
     "high": 10.885,
     "low": 10.795,
     "previousClose": 10.85,
-    "lastUpdated": "2025-04-16T15:55:38.673663"
+    "lastUpdated": "2025-04-16T16:23:26.700331"
   },
   "MOS": {
     "symbol": "MOS",
-    "currentPrice": 27.285,
-    "change": 0.895,
-    "percentChange": 3.3914,
+    "currentPrice": 27.245,
+    "change": 0.855,
+    "percentChange": 3.2399,
     "open": 26.45,
     "high": 27.66,
     "low": 26.3,
     "previousClose": 26.39,
-    "lastUpdated": "2025-04-16T15:55:38.728333"
+    "lastUpdated": "2025-04-16T16:23:27.344945"
   },
   "AOS": {
     "symbol": "AOS",
-    "currentPrice": 63.4525,
-    "change": -0.3975,
-    "percentChange": -0.6226,
+    "currentPrice": 63.385,
+    "change": -0.465,
+    "percentChange": -0.7283,
     "open": 63.81,
     "high": 64.02,
     "low": 63.07,
     "previousClose": 63.85,
-    "lastUpdated": "2025-04-16T15:56:38.791443"
+    "lastUpdated": "2025-04-16T16:24:28.230431"
   },
   "CPB": {
     "symbol": "CPB",
-    "currentPrice": 37.68,
-    "change": -0.04,
-    "percentChange": -0.106,
+    "currentPrice": 37.64,
+    "change": -0.08,
+    "percentChange": -0.2121,
     "open": 38,
     "high": 38.14,
     "low": 37.55,
     "previousClose": 37.72,
-    "lastUpdated": "2025-04-16T15:56:38.846633"
+    "lastUpdated": "2025-04-16T16:24:28.945825"
   },
   "NCLH": {
     "symbol": "NCLH",
-    "currentPrice": 16.445,
-    "change": 0.135,
-    "percentChange": 0.8277,
+    "currentPrice": 16.505,
+    "change": 0.195,
+    "percentChange": 1.1956,
     "open": 16.33,
     "high": 16.63,
     "low": 16.13,
     "previousClose": 16.31,
-    "lastUpdated": "2025-04-16T15:56:38.908753"
+    "lastUpdated": "2025-04-16T16:24:29.633308"
   },
   "AES": {
     "symbol": "AES",
-    "currentPrice": 10.17,
-    "change": -0.1,
-    "percentChange": -0.9737,
+    "currentPrice": 10.1408,
+    "change": -0.1292,
+    "percentChange": -1.258,
     "open": 10.25,
     "high": 10.325,
-    "low": 10.17,
+    "low": 10.12,
     "previousClose": 10.27,
-    "lastUpdated": "2025-04-16T15:56:39.032292"
+    "lastUpdated": "2025-04-16T16:24:30.332027"
   },
   "MTCH": {
     "symbol": "MTCH",
@@ -5332,73 +5332,73 @@
     "high": 29.13,
     "low": 28.67,
     "previousClose": 29.08,
-    "lastUpdated": "2025-04-16T15:56:39.117962"
+    "lastUpdated": "2025-04-16T16:24:30.530039"
   },
   "FRT": {
     "symbol": "FRT",
-    "currentPrice": 93.11,
-    "change": 0.81,
-    "percentChange": 0.8776,
+    "currentPrice": 92.845,
+    "change": 0.545,
+    "percentChange": 0.5905,
     "open": 92.32,
     "high": 93.4,
     "low": 91.92,
     "previousClose": 92.3,
-    "lastUpdated": "2025-04-16T15:56:39.194969"
+    "lastUpdated": "2025-04-16T16:24:31.242521"
   },
   "DVA": {
     "symbol": "DVA",
-    "currentPrice": 145.25,
-    "change": -1.03,
-    "percentChange": -0.7041,
+    "currentPrice": 145.52,
+    "change": -0.76,
+    "percentChange": -0.5196,
     "open": 147.03,
     "high": 147.47,
     "low": 144.56,
     "previousClose": 146.28,
-    "lastUpdated": "2025-04-16T15:56:39.273302"
+    "lastUpdated": "2025-04-16T16:24:31.904481"
   },
   "HAS": {
     "symbol": "HAS",
-    "currentPrice": 52.39,
-    "change": -0.1,
-    "percentChange": -0.1905,
+    "currentPrice": 52.525,
+    "change": 0.035,
+    "percentChange": 0.0667,
     "open": 52.37,
     "high": 52.91,
     "low": 52.17,
     "previousClose": 52.49,
-    "lastUpdated": "2025-04-16T15:56:39.382403"
+    "lastUpdated": "2025-04-16T16:24:32.589778"
   },
   "ENPH": {
     "symbol": "ENPH",
-    "currentPrice": 53.14,
-    "change": 0.07,
-    "percentChange": 0.1319,
+    "currentPrice": 52.912,
+    "change": -0.158,
+    "percentChange": -0.2977,
     "open": 52.59,
     "high": 54,
     "low": 52.36,
     "previousClose": 53.07,
-    "lastUpdated": "2025-04-16T15:56:39.496060"
+    "lastUpdated": "2025-04-16T16:24:33.331796"
   },
   "PARA": {
     "symbol": "PARA",
-    "currentPrice": 10.705,
-    "change": -0.155,
-    "percentChange": -1.4273,
+    "currentPrice": 10.75,
+    "change": -0.11,
+    "percentChange": -1.0129,
     "open": 10.835,
     "high": 10.88,
     "low": 10.69,
     "previousClose": 10.86,
-    "lastUpdated": "2025-04-16T15:56:39.561346"
+    "lastUpdated": "2025-04-16T16:24:34.043498"
   },
   "MGM": {
     "symbol": "MGM",
-    "currentPrice": 28.92,
-    "change": -0.79,
-    "percentChange": -2.659,
+    "currentPrice": 29.025,
+    "change": -0.685,
+    "percentChange": -2.3056,
     "open": 29.37,
     "high": 29.66,
     "low": 28.9,
     "previousClose": 29.71,
-    "lastUpdated": "2025-04-16T15:56:39.645722"
+    "lastUpdated": "2025-04-16T16:24:34.746755"
   },
   "WYNN": {
     "symbol": "WYNN",
@@ -5409,127 +5409,127 @@
     "high": 74.6699,
     "low": 73.43,
     "previousClose": 74.9,
-    "lastUpdated": "2025-04-16T15:56:39.714432"
+    "lastUpdated": "2025-04-16T16:24:35.631814"
   },
   "GNRC": {
     "symbol": "GNRC",
-    "currentPrice": 111.138,
-    "change": -1.892,
-    "percentChange": -1.6739,
+    "currentPrice": 111.02,
+    "change": -2.01,
+    "percentChange": -1.7783,
     "open": 111.74,
     "high": 113.466,
-    "low": 110.9201,
+    "low": 110.765,
     "previousClose": 113.03,
-    "lastUpdated": "2025-04-16T15:56:39.791391"
+    "lastUpdated": "2025-04-16T16:24:36.355270"
   },
   "ALB": {
     "symbol": "ALB",
-    "currentPrice": 52.8,
-    "change": -1.21,
-    "percentChange": -2.2403,
+    "currentPrice": 53.05,
+    "change": -0.96,
+    "percentChange": -1.7774,
     "open": 53.29,
     "high": 54.84,
-    "low": 52.73,
+    "low": 52.585,
     "previousClose": 54.01,
-    "lastUpdated": "2025-04-16T15:56:39.858074"
+    "lastUpdated": "2025-04-16T16:24:37.050222"
   },
   "BF.B": {
     "symbol": "BF.B",
-    "currentPrice": 33.56,
-    "change": 0.12,
-    "percentChange": 0.3589,
+    "currentPrice": 33.53,
+    "change": 0.09,
+    "percentChange": 0.2691,
     "open": 33.54,
     "high": 33.73,
     "low": 33.31,
     "previousClose": 33.44,
-    "lastUpdated": "2025-04-16T15:56:39.911717"
+    "lastUpdated": "2025-04-16T16:24:37.248537"
   },
   "FOX": {
     "symbol": "FOX",
-    "currentPrice": 45.34,
-    "change": -1,
-    "percentChange": -2.158,
+    "currentPrice": 45.31,
+    "change": -1.03,
+    "percentChange": -2.2227,
     "open": 46.11,
     "high": 46.2,
-    "low": 45.26,
+    "low": 45.24,
     "previousClose": 46.34,
-    "lastUpdated": "2025-04-16T15:56:39.996730"
+    "lastUpdated": "2025-04-16T16:24:37.965955"
   },
   "IVZ": {
     "symbol": "IVZ",
-    "currentPrice": 12.895,
-    "change": -0.185,
-    "percentChange": -1.4144,
+    "currentPrice": 12.865,
+    "change": -0.215,
+    "percentChange": -1.6437,
     "open": 13.01,
     "high": 13.055,
     "low": 12.785,
     "previousClose": 13.08,
-    "lastUpdated": "2025-04-16T15:56:40.068111"
+    "lastUpdated": "2025-04-16T16:24:38.674006"
   },
   "BEN": {
     "symbol": "BEN",
-    "currentPrice": 17.905,
-    "change": -0.065,
-    "percentChange": -0.3617,
+    "currentPrice": 17.815,
+    "change": -0.155,
+    "percentChange": -0.8625,
     "open": 17.87,
     "high": 18.1,
     "low": 17.765,
     "previousClose": 17.97,
-    "lastUpdated": "2025-04-16T15:56:40.139459"
+    "lastUpdated": "2025-04-16T16:24:39.391381"
   },
   "APA": {
     "symbol": "APA",
-    "currentPrice": 15.645,
-    "change": 0.755,
-    "percentChange": 5.0705,
+    "currentPrice": 15.565,
+    "change": 0.675,
+    "percentChange": 4.5332,
     "open": 14.9,
     "high": 15.71,
     "low": 14.835,
     "previousClose": 14.89,
-    "lastUpdated": "2025-04-16T15:56:40.210891"
+    "lastUpdated": "2025-04-16T16:24:40.137581"
   },
   "MHK": {
     "symbol": "MHK",
-    "currentPrice": 102.72,
-    "change": -0.32,
-    "percentChange": -0.3106,
+    "currentPrice": 102.75,
+    "change": -0.29,
+    "percentChange": -0.2814,
     "open": 102.7,
     "high": 104.0985,
     "low": 101.8246,
     "previousClose": 103.04,
-    "lastUpdated": "2025-04-16T15:56:40.291088"
+    "lastUpdated": "2025-04-16T16:24:40.858924"
   },
   "CZR": {
     "symbol": "CZR",
-    "currentPrice": 24.935,
-    "change": -0.135,
-    "percentChange": -0.5385,
+    "currentPrice": 25.005,
+    "change": -0.065,
+    "percentChange": -0.2593,
     "open": 24.91,
     "high": 25.19,
     "low": 24.655,
     "previousClose": 25.07,
-    "lastUpdated": "2025-04-16T15:56:40.352036"
+    "lastUpdated": "2025-04-16T16:24:41.070914"
   },
   "CRL": {
     "symbol": "CRL",
-    "currentPrice": 104.7475,
-    "change": -1.1725,
-    "percentChange": -1.107,
+    "currentPrice": 105.035,
+    "change": -0.885,
+    "percentChange": -0.8355,
     "open": 105.89,
     "high": 107.225,
     "low": 103.1248,
     "previousClose": 105.92,
-    "lastUpdated": "2025-04-16T15:56:40.413549"
+    "lastUpdated": "2025-04-16T16:24:41.733010"
   },
   "NWS": {
     "symbol": "NWS",
-    "currentPrice": 30.23,
-    "change": -0.29,
-    "percentChange": -0.9502,
+    "currentPrice": 30.18,
+    "change": -0.34,
+    "percentChange": -1.114,
     "open": 30.37,
     "high": 30.43,
     "low": 30.11,
     "previousClose": 30.52,
-    "lastUpdated": "2025-04-16T15:56:40.490970"
+    "lastUpdated": "2025-04-16T16:24:42.385329"
   }
 }
