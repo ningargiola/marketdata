@@ -7,15 +7,7 @@
     "marketCap": 2976629129216,
     "country": "United States",
     "website": "https://www.apple.com",
-    "ipoYear": null,
-    "currentPrice": 204.6,
-    "change": 4.86,
-    "percentChange": 2.4332,
-    "open": 206,
-    "high": 208,
-    "low": 202.799,
-    "previousClose": 199.74,
-    "lastUpdated": "2025-04-24T04:11:49.425464"
+    "ipoYear": null
   },
   "MSFT": {
     "symbol": "MSFT",
@@ -25,15 +17,7 @@
     "marketCap": 2887729545216,
     "country": "United States",
     "website": "https://www.microsoft.com",
-    "ipoYear": null,
-    "currentPrice": 374.39,
-    "change": 7.57,
-    "percentChange": 2.0637,
-    "open": 376.06,
-    "high": 380.39,
-    "low": 373.02,
-    "previousClose": 366.82,
-    "lastUpdated": "2025-04-24T04:11:49.485506"
+    "ipoYear": null
   },
   "NVDA": {
     "symbol": "NVDA",
@@ -43,15 +27,7 @@
     "marketCap": 2706691850240,
     "country": "United States",
     "website": "https://www.nvidia.com",
-    "ipoYear": null,
-    "currentPrice": 102.71,
-    "change": 3.82,
-    "percentChange": 3.8629,
-    "open": 104.52,
-    "high": 104.8,
-    "low": 102.02,
-    "previousClose": 98.89,
-    "lastUpdated": "2025-04-24T04:11:49.537051"
+    "ipoYear": null
   },
   "AMZN": {
     "symbol": "AMZN",
@@ -61,15 +37,7 @@
     "marketCap": 1961914400768,
     "country": "United States",
     "website": "https://www.aboutamazon.com",
-    "ipoYear": null,
-    "currentPrice": 180.6,
-    "change": 7.42,
-    "percentChange": 4.2846,
-    "open": 183.45,
-    "high": 187.38,
-    "low": 180.19,
-    "previousClose": 173.18,
-    "lastUpdated": "2025-04-24T04:11:49.587966"
+    "ipoYear": null
   },
   "META": {
     "symbol": "META",
@@ -79,15 +47,7 @@
     "marketCap": 1377221476352,
     "country": "United States",
     "website": "https://investor.atmeta.com",
-    "ipoYear": null,
-    "currentPrice": 520.27,
-    "change": 19.99,
-    "percentChange": 3.9958,
-    "open": 528.525,
-    "high": 535.3376,
-    "low": 516.52,
-    "previousClose": 500.28,
-    "lastUpdated": "2025-04-24T04:11:49.638593"
+    "ipoYear": null
   },
   "BRK.B": {
     "symbol": "BRK.B",
@@ -97,15 +57,7 @@
     "marketCap": null,
     "country": null,
     "website": null,
-    "ipoYear": null,
-    "currentPrice": 526.81,
-    "change": 6.02,
-    "percentChange": 1.1559,
-    "open": 527.5,
-    "high": 532.27,
-    "low": 523.885,
-    "previousClose": 520.79,
-    "lastUpdated": "2025-04-24T04:11:49.695526"
+    "ipoYear": null
   },
   "GOOGL": {
     "symbol": "GOOGL",
@@ -115,15 +67,7 @@
     "marketCap": 1927966359552,
     "country": "United States",
     "website": "https://abc.xyz",
-    "ipoYear": null,
-    "currentPrice": 155.35,
-    "change": 3.88,
-    "percentChange": 2.5616,
-    "open": 155.61,
-    "high": 157.525,
-    "low": 153.81,
-    "previousClose": 151.47,
-    "lastUpdated": "2025-04-24T04:11:49.753350"
+    "ipoYear": null
   },
   "AVGO": {
     "symbol": "AVGO",
@@ -133,15 +77,7 @@
     "marketCap": 855472799744,
     "country": "United States",
     "website": "https://www.broadcom.com",
-    "ipoYear": null,
-    "currentPrice": 176.91,
-    "change": 7.33,
-    "percentChange": 4.3224,
-    "open": 177.78,
-    "high": 180.45,
-    "low": 175.82,
-    "previousClose": 169.58,
-    "lastUpdated": "2025-04-24T04:11:49.809680"
+    "ipoYear": null
   },
   "GOOG": {
     "symbol": "GOOG",
@@ -151,15 +87,7 @@
     "marketCap": 1927958888448,
     "country": "United States",
     "website": "https://abc.xyz",
-    "ipoYear": null,
-    "currentPrice": 157.72,
-    "change": 3.82,
-    "percentChange": 2.4821,
-    "open": 157.91,
-    "high": 160.02,
-    "low": 156.35,
-    "previousClose": 153.9,
-    "lastUpdated": "2025-04-24T04:11:49.858327"
+    "ipoYear": null
   },
   "TSLA": {
     "symbol": "TSLA",
@@ -169,15 +97,7 @@
     "marketCap": 811333058560,
     "country": "United States",
     "website": "https://www.tesla.com",
-    "ipoYear": null,
-    "currentPrice": 250.74,
-    "change": 12.77,
-    "percentChange": 5.3662,
-    "open": 254.86,
-    "high": 259.4499,
-    "low": 244.43,
-    "previousClose": 237.97,
-    "lastUpdated": "2025-04-24T04:11:49.906354"
+    "ipoYear": null
   },
   "JPM": {
     "symbol": "JPM",
@@ -187,15 +107,7 @@
     "marketCap": 656423387136,
     "country": "United States",
     "website": "https://www.jpmorganchase.com",
-    "ipoYear": null,
-    "currentPrice": 240.88,
-    "change": 5.29,
-    "percentChange": 2.2454,
-    "open": 240.22,
-    "high": 246.79,
-    "low": 240,
-    "previousClose": 235.59,
-    "lastUpdated": "2025-04-24T04:11:50.003606"
+    "ipoYear": null
   },
   "LLY": {
     "symbol": "LLY",
@@ -205,15 +117,7 @@
     "marketCap": 657696096256,
     "country": "United States",
     "website": "https://www.lilly.com",
-    "ipoYear": null,
-    "currentPrice": 829.42,
-    "change": 1.88,
-    "percentChange": 0.2272,
-    "open": 836.96,
-    "high": 846.01,
-    "low": 818.64,
-    "previousClose": 827.54,
-    "lastUpdated": "2025-04-24T04:11:50.065491"
+    "ipoYear": null
   },
   "V": {
     "symbol": "V",
@@ -223,15 +127,7 @@
     "marketCap": 643131965440,
     "country": "United States",
     "website": "https://www.visa.com",
-    "ipoYear": null,
-    "currentPrice": 334.37,
-    "change": 2.97,
-    "percentChange": 0.8962,
-    "open": 337.24,
-    "high": 341.25,
-    "low": 333.2,
-    "previousClose": 331.4,
-    "lastUpdated": "2025-04-24T04:11:50.138471"
+    "ipoYear": null
   },
   "UNH": {
     "symbol": "UNH",
@@ -241,15 +137,7 @@
     "marketCap": 548342366208,
     "country": "United States",
     "website": "https://www.unitedhealthgroup.com",
-    "ipoYear": null,
-    "currentPrice": 427.96,
-    "change": 0.78,
-    "percentChange": 0.1826,
-    "open": 427.07,
-    "high": 438.85,
-    "low": 423.75,
-    "previousClose": 427.18,
-    "lastUpdated": "2025-04-24T04:11:50.189021"
+    "ipoYear": null
   },
   "XOM": {
     "symbol": "XOM",
@@ -259,15 +147,7 @@
     "marketCap": 446110400512,
     "country": "United States",
     "website": "https://corporate.exxonmobil.com",
-    "ipoYear": null,
-    "currentPrice": 107.37,
-    "change": -0.93,
-    "percentChange": -0.8587,
-    "open": 108.81,
-    "high": 109.3,
-    "low": 106.47,
-    "previousClose": 108.3,
-    "lastUpdated": "2025-04-24T04:11:50.249087"
+    "ipoYear": null
   },
   "COST": {
     "symbol": "COST",
@@ -277,15 +157,7 @@
     "marketCap": 427448631296,
     "country": "United States",
     "website": "https://www.costco.com",
-    "ipoYear": null,
-    "currentPrice": 975.84,
-    "change": -3.39,
-    "percentChange": -0.3462,
-    "open": 994.52,
-    "high": 995.75,
-    "low": 969,
-    "previousClose": 979.23,
-    "lastUpdated": "2025-04-24T04:11:50.306010"
+    "ipoYear": null
   },
   "MA": {
     "symbol": "MA",
@@ -295,15 +167,7 @@
     "marketCap": 464743170048,
     "country": "United States",
     "website": "https://www.mastercard.com",
-    "ipoYear": null,
-    "currentPrice": 530.01,
-    "change": 2.68,
-    "percentChange": 0.5082,
-    "open": 537.74,
-    "high": 543.94,
-    "low": 527.62,
-    "previousClose": 527.33,
-    "lastUpdated": "2025-04-24T04:11:50.360833"
+    "ipoYear": null
   },
   "NFLX": {
     "symbol": "NFLX",
@@ -313,15 +177,7 @@
     "marketCap": 392804958208,
     "country": "United States",
     "website": "https://www.netflix.com",
-    "ipoYear": null,
-    "currentPrice": 1049.59,
-    "change": 9.25,
-    "percentChange": 0.8891,
-    "open": 1047.225,
-    "high": 1061.25,
-    "low": 1032.0001,
-    "previousClose": 1040.34,
-    "lastUpdated": "2025-04-24T04:11:50.423258"
+    "ipoYear": null
   },
   "WMT": {
     "symbol": "WMT",
@@ -331,15 +187,7 @@
     "marketCap": 743963688960,
     "country": "United States",
     "website": "https://corporate.walmart.com",
-    "ipoYear": null,
-    "currentPrice": 94.96,
-    "change": 0.11,
-    "percentChange": 0.116,
-    "open": 95.0164,
-    "high": 96.6,
-    "low": 94.1619,
-    "previousClose": 94.85,
-    "lastUpdated": "2025-04-24T04:11:50.479041"
+    "ipoYear": null
   },
   "PG": {
     "symbol": "PG",
@@ -349,15 +197,7 @@
     "marketCap": 391378894848,
     "country": "United States",
     "website": "https://www.pginvestor.com",
-    "ipoYear": null,
-    "currentPrice": 165.73,
-    "change": -2.15,
-    "percentChange": -1.2807,
-    "open": 166.4,
-    "high": 166.61,
-    "low": 163.11,
-    "previousClose": 167.88,
-    "lastUpdated": "2025-04-24T04:11:50.543356"
+    "ipoYear": null
   },
   "JNJ": {
     "symbol": "JNJ",
@@ -367,15 +207,7 @@
     "marketCap": 365646544896,
     "country": "United States",
     "website": "https://www.jnj.com",
-    "ipoYear": null,
-    "currentPrice": 155.38,
-    "change": -2.37,
-    "percentChange": -1.5024,
-    "open": 156.49,
-    "high": 157.1,
-    "low": 154.33,
-    "previousClose": 157.75,
-    "lastUpdated": "2025-04-24T04:11:50.615671"
+    "ipoYear": null
   },
   "HD": {
     "symbol": "HD",
@@ -385,15 +217,7 @@
     "marketCap": 351711363072,
     "country": "United States",
     "website": "https://www.homedepot.com",
-    "ipoYear": null,
-    "currentPrice": 356.42,
-    "change": 1.99,
-    "percentChange": 0.5615,
-    "open": 361.92,
-    "high": 364.84,
-    "low": 354.85,
-    "previousClose": 354.43,
-    "lastUpdated": "2025-04-24T04:11:50.674920"
+    "ipoYear": null
   },
   "ABBV": {
     "symbol": "ABBV",
@@ -403,15 +227,7 @@
     "marketCap": 309659959296,
     "country": "United States",
     "website": "https://www.abbvie.com",
-    "ipoYear": null,
-    "currentPrice": 177.05,
-    "change": 3.27,
-    "percentChange": 1.8817,
-    "open": 175,
-    "high": 178.15,
-    "low": 174.4,
-    "previousClose": 173.78,
-    "lastUpdated": "2025-04-24T04:11:50.728313"
+    "ipoYear": null
   },
   "KO": {
     "symbol": "KO",
@@ -421,15 +237,7 @@
     "marketCap": 307404013568,
     "country": "United States",
     "website": "https://www.coca-colacompany.com",
-    "ipoYear": null,
-    "currentPrice": 73.3,
-    "change": -0.6,
-    "percentChange": -0.8119,
-    "open": 73.29,
-    "high": 73.95,
-    "low": 72.38,
-    "previousClose": 73.9,
-    "lastUpdated": "2025-04-24T04:11:50.799950"
+    "ipoYear": null
   },
   "CRM": {
     "symbol": "CRM",
@@ -439,15 +247,7 @@
     "marketCap": 245054996480,
     "country": "United States",
     "website": "https://www.salesforce.com",
-    "ipoYear": null,
-    "currentPrice": 250.48,
-    "change": 7.09,
-    "percentChange": 2.913,
-    "open": 252.61,
-    "high": 257.79,
-    "low": 249.5,
-    "previousClose": 243.39,
-    "lastUpdated": "2025-04-24T04:11:50.858650"
+    "ipoYear": null
   },
   "BAC": {
     "symbol": "BAC",
@@ -457,15 +257,7 @@
     "marketCap": 273320673280,
     "country": "United States",
     "website": "https://www.bankofamerica.com",
-    "ipoYear": null,
-    "currentPrice": 38.75,
-    "change": 0.43,
-    "percentChange": 1.1221,
-    "open": 39.405,
-    "high": 40.13,
-    "low": 38.67,
-    "previousClose": 38.32,
-    "lastUpdated": "2025-04-24T04:11:50.923688"
+    "ipoYear": null
   },
   "PM": {
     "symbol": "PM",
@@ -475,15 +267,7 @@
     "marketCap": 239528247296,
     "country": "United States",
     "website": "https://www.pmi.com",
-    "ipoYear": null,
-    "currentPrice": 168.11,
-    "change": 4,
-    "percentChange": 2.4374,
-    "open": 168.94,
-    "high": 171.63,
-    "low": 166.08,
-    "previousClose": 164.11,
-    "lastUpdated": "2025-04-24T04:11:50.991357"
+    "ipoYear": null
   },
   "CVX": {
     "symbol": "CVX",
@@ -493,15 +277,7 @@
     "marketCap": 236907642880,
     "country": "United States",
     "website": "https://www.chevron.com",
-    "ipoYear": null,
-    "currentPrice": 136.68,
-    "change": -0.62,
-    "percentChange": -0.4516,
-    "open": 137.21,
-    "high": 138.55,
-    "low": 135.15,
-    "previousClose": 137.3,
-    "lastUpdated": "2025-04-24T04:11:51.059995"
+    "ipoYear": null
   },
   "CSCO": {
     "symbol": "CSCO",
@@ -511,15 +287,7 @@
     "marketCap": 228075372544,
     "country": "United States",
     "website": "https://www.cisco.com",
-    "ipoYear": null,
-    "currentPrice": 55.63,
-    "change": 0.59,
-    "percentChange": 1.0719,
-    "open": 56.15,
-    "high": 56.98,
-    "low": 55.495,
-    "previousClose": 55.04,
-    "lastUpdated": "2025-04-24T04:11:51.113312"
+    "ipoYear": null
   },
   "MCD": {
     "symbol": "MCD",
@@ -529,15 +297,7 @@
     "marketCap": 221600808960,
     "country": "United States",
     "website": "https://www.mcdonalds.com",
-    "ipoYear": null,
-    "currentPrice": 318.48,
-    "change": -0.6,
-    "percentChange": -0.188,
-    "open": 318.5,
-    "high": 319.895,
-    "low": 314.79,
-    "previousClose": 319.08,
-    "lastUpdated": "2025-04-24T04:11:51.175360"
+    "ipoYear": null
   },
   "ORCL": {
     "symbol": "ORCL",
@@ -547,15 +307,7 @@
     "marketCap": 371139837952,
     "country": "United States",
     "website": "https://www.oracle.com",
-    "ipoYear": null,
-    "currentPrice": 131.4,
-    "change": 4.16,
-    "percentChange": 3.2694,
-    "open": 134.91,
-    "high": 135.87,
-    "low": 130.99,
-    "previousClose": 127.24,
-    "lastUpdated": "2025-04-24T04:11:51.238707"
+    "ipoYear": null
   },
   "ABT": {
     "symbol": "ABT",
@@ -565,15 +317,7 @@
     "marketCap": 220050522112,
     "country": "United States",
     "website": "https://www.abbott.com",
-    "ipoYear": null,
-    "currentPrice": 129.84,
-    "change": -1.89,
-    "percentChange": -1.4348,
-    "open": 132.21,
-    "high": 132.89,
-    "low": 127.13,
-    "previousClose": 131.73,
-    "lastUpdated": "2025-04-24T04:11:51.293172"
+    "ipoYear": null
   },
   "IBM": {
     "symbol": "IBM",
@@ -583,15 +327,7 @@
     "marketCap": 218352123904,
     "country": "United States",
     "website": "https://www.ibm.com",
-    "ipoYear": null,
-    "currentPrice": 245.48,
-    "change": 4.58,
-    "percentChange": 1.9012,
-    "open": 246,
-    "high": 249.34,
-    "low": 243.66,
-    "previousClose": 240.9,
-    "lastUpdated": "2025-04-24T04:11:51.349034"
+    "ipoYear": null
   },
   "WFC": {
     "symbol": "WFC",
@@ -601,15 +337,7 @@
     "marketCap": 203887624192,
     "country": "United States",
     "website": "https://www.wellsfargo.com",
-    "ipoYear": null,
-    "currentPrice": 67.94,
-    "change": 1.71,
-    "percentChange": 2.5819,
-    "open": 67.435,
-    "high": 69.5,
-    "low": 67.435,
-    "previousClose": 66.23,
-    "lastUpdated": "2025-04-24T04:11:51.405590"
+    "ipoYear": null
   },
   "LIN": {
     "symbol": "LIN",
@@ -619,15 +347,7 @@
     "marketCap": 208946708480,
     "country": "United Kingdom",
     "website": "https://www.linde.com",
-    "ipoYear": null,
-    "currentPrice": 448.21,
-    "change": -6.4,
-    "percentChange": -1.4078,
-    "open": 454.39,
-    "high": 457.81,
-    "low": 445.5,
-    "previousClose": 454.61,
-    "lastUpdated": "2025-04-24T04:11:51.462567"
+    "ipoYear": null
   },
   "PEP": {
     "symbol": "PEP",
@@ -637,15 +357,7 @@
     "marketCap": 198058278912,
     "country": "United States",
     "website": "https://www.pepsico.com",
-    "ipoYear": null,
-    "currentPrice": 142.26,
-    "change": -1.2,
-    "percentChange": -0.8365,
-    "open": 143.27,
-    "high": 144.015,
-    "low": 140.85,
-    "previousClose": 143.46,
-    "lastUpdated": "2025-04-24T04:11:51.526615"
+    "ipoYear": null
   },
   "MRK": {
     "symbol": "MRK",
@@ -655,15 +367,7 @@
     "marketCap": 199247757312,
     "country": "United States",
     "website": "https://www.merck.com",
-    "ipoYear": null,
-    "currentPrice": 78.74,
-    "change": -0.23,
-    "percentChange": -0.2912,
-    "open": 78.5,
-    "high": 80.2,
-    "low": 78,
-    "previousClose": 78.97,
-    "lastUpdated": "2025-04-24T04:11:51.581063"
+    "ipoYear": null
   },
   "GE": {
     "symbol": "GE",
@@ -673,15 +377,7 @@
     "marketCap": 193765588992,
     "country": "United States",
     "website": "https://www.geaerospace.com",
-    "ipoYear": null,
-    "currentPrice": 193.68,
-    "change": 4.5,
-    "percentChange": 2.3787,
-    "open": 195.94,
-    "high": 197.0341,
-    "low": 192.57,
-    "previousClose": 189.18,
-    "lastUpdated": "2025-04-24T04:11:51.633021"
+    "ipoYear": null
   },
   "T": {
     "symbol": "T",
@@ -691,15 +387,7 @@
     "marketCap": 192907821056,
     "country": "United States",
     "website": "https://www.att.com",
-    "ipoYear": null,
-    "currentPrice": 27.19,
-    "change": 0.23,
-    "percentChange": 0.8531,
-    "open": 26.535,
-    "high": 27.32,
-    "low": 26.12,
-    "previousClose": 26.96,
-    "lastUpdated": "2025-04-24T04:11:51.693733"
+    "ipoYear": null
   },
   "PLTR": {
     "symbol": "PLTR",
@@ -709,15 +397,7 @@
     "marketCap": 207681617920,
     "country": "United States",
     "website": "https://www.palantir.com",
-    "ipoYear": null,
-    "currentPrice": 100.82,
-    "change": 6.83,
-    "percentChange": 7.2667,
-    "open": 98.86,
-    "high": 103.76,
-    "low": 97.83,
-    "previousClose": 93.99,
-    "lastUpdated": "2025-04-24T04:11:51.756963"
+    "ipoYear": null
   },
   "VZ": {
     "symbol": "VZ",
@@ -727,15 +407,7 @@
     "marketCap": 187601698816,
     "country": "United States",
     "website": "https://www.verizon.com",
-    "ipoYear": null,
-    "currentPrice": 42.7,
-    "change": -0.49,
-    "percentChange": -1.1345,
-    "open": 42.55,
-    "high": 42.9864,
-    "low": 42.11,
-    "previousClose": 43.19,
-    "lastUpdated": "2025-04-24T04:11:51.807999"
+    "ipoYear": null
   },
   "ACN": {
     "symbol": "ACN",
@@ -745,15 +417,7 @@
     "marketCap": 178004230144,
     "country": "Ireland",
     "website": "https://www.accenture.com",
-    "ipoYear": null,
-    "currentPrice": 288.16,
-    "change": 4.2,
-    "percentChange": 1.4791,
-    "open": 294.65,
-    "high": 296.94,
-    "low": 286.9715,
-    "previousClose": 283.96,
-    "lastUpdated": "2025-04-24T04:11:51.860801"
+    "ipoYear": null
   },
   "ISRG": {
     "symbol": "ISRG",
@@ -763,15 +427,7 @@
     "marketCap": 176844554240,
     "country": "United States",
     "website": "https://www.intuitive.com",
-    "ipoYear": null,
-    "currentPrice": 487.93,
-    "change": 9.19,
-    "percentChange": 1.9196,
-    "open": 500,
-    "high": 517.31,
-    "low": 485.09,
-    "previousClose": 478.74,
-    "lastUpdated": "2025-04-24T04:11:51.914161"
+    "ipoYear": null
   },
   "RTX": {
     "symbol": "RTX",
@@ -781,15 +437,7 @@
     "marketCap": 171238637568,
     "country": "United States",
     "website": "https://www.rtx.com",
-    "ipoYear": null,
-    "currentPrice": 120.28,
-    "change": 6.53,
-    "percentChange": 5.7407,
-    "open": 117.375,
-    "high": 122.62,
-    "low": 117.275,
-    "previousClose": 113.75,
-    "lastUpdated": "2025-04-24T04:11:51.988840"
+    "ipoYear": null
   },
   "TMO": {
     "symbol": "TMO",
@@ -799,15 +447,7 @@
     "marketCap": 165398118400,
     "country": "United States",
     "website": "https://www.thermofisher.com",
-    "ipoYear": null,
-    "currentPrice": 431.64,
-    "change": -3.09,
-    "percentChange": -0.7108,
-    "open": 456.55,
-    "high": 461.61,
-    "low": 429.42,
-    "previousClose": 434.73,
-    "lastUpdated": "2025-04-24T04:11:52.047895"
+    "ipoYear": null
   },
   "INTU": {
     "symbol": "INTU",
@@ -817,15 +457,7 @@
     "marketCap": 164114055168,
     "country": "United States",
     "website": "https://www.intuit.com",
-    "ipoYear": null,
-    "currentPrice": 596.05,
-    "change": 12.49,
-    "percentChange": 2.1403,
-    "open": 597,
-    "high": 608.725,
-    "low": 593.81,
-    "previousClose": 583.56,
-    "lastUpdated": "2025-04-24T04:11:52.106098"
+    "ipoYear": null
   },
   "NOW": {
     "symbol": "NOW",
@@ -835,15 +467,7 @@
     "marketCap": 162635251712,
     "country": "United States",
     "website": "https://www.servicenow.com",
-    "ipoYear": null,
-    "currentPrice": 812.7,
-    "change": 45.87,
-    "percentChange": 5.9818,
-    "open": 821.04,
-    "high": 833.9646,
-    "low": 807,
-    "previousClose": 766.83,
-    "lastUpdated": "2025-04-24T04:11:52.167643"
+    "ipoYear": null
   },
   "PGR": {
     "symbol": "PGR",
@@ -853,15 +477,7 @@
     "marketCap": 161590116352,
     "country": "United States",
     "website": "https://www.progressive.com",
-    "ipoYear": null,
-    "currentPrice": 265.03,
-    "change": -0.05,
-    "percentChange": -0.0189,
-    "open": 265.08,
-    "high": 267.01,
-    "low": 263.115,
-    "previousClose": 265.08,
-    "lastUpdated": "2025-04-24T04:11:52.222304"
+    "ipoYear": null
   },
   "DIS": {
     "symbol": "DIS",
@@ -871,15 +487,7 @@
     "marketCap": 153463291904,
     "country": "United States",
     "website": "https://thewaltdisneycompany.com",
-    "ipoYear": null,
-    "currentPrice": 87.29,
-    "change": 1.2,
-    "percentChange": 1.3939,
-    "open": 89.025,
-    "high": 89.87,
-    "low": 87.03,
-    "previousClose": 86.09,
-    "lastUpdated": "2025-04-24T04:11:52.271305"
+    "ipoYear": null
   },
   "GS": {
     "symbol": "GS",
@@ -889,15 +497,7 @@
     "marketCap": 153667010560,
     "country": "United States",
     "website": "https://www.goldmansachs.com",
-    "ipoYear": null,
-    "currentPrice": 529.31,
-    "change": 9.32,
-    "percentChange": 1.7923,
-    "open": 533.63,
-    "high": 551.79,
-    "low": 528.2612,
-    "previousClose": 519.99,
-    "lastUpdated": "2025-04-24T04:11:52.330722"
+    "ipoYear": null
   },
   "ADBE": {
     "symbol": "ADBE",
@@ -907,15 +507,7 @@
     "marketCap": 150222716928,
     "country": "United States",
     "website": "https://www.adobe.com",
-    "ipoYear": null,
-    "currentPrice": 351.96,
-    "change": 2.05,
-    "percentChange": 0.5859,
-    "open": 358.12,
-    "high": 363,
-    "low": 349.8,
-    "previousClose": 349.91,
-    "lastUpdated": "2025-04-24T04:11:52.387839"
+    "ipoYear": null
   },
   "AMGN": {
     "symbol": "AMGN",
@@ -925,15 +517,7 @@
     "marketCap": 153757433856,
     "country": "United States",
     "website": "https://www.amgen.com",
-    "ipoYear": null,
-    "currentPrice": 277.9,
-    "change": -0.5,
-    "percentChange": -0.1796,
-    "open": 279.91,
-    "high": 283.6,
-    "low": 276.42,
-    "previousClose": 278.4,
-    "lastUpdated": "2025-04-24T04:11:52.444929"
+    "ipoYear": null
   },
   "BKNG": {
     "symbol": "BKNG",
@@ -943,15 +527,7 @@
     "marketCap": 150507896832,
     "country": "United States",
     "website": "https://www.bookingholdings.com",
-    "ipoYear": null,
-    "currentPrice": 4731.03,
-    "change": 132.95,
-    "percentChange": 2.8914,
-    "open": 4719.83,
-    "high": 4800,
-    "low": 4665,
-    "previousClose": 4598.08,
-    "lastUpdated": "2025-04-24T04:11:52.493924"
+    "ipoYear": null
   },
   "QCOM": {
     "symbol": "QCOM",
@@ -961,15 +537,7 @@
     "marketCap": 154010501120,
     "country": "United States",
     "website": "https://www.qualcomm.com",
-    "ipoYear": null,
-    "currentPrice": 140.46,
-    "change": 1.72,
-    "percentChange": 1.2397,
-    "open": 142.58,
-    "high": 143.88,
-    "low": 139.78,
-    "previousClose": 138.74,
-    "lastUpdated": "2025-04-24T04:11:52.556662"
+    "ipoYear": null
   },
   "UBER": {
     "symbol": "UBER",
@@ -979,15 +547,7 @@
     "marketCap": 151156277248,
     "country": "United States",
     "website": "https://www.uber.com",
-    "ipoYear": null,
-    "currentPrice": 73.77,
-    "change": -0.67,
-    "percentChange": -0.9001,
-    "open": 76.925,
-    "high": 77.58,
-    "low": 73.23,
-    "previousClose": 74.44,
-    "lastUpdated": "2025-04-24T04:11:52.614655"
+    "ipoYear": null
   },
   "SPGI": {
     "symbol": "SPGI",
@@ -997,15 +557,7 @@
     "marketCap": 142650540032,
     "country": "United States",
     "website": "https://www.spglobal.com",
-    "ipoYear": null,
-    "currentPrice": 470.23,
-    "change": 3.81,
-    "percentChange": 0.8169,
-    "open": 475.5,
-    "high": 484.27,
-    "low": 467.295,
-    "previousClose": 466.42,
-    "lastUpdated": "2025-04-24T04:11:52.673068"
+    "ipoYear": null
   },
   "AMD": {
     "symbol": "AMD",
@@ -1015,15 +567,7 @@
     "marketCap": 151740448768,
     "country": "United States",
     "website": "https://www.amd.com",
-    "ipoYear": null,
-    "currentPrice": 90.39,
-    "change": 4.13,
-    "percentChange": 4.7879,
-    "open": 91.875,
-    "high": 93.74,
-    "low": 90.12,
-    "previousClose": 86.26,
-    "lastUpdated": "2025-04-24T04:11:52.751820"
+    "ipoYear": null
   },
   "TJX": {
     "symbol": "TJX",
@@ -1033,15 +577,7 @@
     "marketCap": 143156363264,
     "country": "United States",
     "website": "https://www.tjx.com",
-    "ipoYear": null,
-    "currentPrice": 125.5,
-    "change": -0.21,
-    "percentChange": -0.1671,
-    "open": 127.19,
-    "high": 128.11,
-    "low": 124.81,
-    "previousClose": 125.71,
-    "lastUpdated": "2025-04-24T04:11:52.833175"
+    "ipoYear": null
   },
   "TXN": {
     "symbol": "TXN",
@@ -1051,15 +587,7 @@
     "marketCap": 134303907840,
     "country": "United States",
     "website": "https://www.ti.com",
-    "ipoYear": null,
-    "currentPrice": 152.15,
-    "change": 5.39,
-    "percentChange": 3.6727,
-    "open": 153.17,
-    "high": 155.34,
-    "low": 151.275,
-    "previousClose": 146.76,
-    "lastUpdated": "2025-04-24T04:11:52.890319"
+    "ipoYear": null
   },
   "CAT": {
     "symbol": "CAT",
@@ -1069,15 +597,7 @@
     "marketCap": 140249153536,
     "country": "United States",
     "website": "https://www.caterpillar.com",
-    "ipoYear": null,
-    "currentPrice": 295.77,
-    "change": 4.6,
-    "percentChange": 1.5798,
-    "open": 301.34,
-    "high": 305.36,
-    "low": 295.18,
-    "previousClose": 291.17,
-    "lastUpdated": "2025-04-24T04:11:52.955020"
+    "ipoYear": null
   },
   "NEE": {
     "symbol": "NEE",
@@ -1087,15 +607,7 @@
     "marketCap": 135475142656,
     "country": "United States",
     "website": "https://www.nexteraenergy.com",
-    "ipoYear": null,
-    "currentPrice": 67.27,
-    "change": 0.63,
-    "percentChange": 0.9454,
-    "open": 67.55,
-    "high": 69.1,
-    "low": 66.99,
-    "previousClose": 66.64,
-    "lastUpdated": "2025-04-24T04:12:53.016959"
+    "ipoYear": null
   },
   "AXP": {
     "symbol": "AXP",
@@ -1105,15 +617,7 @@
     "marketCap": 176069754880,
     "country": "United States",
     "website": "https://www.americanexpress.com",
-    "ipoYear": null,
-    "currentPrice": 260.14,
-    "change": 7.72,
-    "percentChange": 3.0584,
-    "open": 261.87,
-    "high": 270.17,
-    "low": 259.26,
-    "previousClose": 252.42,
-    "lastUpdated": "2025-04-24T04:12:53.074248"
+    "ipoYear": null
   },
   "BSX": {
     "symbol": "BSX",
@@ -1123,15 +627,7 @@
     "marketCap": 138544480256,
     "country": "United States",
     "website": "https://www.bostonscientific.com",
-    "ipoYear": null,
-    "currentPrice": 98.92,
-    "change": 3.87,
-    "percentChange": 4.0715,
-    "open": 100,
-    "high": 102.37,
-    "low": 98.425,
-    "previousClose": 95.05,
-    "lastUpdated": "2025-04-24T04:12:53.125167"
+    "ipoYear": null
   },
   "UNP": {
     "symbol": "UNP",
@@ -1141,15 +637,7 @@
     "marketCap": 131004923904,
     "country": "United States",
     "website": "https://www.up.com",
-    "ipoYear": null,
-    "currentPrice": 219.78,
-    "change": 2.88,
-    "percentChange": 1.3278,
-    "open": 221.31,
-    "high": 224.58,
-    "low": 218.33,
-    "previousClose": 216.9,
-    "lastUpdated": "2025-04-24T04:12:53.177206"
+    "ipoYear": null
   },
   "MS": {
     "symbol": "MS",
@@ -1159,15 +647,7 @@
     "marketCap": 173912096768,
     "country": "United States",
     "website": "https://www.morganstanley.com",
-    "ipoYear": null,
-    "currentPrice": 112.31,
-    "change": 1.93,
-    "percentChange": 1.7485,
-    "open": 113.25,
-    "high": 116.61,
-    "low": 111.93,
-    "previousClose": 110.38,
-    "lastUpdated": "2025-04-24T04:12:53.226347"
+    "ipoYear": null
   },
   "CMCSA": {
     "symbol": "CMCSA",
@@ -1177,15 +657,7 @@
     "marketCap": 127495995392,
     "country": "United States",
     "website": "https://corporate.comcast.com",
-    "ipoYear": null,
-    "currentPrice": 34.47,
-    "change": 0.27,
-    "percentChange": 0.7895,
-    "open": 34.525,
-    "high": 35.03,
-    "low": 34.39,
-    "previousClose": 34.2,
-    "lastUpdated": "2025-04-24T04:12:53.283147"
+    "ipoYear": null
   },
   "GILD": {
     "symbol": "GILD",
@@ -1195,15 +667,7 @@
     "marketCap": 129188265984,
     "country": "United States",
     "website": "https://www.gilead.com",
-    "ipoYear": null,
-    "currentPrice": 106.38,
-    "change": 0.87,
-    "percentChange": 0.8246,
-    "open": 105.95,
-    "high": 106.635,
-    "low": 99.32,
-    "previousClose": 105.51,
-    "lastUpdated": "2025-04-24T04:12:53.342062"
+    "ipoYear": null
   },
   "SCHW": {
     "symbol": "SCHW",
@@ -1213,15 +677,7 @@
     "marketCap": 139753193472,
     "country": "United States",
     "website": "https://www.schwab.com",
-    "ipoYear": null,
-    "currentPrice": 77.85,
-    "change": 1.27,
-    "percentChange": 1.6584,
-    "open": 78.28,
-    "high": 80.02,
-    "low": 77.655,
-    "previousClose": 76.58,
-    "lastUpdated": "2025-04-24T04:12:53.397160"
+    "ipoYear": null
   },
   "HON": {
     "symbol": "HON",
@@ -1231,15 +687,7 @@
     "marketCap": 127718686720,
     "country": "United States",
     "website": "https://www.honeywell.com",
-    "ipoYear": null,
-    "currentPrice": 197.31,
-    "change": -1.06,
-    "percentChange": -0.5344,
-    "open": 199.63,
-    "high": 201.28,
-    "low": 196.82,
-    "previousClose": 198.37,
-    "lastUpdated": "2025-04-24T04:12:53.463325"
+    "ipoYear": null
   },
   "BLK": {
     "symbol": "BLK",
@@ -1249,15 +697,7 @@
     "marketCap": 136230240256,
     "country": "United States",
     "website": "https://www.blackrock.com",
-    "ipoYear": null,
-    "currentPrice": 892.54,
-    "change": 5.32,
-    "percentChange": 0.5996,
-    "open": 909.17,
-    "high": 929,
-    "low": 888.76,
-    "previousClose": 887.22,
-    "lastUpdated": "2025-04-24T04:12:53.532653"
+    "ipoYear": null
   },
   "LOW": {
     "symbol": "LOW",
@@ -1267,15 +707,7 @@
     "marketCap": 123331444736,
     "country": "United States",
     "website": "https://www.lowes.com",
-    "ipoYear": null,
-    "currentPrice": 217.76,
-    "change": -1.31,
-    "percentChange": -0.598,
-    "open": 222.125,
-    "high": 225.66,
-    "low": 217.15,
-    "previousClose": 219.07,
-    "lastUpdated": "2025-04-24T04:12:53.614280"
+    "ipoYear": null
   },
   "TMUS": {
     "symbol": "TMUS",
@@ -1285,15 +717,7 @@
     "marketCap": 295333920768,
     "country": "United States",
     "website": "https://www.t-mobile.com",
-    "ipoYear": null,
-    "currentPrice": 259.35,
-    "change": 1.05,
-    "percentChange": 0.4065,
-    "open": 254,
-    "high": 262.605,
-    "low": 252.67,
-    "previousClose": 258.3,
-    "lastUpdated": "2025-04-24T04:12:53.666380"
+    "ipoYear": null
   },
   "PFE": {
     "symbol": "PFE",
@@ -1303,15 +727,7 @@
     "marketCap": 124261474304,
     "country": "United States",
     "website": "https://www.pfizer.com",
-    "ipoYear": null,
-    "currentPrice": 22.39,
-    "change": -0.14,
-    "percentChange": -0.6214,
-    "open": 22.7799,
-    "high": 23.055,
-    "low": 22.235,
-    "previousClose": 22.53,
-    "lastUpdated": "2025-04-24T04:12:53.719104"
+    "ipoYear": null
   },
   "VRTX": {
     "symbol": "VRTX",
@@ -1321,15 +737,7 @@
     "marketCap": 124483756032,
     "country": "United States",
     "website": "https://www.vrtx.com",
-    "ipoYear": null,
-    "currentPrice": 492.42,
-    "change": 1.95,
-    "percentChange": 0.3976,
-    "open": 488.27,
-    "high": 498.41,
-    "low": 484.965,
-    "previousClose": 490.47,
-    "lastUpdated": "2025-04-24T04:12:53.780124"
+    "ipoYear": null
   },
   "SYK": {
     "symbol": "SYK",
@@ -1339,15 +747,7 @@
     "marketCap": 133698019328,
     "country": "United States",
     "website": "https://www.stryker.com",
-    "ipoYear": null,
-    "currentPrice": 357.11,
-    "change": 8.99,
-    "percentChange": 2.5824,
-    "open": 355.105,
-    "high": 368.365,
-    "low": 355.1,
-    "previousClose": 348.12,
-    "lastUpdated": "2025-04-24T04:12:53.830922"
+    "ipoYear": null
   },
   "ADP": {
     "symbol": "ADP",
@@ -1357,15 +757,7 @@
     "marketCap": 121874145280,
     "country": "United States",
     "website": "https://www.adp.com",
-    "ipoYear": null,
-    "currentPrice": 293.54,
-    "change": 0.65,
-    "percentChange": 0.2219,
-    "open": 294.35,
-    "high": 297.6,
-    "low": 291.73,
-    "previousClose": 292.89,
-    "lastUpdated": "2025-04-24T04:12:53.895903"
+    "ipoYear": null
   },
   "BA": {
     "symbol": "BA",
@@ -1375,15 +767,7 @@
     "marketCap": 118007504896,
     "country": "United States",
     "website": "https://www.boeing.com",
-    "ipoYear": null,
-    "currentPrice": 172.37,
-    "change": 9.85,
-    "percentChange": 6.0608,
-    "open": 174,
-    "high": 176.58,
-    "low": 169.91,
-    "previousClose": 162.52,
-    "lastUpdated": "2025-04-24T04:12:53.952788"
+    "ipoYear": null
   },
   "FI": {
     "symbol": "FI",
@@ -1393,15 +777,7 @@
     "marketCap": 116261593088,
     "country": "United States",
     "website": "https://www.fiserv.com",
-    "ipoYear": null,
-    "currentPrice": 217.1,
-    "change": 2.81,
-    "percentChange": 1.3113,
-    "open": 219.5,
-    "high": 221.5,
-    "low": 216.25,
-    "previousClose": 214.29,
-    "lastUpdated": "2025-04-24T04:12:54.006809"
+    "ipoYear": null
   },
   "DHR": {
     "symbol": "DHR",
@@ -1411,15 +787,7 @@
     "marketCap": 135026876416,
     "country": "United States",
     "website": "https://www.danaher.com",
-    "ipoYear": null,
-    "currentPrice": 196.31,
-    "change": 4.24,
-    "percentChange": 2.2075,
-    "open": 200.02,
-    "high": 205.11,
-    "low": 196.005,
-    "previousClose": 192.07,
-    "lastUpdated": "2025-04-24T04:12:54.068367"
+    "ipoYear": null
   },
   "C": {
     "symbol": "C",
@@ -1429,15 +797,7 @@
     "marketCap": 116016340992,
     "country": "United States",
     "website": "https://www.citigroup.com",
-    "ipoYear": null,
-    "currentPrice": 66.3,
-    "change": 1.75,
-    "percentChange": 2.7111,
-    "open": 66.47,
-    "high": 68.82,
-    "low": 66.16,
-    "previousClose": 64.55,
-    "lastUpdated": "2025-04-24T04:12:54.128477"
+    "ipoYear": null
   },
   "DE": {
     "symbol": "DE",
@@ -1447,15 +807,7 @@
     "marketCap": 124614320128,
     "country": "United States",
     "website": "https://www.deere.com",
-    "ipoYear": null,
-    "currentPrice": 456.44,
-    "change": 1.78,
-    "percentChange": 0.3915,
-    "open": 462.95,
-    "high": 471.96,
-    "low": 454.37,
-    "previousClose": 454.66,
-    "lastUpdated": "2025-04-24T04:12:54.189573"
+    "ipoYear": null
   },
   "AMAT": {
     "symbol": "AMAT",
@@ -1465,15 +817,7 @@
     "marketCap": 117755207680,
     "country": "United States",
     "website": "https://www.appliedmaterials.com",
-    "ipoYear": null,
-    "currentPrice": 143.58,
-    "change": 5.28,
-    "percentChange": 3.8178,
-    "open": 144.845,
-    "high": 147.83,
-    "low": 142.74,
-    "previousClose": 138.3,
-    "lastUpdated": "2025-04-24T04:12:54.249636"
+    "ipoYear": null
   },
   "MMC": {
     "symbol": "MMC",
@@ -1483,15 +827,7 @@
     "marketCap": 115013984256,
     "country": "United States",
     "website": "https://www.marshmclennan.com",
-    "ipoYear": null,
-    "currentPrice": 219.04,
-    "change": -0.51,
-    "percentChange": -0.2323,
-    "open": 221.24,
-    "high": 221.79,
-    "low": 217.82,
-    "previousClose": 219.55,
-    "lastUpdated": "2025-04-24T04:12:54.331763"
+    "ipoYear": null
   },
   "PANW": {
     "symbol": "PANW",
@@ -1501,15 +837,7 @@
     "marketCap": 111457902592,
     "country": "United States",
     "website": "https://www.paloaltonetworks.com",
-    "ipoYear": null,
-    "currentPrice": 168.32,
-    "change": 4.69,
-    "percentChange": 2.8662,
-    "open": 168.74,
-    "high": 172.52,
-    "low": 167.33,
-    "previousClose": 163.63,
-    "lastUpdated": "2025-04-24T04:12:54.387941"
+    "ipoYear": null
   },
   "ETN": {
     "symbol": "ETN",
@@ -1519,15 +847,7 @@
     "marketCap": 108727648256,
     "country": "Ireland",
     "website": "https://www.eaton.com",
-    "ipoYear": null,
-    "currentPrice": 275.66,
-    "change": 8.75,
-    "percentChange": 3.2783,
-    "open": 288.95,
-    "high": 288.95,
-    "low": 274.935,
-    "previousClose": 266.91,
-    "lastUpdated": "2025-04-24T04:12:54.443853"
+    "ipoYear": null
   },
   "COP": {
     "symbol": "COP",
@@ -1537,15 +857,7 @@
     "marketCap": 109211648000,
     "country": "United States",
     "website": "https://www.conocophillips.com",
-    "ipoYear": null,
-    "currentPrice": 89.93,
-    "change": 0.17,
-    "percentChange": 0.1894,
-    "open": 90.775,
-    "high": 91.67,
-    "low": 89.08,
-    "previousClose": 89.76,
-    "lastUpdated": "2025-04-24T04:12:54.504770"
+    "ipoYear": null
   },
   "MDT": {
     "symbol": "MDT",
@@ -1555,15 +867,7 @@
     "marketCap": 106322567168,
     "country": "Ireland",
     "website": "https://www.medtronic.com",
-    "ipoYear": null,
-    "currentPrice": 83.75,
-    "change": 0.38,
-    "percentChange": 0.4558,
-    "open": 84.16,
-    "high": 85.345,
-    "low": 83.355,
-    "previousClose": 83.37,
-    "lastUpdated": "2025-04-24T04:12:54.559061"
+    "ipoYear": null
   },
   "CB": {
     "symbol": "CB",
@@ -1573,15 +877,7 @@
     "marketCap": 113542103040,
     "country": "Switzerland",
     "website": "https://www.chubb.com/us-en",
-    "ipoYear": null,
-    "currentPrice": 284.49,
-    "change": -5.93,
-    "percentChange": -2.0419,
-    "open": 285.21,
-    "high": 289.87,
-    "low": 279.675,
-    "previousClose": 290.42,
-    "lastUpdated": "2025-04-24T04:12:54.628566"
+    "ipoYear": null
   },
   "BMY": {
     "symbol": "BMY",
@@ -1591,15 +887,7 @@
     "marketCap": 103182671872,
     "country": "United States",
     "website": "https://www.bms.com",
-    "ipoYear": null,
-    "currentPrice": 48.53,
-    "change": -1.29,
-    "percentChange": -2.5893,
-    "open": 47.63,
-    "high": 49.33,
-    "low": 47.54,
-    "previousClose": 49.82,
-    "lastUpdated": "2025-04-24T04:12:54.685989"
+    "ipoYear": null
   },
   "ELV": {
     "symbol": "ELV",
@@ -1609,15 +897,7 @@
     "marketCap": 99567271936,
     "country": "United States",
     "website": "https://www.elevancehealth.com",
-    "ipoYear": null,
-    "currentPrice": 426.87,
-    "change": 10.97,
-    "percentChange": 2.6377,
-    "open": 414.75,
-    "high": 432.9344,
-    "low": 414.75,
-    "previousClose": 415.9,
-    "lastUpdated": "2025-04-24T04:12:54.732833"
+    "ipoYear": null
   },
   "SO": {
     "symbol": "SO",
@@ -1627,15 +907,7 @@
     "marketCap": 98558451712,
     "country": "United States",
     "website": "https://www.southerncompany.com",
-    "ipoYear": null,
-    "currentPrice": 91.13,
-    "change": -0.73,
-    "percentChange": -0.7947,
-    "open": 91.48,
-    "high": 91.58,
-    "low": 90.17,
-    "previousClose": 91.86,
-    "lastUpdated": "2025-04-24T04:12:54.789075"
+    "ipoYear": null
   },
   "LMT": {
     "symbol": "LMT",
@@ -1645,15 +917,7 @@
     "marketCap": 111398715392,
     "country": "United States",
     "website": "https://www.lockheedmartin.com",
-    "ipoYear": null,
-    "currentPrice": 463.55,
-    "change": 1.47,
-    "percentChange": 0.3181,
-    "open": 467,
-    "high": 471.39,
-    "low": 457.6533,
-    "previousClose": 462.08,
-    "lastUpdated": "2025-04-24T04:12:54.838798"
+    "ipoYear": null
   },
   "AMT": {
     "symbol": "AMT",
@@ -1663,15 +927,7 @@
     "marketCap": 99812122624,
     "country": "United States",
     "website": "https://www.americantower.com",
-    "ipoYear": null,
-    "currentPrice": 212.6,
-    "change": -8.37,
-    "percentChange": -3.7878,
-    "open": 219.77,
-    "high": 219.92,
-    "low": 209.37,
-    "previousClose": 220.97,
-    "lastUpdated": "2025-04-24T04:12:54.888899"
+    "ipoYear": null
   },
   "SBUX": {
     "symbol": "SBUX",
@@ -1681,15 +937,7 @@
     "marketCap": 97042497536,
     "country": "United States",
     "website": "https://www.starbucks.com",
-    "ipoYear": null,
-    "currentPrice": 82.81,
-    "change": 1.06,
-    "percentChange": 1.2966,
-    "open": 84,
-    "high": 85.74,
-    "low": 82.65,
-    "previousClose": 81.75,
-    "lastUpdated": "2025-04-24T04:12:54.942110"
+    "ipoYear": null
   },
   "MO": {
     "symbol": "MO",
@@ -1699,15 +947,7 @@
     "marketCap": 95531163648,
     "country": "United States",
     "website": "https://www.altria.com",
-    "ipoYear": null,
-    "currentPrice": 58.56,
-    "change": -0.26,
-    "percentChange": -0.442,
-    "open": 58.53,
-    "high": 58.93,
-    "low": 57.95,
-    "previousClose": 58.82,
-    "lastUpdated": "2025-04-24T04:12:55.010455"
+    "ipoYear": null
   },
   "BX": {
     "symbol": "BX",
@@ -1717,15 +957,7 @@
     "marketCap": 154989182976,
     "country": "United States",
     "website": "https://www.blackstone.com",
-    "ipoYear": null,
-    "currentPrice": 127,
-    "change": 2.09,
-    "percentChange": 1.6732,
-    "open": 131,
-    "high": 134.4877,
-    "low": 126.5,
-    "previousClose": 124.91,
-    "lastUpdated": "2025-04-24T04:12:55.059242"
+    "ipoYear": null
   },
   "CME": {
     "symbol": "CME",
@@ -1735,15 +967,7 @@
     "marketCap": 94254571520,
     "country": "United States",
     "website": "https://www.cmegroup.com",
-    "ipoYear": null,
-    "currentPrice": 261.48,
-    "change": -4.08,
-    "percentChange": -1.5364,
-    "open": 256.645,
-    "high": 262.01,
-    "low": 251.9,
-    "previousClose": 265.56,
-    "lastUpdated": "2025-04-24T04:12:55.107339"
+    "ipoYear": null
   },
   "CRWD": {
     "symbol": "CRWD",
@@ -1753,15 +977,7 @@
     "marketCap": 93671202816,
     "country": "United States",
     "website": "https://www.crowdstrike.com",
-    "ipoYear": null,
-    "currentPrice": 385.75,
-    "change": 17.3,
-    "percentChange": 4.6953,
-    "open": 382.5,
-    "high": 396.305,
-    "low": 382.5,
-    "previousClose": 368.45,
-    "lastUpdated": "2025-04-24T04:12:55.188796"
+    "ipoYear": null
   },
   "DUK": {
     "symbol": "DUK",
@@ -1771,15 +987,7 @@
     "marketCap": 92418998272,
     "country": "United States",
     "website": "https://www.duke-energy.com",
-    "ipoYear": null,
-    "currentPrice": 121.42,
-    "change": -1.11,
-    "percentChange": -0.9059,
-    "open": 121.21,
-    "high": 122.12,
-    "low": 120.04,
-    "previousClose": 122.53,
-    "lastUpdated": "2025-04-24T04:12:55.253489"
+    "ipoYear": null
   },
   "CI": {
     "symbol": "CI",
@@ -1789,15 +997,7 @@
     "marketCap": 89517154304,
     "country": "United States",
     "website": "https://www.cigna.com",
-    "ipoYear": null,
-    "currentPrice": 336.69,
-    "change": -0.38,
-    "percentChange": -0.1127,
-    "open": 336.58,
-    "high": 341.59,
-    "low": 333.4,
-    "previousClose": 337.07,
-    "lastUpdated": "2025-04-24T04:12:55.310011"
+    "ipoYear": null
   },
   "ICE": {
     "symbol": "ICE",
@@ -1807,15 +1007,7 @@
     "marketCap": 89569984512,
     "country": "United States",
     "website": "https://www.ice.com",
-    "ipoYear": null,
-    "currentPrice": 160.99,
-    "change": 0.31,
-    "percentChange": 0.1929,
-    "open": 162.1,
-    "high": 163.145,
-    "low": 159.46,
-    "previousClose": 160.68,
-    "lastUpdated": "2025-04-24T04:12:55.365719"
+    "ipoYear": null
   },
   "ADI": {
     "symbol": "ADI",
@@ -1825,15 +1017,7 @@
     "marketCap": 88859058176,
     "country": "United States",
     "website": "https://www.analog.com",
-    "ipoYear": null,
-    "currentPrice": 183.11,
-    "change": 4.61,
-    "percentChange": 2.5826,
-    "open": 185.99,
-    "high": 187.84,
-    "low": 182.475,
-    "previousClose": 178.5,
-    "lastUpdated": "2025-04-24T04:12:55.411378"
+    "ipoYear": null
   },
   "PLD": {
     "symbol": "PLD",
@@ -1843,15 +1027,7 @@
     "marketCap": 89202999296,
     "country": "United States",
     "website": "https://www.prologis.com",
-    "ipoYear": null,
-    "currentPrice": 101.48,
-    "change": 1.53,
-    "percentChange": 1.5308,
-    "open": 102.23,
-    "high": 104.98,
-    "low": 100.9725,
-    "previousClose": 99.95,
-    "lastUpdated": "2025-04-24T04:12:55.467724"
+    "ipoYear": null
   },
   "KLAC": {
     "symbol": "KLAC",
@@ -1861,15 +1037,7 @@
     "marketCap": 89063522304,
     "country": "United States",
     "website": "https://www.kla.com",
-    "ipoYear": null,
-    "currentPrice": 657.11,
-    "change": 20.75,
-    "percentChange": 3.2607,
-    "open": 664.24,
-    "high": 672.7,
-    "low": 652.8801,
-    "previousClose": 636.36,
-    "lastUpdated": "2025-04-24T04:12:55.530273"
+    "ipoYear": null
   },
   "CVS": {
     "symbol": "CVS",
@@ -1879,15 +1047,7 @@
     "marketCap": 87748042752,
     "country": "United States",
     "website": "https://www.cvshealth.com",
-    "ipoYear": null,
-    "currentPrice": 65.57,
-    "change": 0.12,
-    "percentChange": 0.1833,
-    "open": 65.52,
-    "high": 66.43,
-    "low": 64.825,
-    "previousClose": 65.45,
-    "lastUpdated": "2025-04-24T04:12:55.614024"
+    "ipoYear": null
   },
   "WELL": {
     "symbol": "WELL",
@@ -1897,15 +1057,7 @@
     "marketCap": 92954640384,
     "country": "United States",
     "website": "https://www.welltower.com",
-    "ipoYear": null,
-    "currentPrice": 147.65,
-    "change": 0.4,
-    "percentChange": 0.2716,
-    "open": 147.38,
-    "high": 148.895,
-    "low": 146.345,
-    "previousClose": 147.25,
-    "lastUpdated": "2025-04-24T04:12:55.674963"
+    "ipoYear": null
   },
   "INTC": {
     "symbol": "INTC",
@@ -1915,15 +1067,7 @@
     "marketCap": 86078046208,
     "country": "United States",
     "website": "https://www.intel.com",
-    "ipoYear": null,
-    "currentPrice": 20.59,
-    "change": 1.08,
-    "percentChange": 5.5356,
-    "open": 20.715,
-    "high": 21.03,
-    "low": 20.31,
-    "previousClose": 19.51,
-    "lastUpdated": "2025-04-24T04:12:55.731546"
+    "ipoYear": null
   },
   "GEV": {
     "symbol": "GEV",
@@ -1933,15 +1077,7 @@
     "marketCap": 87861600256,
     "country": "United States",
     "website": "https://www.gevernova.com",
-    "ipoYear": null,
-    "currentPrice": 336.09,
-    "change": 10.02,
-    "percentChange": 3.073,
-    "open": 354.04,
-    "high": 358.88,
-    "low": 333.19,
-    "previousClose": 326.07,
-    "lastUpdated": "2025-04-24T04:12:55.787832"
+    "ipoYear": null
   },
   "MDLZ": {
     "symbol": "MDLZ",
@@ -1951,15 +1087,7 @@
     "marketCap": 86865960960,
     "country": "United States",
     "website": "https://www.mondelezinternational.com",
-    "ipoYear": null,
-    "currentPrice": 67.38,
-    "change": -0.91,
-    "percentChange": -1.3326,
-    "open": 67.73,
-    "high": 68.54,
-    "low": 66.875,
-    "previousClose": 68.29,
-    "lastUpdated": "2025-04-24T04:12:55.846590"
+    "ipoYear": null
   },
   "LRCX": {
     "symbol": "LRCX",
@@ -1969,15 +1097,7 @@
     "marketCap": 86621380608,
     "country": "United States",
     "website": "https://www.lamresearch.com",
-    "ipoYear": null,
-    "currentPrice": 66.73,
-    "change": 3.25,
-    "percentChange": 5.1197,
-    "open": 66.81,
-    "high": 68.01,
-    "low": 66.34,
-    "previousClose": 63.48,
-    "lastUpdated": "2025-04-24T04:12:55.901736"
+    "ipoYear": null
   },
   "MCK": {
     "symbol": "MCK",
@@ -1987,15 +1107,7 @@
     "marketCap": 86394732544,
     "country": "United States",
     "website": "https://www.mckesson.com",
-    "ipoYear": null,
-    "currentPrice": 692.27,
-    "change": -2.9,
-    "percentChange": -0.4172,
-    "open": 690.92,
-    "high": 699.88,
-    "low": 670.7,
-    "previousClose": 695.17,
-    "lastUpdated": "2025-04-24T04:12:55.949056"
+    "ipoYear": null
   },
   "AJG": {
     "symbol": "AJG",
@@ -2005,15 +1117,7 @@
     "marketCap": 85420605440,
     "country": "United States",
     "website": "https://www.ajg.com",
-    "ipoYear": null,
-    "currentPrice": 331.79,
-    "change": 1.04,
-    "percentChange": 0.3144,
-    "open": 331.14,
-    "high": 336.69,
-    "low": 329.75,
-    "previousClose": 330.75,
-    "lastUpdated": "2025-04-24T04:12:56.024860"
+    "ipoYear": null
   },
   "WM": {
     "symbol": "WM",
@@ -2103,15 +1207,7 @@
     "marketCap": 75988197376,
     "country": "United States",
     "website": "https://www.equinix.com",
-    "ipoYear": null,
-    "currentPrice": 809.46,
-    "change": 18.34,
-    "percentChange": 2.3182,
-    "open": 805.33,
-    "high": 826.025,
-    "low": 800.06,
-    "previousClose": 791.12,
-    "lastUpdated": "2025-04-24T04:13:56.522830"
+    "ipoYear": null
   },
   "CL": {
     "symbol": "CL",
@@ -2121,15 +1217,7 @@
     "marketCap": 76241895424,
     "country": "United States",
     "website": "https://www.colgatepalmolive.com",
-    "ipoYear": null,
-    "currentPrice": 93.89,
-    "change": -1.92,
-    "percentChange": -2.004,
-    "open": 95,
-    "high": 95,
-    "low": 92.71,
-    "previousClose": 95.81,
-    "lastUpdated": "2025-04-24T04:13:56.582282"
+    "ipoYear": null
   },
   "TDG": {
     "symbol": "TDG",
@@ -2139,15 +1227,7 @@
     "marketCap": 73644122112,
     "country": "United States",
     "website": "https://www.transdigm.com",
-    "ipoYear": null,
-    "currentPrice": 1352,
-    "change": 44.1,
-    "percentChange": 3.3718,
-    "open": 1336.25,
-    "high": 1368.8,
-    "low": 1331.39,
-    "previousClose": 1307.9,
-    "lastUpdated": "2025-04-24T04:13:56.649119"
+    "ipoYear": null
   },
   "MMM": {
     "symbol": "MMM",
@@ -2157,15 +1237,7 @@
     "marketCap": 73320284160,
     "country": "United States",
     "website": "https://www.3m.com",
-    "ipoYear": null,
-    "currentPrice": 136.06,
-    "change": -0.27,
-    "percentChange": -0.198,
-    "open": 139.38,
-    "high": 142.15,
-    "low": 135.2031,
-    "previousClose": 136.33,
-    "lastUpdated": "2025-04-24T04:13:56.700483"
+    "ipoYear": null
   },
   "PH": {
     "symbol": "PH",
@@ -2175,15 +1247,7 @@
     "marketCap": 72799870976,
     "country": "United States",
     "website": "https://investors.parker.com",
-    "ipoYear": null,
-    "currentPrice": 580.81,
-    "change": 14.16,
-    "percentChange": 2.4989,
-    "open": 589.59,
-    "high": 614.82,
-    "low": 577.41,
-    "previousClose": 566.65,
-    "lastUpdated": "2025-04-24T04:13:56.755828"
+    "ipoYear": null
   },
   "UPS": {
     "symbol": "UPS",
@@ -2193,15 +1257,7 @@
     "marketCap": 82278408192,
     "country": "United States",
     "website": "https://www.ups.com",
-    "ipoYear": null,
-    "currentPrice": 97.21,
-    "change": 0.37,
-    "percentChange": 0.3821,
-    "open": 98.58,
-    "high": 99.82,
-    "low": 96.97,
-    "previousClose": 96.84,
-    "lastUpdated": "2025-04-24T04:13:56.803671"
+    "ipoYear": null
   },
   "NOC": {
     "symbol": "NOC",
@@ -2211,15 +1267,7 @@
     "marketCap": 76968787968,
     "country": "United States",
     "website": "https://www.northropgrumman.com",
-    "ipoYear": null,
-    "currentPrice": 472.65,
-    "change": 8.57,
-    "percentChange": 1.8467,
-    "open": 466.67,
-    "high": 478.8199,
-    "low": 460.36,
-    "previousClose": 464.08,
-    "lastUpdated": "2025-04-24T04:13:56.861700"
+    "ipoYear": null
   },
   "CDNS": {
     "symbol": "CDNS",
@@ -2229,15 +1277,7 @@
     "marketCap": 71176249344,
     "country": "United States",
     "website": "https://www.cadence.com",
-    "ipoYear": null,
-    "currentPrice": 265.42,
-    "change": 7.27,
-    "percentChange": 2.8162,
-    "open": 266.78,
-    "high": 272.81,
-    "low": 264.79,
-    "previousClose": 258.15,
-    "lastUpdated": "2025-04-24T04:13:56.913141"
+    "ipoYear": null
   },
   "CTAS": {
     "symbol": "CTAS",
@@ -2247,15 +1287,7 @@
     "marketCap": 83196272640,
     "country": "United States",
     "website": "https://www.cintas.com",
-    "ipoYear": null,
-    "currentPrice": 207.69,
-    "change": 1.85,
-    "percentChange": 0.8988,
-    "open": 207.22,
-    "high": 210.35,
-    "low": 206.06,
-    "previousClose": 205.84,
-    "lastUpdated": "2025-04-24T04:13:56.964273"
+    "ipoYear": null
   },
   "MSI": {
     "symbol": "MSI",
@@ -2265,15 +1297,7 @@
     "marketCap": 70520586240,
     "country": "United States",
     "website": "https://www.motorolasolutions.com",
-    "ipoYear": null,
-    "currentPrice": 424.16,
-    "change": 4.37,
-    "percentChange": 1.041,
-    "open": 423.61,
-    "high": 429.6399,
-    "low": 422.18,
-    "previousClose": 419.79,
-    "lastUpdated": "2025-04-24T04:13:57.033184"
+    "ipoYear": null
   },
   "KKR": {
     "symbol": "KKR",
@@ -2283,15 +1307,7 @@
     "marketCap": 93610762240,
     "country": "United States",
     "website": "https://www.kkr.com",
-    "ipoYear": null,
-    "currentPrice": 106.81,
-    "change": 4.53,
-    "percentChange": 4.429,
-    "open": 108.97,
-    "high": 111.66,
-    "low": 106.16,
-    "previousClose": 102.28,
-    "lastUpdated": "2025-04-24T04:13:57.089325"
+    "ipoYear": null
   },
   "GD": {
     "symbol": "GD",
@@ -2301,15 +1317,7 @@
     "marketCap": 74247880704,
     "country": "United States",
     "website": "https://www.gd.com",
-    "ipoYear": null,
-    "currentPrice": 265.73,
-    "change": -9.07,
-    "percentChange": -3.3006,
-    "open": 271.63,
-    "high": 272.875,
-    "low": 263.6,
-    "previousClose": 274.8,
-    "lastUpdated": "2025-04-24T04:13:57.137822"
+    "ipoYear": null
   },
   "CMG": {
     "symbol": "CMG",
@@ -2319,15 +1327,7 @@
     "marketCap": 67441717248,
     "country": "United States",
     "website": "https://www.chipotle.com",
-    "ipoYear": null,
-    "currentPrice": 48.76,
-    "change": 1.66,
-    "percentChange": 3.5244,
-    "open": 48.87,
-    "high": 49.7,
-    "low": 48.215,
-    "previousClose": 47.1,
-    "lastUpdated": "2025-04-24T04:13:57.196723"
+    "ipoYear": null
   },
   "WMB": {
     "symbol": "WMB",
@@ -2337,15 +1337,7 @@
     "marketCap": 68834713600,
     "country": "United States",
     "website": "https://www.williams.com",
-    "ipoYear": null,
-    "currentPrice": 58.48,
-    "change": 0.28,
-    "percentChange": 0.4811,
-    "open": 58.77,
-    "high": 59.6529,
-    "low": 57.935,
-    "previousClose": 58.2,
-    "lastUpdated": "2025-04-24T04:13:57.243261"
+    "ipoYear": null
   },
   "ZTS": {
     "symbol": "ZTS",
@@ -2355,15 +1347,7 @@
     "marketCap": 66659356672,
     "country": "United States",
     "website": "https://www.zoetis.com",
-    "ipoYear": null,
-    "currentPrice": 150.91,
-    "change": 0.92,
-    "percentChange": 0.6134,
-    "open": 151.94,
-    "high": 153.77,
-    "low": 150.61,
-    "previousClose": 149.99,
-    "lastUpdated": "2025-04-24T04:13:57.294974"
+    "ipoYear": null
   },
   "MCO": {
     "symbol": "MCO",
@@ -2373,15 +1357,7 @@
     "marketCap": 77069836288,
     "country": "United States",
     "website": "https://www.moodys.com",
-    "ipoYear": null,
-    "currentPrice": 430.77,
-    "change": 0.9,
-    "percentChange": 0.2094,
-    "open": 443.16,
-    "high": 448.995,
-    "low": 429.44,
-    "previousClose": 429.87,
-    "lastUpdated": "2025-04-24T04:13:57.351933"
+    "ipoYear": null
   },
   "NKE": {
     "symbol": "NKE",
@@ -2391,15 +1367,7 @@
     "marketCap": 80279093248,
     "country": "United States",
     "website": "https://www.nike.com",
-    "ipoYear": null,
-    "currentPrice": 57.39,
-    "change": 0.33,
-    "percentChange": 0.5783,
-    "open": 59,
-    "high": 59.2,
-    "low": 56.7,
-    "previousClose": 57.06,
-    "lastUpdated": "2025-04-24T04:13:57.407039"
+    "ipoYear": null
   },
   "CEG": {
     "symbol": "CEG",
@@ -2409,15 +1377,7 @@
     "marketCap": 65246810112,
     "country": "United States",
     "website": "https://www.constellationenergy.com",
-    "ipoYear": null,
-    "currentPrice": 209.8,
-    "change": 8.92,
-    "percentChange": 4.4405,
-    "open": 213.25,
-    "high": 217.34,
-    "low": 208.27,
-    "previousClose": 200.88,
-    "lastUpdated": "2025-04-24T04:13:57.459502"
+    "ipoYear": null
   },
   "SNPS": {
     "symbol": "SNPS",
@@ -2427,15 +1387,7 @@
     "marketCap": 65127489536,
     "country": "United States",
     "website": "https://www.synopsys.com",
-    "ipoYear": null,
-    "currentPrice": 422.23,
-    "change": 8.83,
-    "percentChange": 2.1359,
-    "open": 432.34,
-    "high": 441.38,
-    "low": 420.17,
-    "previousClose": 413.4,
-    "lastUpdated": "2025-04-24T04:13:57.522851"
+    "ipoYear": null
   },
   "COF": {
     "symbol": "COF",
@@ -2445,15 +1397,7 @@
     "marketCap": 61644910592,
     "country": "United States",
     "website": "https://www.capitalone.com",
-    "ipoYear": null,
-    "currentPrice": 176.46,
-    "change": 6.26,
-    "percentChange": 3.678,
-    "open": 177,
-    "high": 184.49,
-    "low": 175.6,
-    "previousClose": 170.2,
-    "lastUpdated": "2025-04-24T04:13:57.581175"
+    "ipoYear": null
   },
   "FTNT": {
     "symbol": "FTNT",
@@ -2463,15 +1407,7 @@
     "marketCap": 75151835136,
     "country": "United States",
     "website": "https://www.fortinet.com",
-    "ipoYear": null,
-    "currentPrice": 97,
-    "change": 2.63,
-    "percentChange": 2.7869,
-    "open": 97.45,
-    "high": 99.54,
-    "low": 96.29,
-    "previousClose": 94.37,
-    "lastUpdated": "2025-04-24T04:13:57.633859"
+    "ipoYear": null
   },
   "AZO": {
     "symbol": "AZO",
@@ -2481,15 +1417,7 @@
     "marketCap": 61220352000,
     "country": "United States",
     "website": "https://www.autozone.com",
-    "ipoYear": null,
-    "currentPrice": 3652.11,
-    "change": -26.55,
-    "percentChange": -0.7217,
-    "open": 3679,
-    "high": 3712.91,
-    "low": 3629.66,
-    "previousClose": 3678.66,
-    "lastUpdated": "2025-04-24T04:13:57.684429"
+    "ipoYear": null
   },
   "ITW": {
     "symbol": "ITW",
@@ -2499,15 +1427,7 @@
     "marketCap": 68154793984,
     "country": "United States",
     "website": "https://www.itw.com",
-    "ipoYear": null,
-    "currentPrice": 236.7,
-    "change": 0.45,
-    "percentChange": 0.1905,
-    "open": 241,
-    "high": 244.27,
-    "low": 235.9,
-    "previousClose": 236.25,
-    "lastUpdated": "2025-04-24T04:13:57.732514"
+    "ipoYear": null
   },
   "DASH": {
     "symbol": "DASH",
@@ -2517,15 +1437,7 @@
     "marketCap": 75823128576,
     "country": "United States",
     "website": "https://www.doordash.com",
-    "ipoYear": null,
-    "currentPrice": 181.19,
-    "change": 4.58,
-    "percentChange": 2.5933,
-    "open": 183.36,
-    "high": 187,
-    "low": 180.44,
-    "previousClose": 176.61,
-    "lastUpdated": "2025-04-24T04:13:57.786669"
+    "ipoYear": null
   },
   "PNC": {
     "symbol": "PNC",
@@ -2535,15 +1447,7 @@
     "marketCap": 60150046720,
     "country": "United States",
     "website": "https://www.pnc.com",
-    "ipoYear": null,
-    "currentPrice": 157.41,
-    "change": 2.96,
-    "percentChange": 1.9165,
-    "open": 157.7,
-    "high": 162.06,
-    "low": 156.97,
-    "previousClose": 154.45,
-    "lastUpdated": "2025-04-24T04:13:57.840313"
+    "ipoYear": null
   },
   "PYPL": {
     "symbol": "PYPL",
@@ -2553,15 +1457,7 @@
     "marketCap": 61916655616,
     "country": "United States",
     "website": "https://www.paypal.com",
-    "ipoYear": null,
-    "currentPrice": 62.46,
-    "change": 1.04,
-    "percentChange": 1.6933,
-    "open": 62.715,
-    "high": 64.57,
-    "low": 62.17,
-    "previousClose": 61.42,
-    "lastUpdated": "2025-04-24T04:13:57.898495"
+    "ipoYear": null
   },
   "HCA": {
     "symbol": "HCA",
@@ -2571,15 +1467,7 @@
     "marketCap": 82076696576,
     "country": "United States",
     "website": "https://hcahealthcare.com",
-    "ipoYear": null,
-    "currentPrice": 335.98,
-    "change": 11.36,
-    "percentChange": 3.4995,
-    "open": 328.63,
-    "high": 338.02,
-    "low": 328,
-    "previousClose": 324.62,
-    "lastUpdated": "2025-04-24T04:13:57.968310"
+    "ipoYear": null
   },
   "ROP": {
     "symbol": "ROP",
@@ -2589,15 +1477,7 @@
     "marketCap": 60152778752,
     "country": "United States",
     "website": "https://www.ropertech.com",
-    "ipoYear": null,
-    "currentPrice": 551.08,
-    "change": -0.22,
-    "percentChange": -0.0399,
-    "open": 555.82,
-    "high": 564.12,
-    "low": 550.35,
-    "previousClose": 551.3,
-    "lastUpdated": "2025-04-24T04:13:58.024706"
+    "ipoYear": null
   },
   "EOG": {
     "symbol": "EOG",
@@ -2607,15 +1487,7 @@
     "marketCap": 59864588288,
     "country": "United States",
     "website": "https://www.eogresources.com",
-    "ipoYear": null,
-    "currentPrice": 111.57,
-    "change": 0.25,
-    "percentChange": 0.2246,
-    "open": 112.5,
-    "high": 113.67,
-    "low": 110.025,
-    "previousClose": 111.32,
-    "lastUpdated": "2025-04-24T04:13:58.085263"
+    "ipoYear": null
   },
   "ECL": {
     "symbol": "ECL",
@@ -2625,15 +1497,7 @@
     "marketCap": 66744516608,
     "country": "United States",
     "website": "https://www.ecolab.com",
-    "ipoYear": null,
-    "currentPrice": 237.95,
-    "change": 1.14,
-    "percentChange": 0.4814,
-    "open": 240.36,
-    "high": 241.51,
-    "low": 236,
-    "previousClose": 236.81,
-    "lastUpdated": "2025-04-24T04:13:58.149214"
+    "ipoYear": null
   },
   "APD": {
     "symbol": "APD",
@@ -2643,15 +1507,7 @@
     "marketCap": 59848269824,
     "country": "United States",
     "website": "https://www.airproducts.com",
-    "ipoYear": null,
-    "currentPrice": 264.74,
-    "change": -0.62,
-    "percentChange": -0.2336,
-    "open": 269.7,
-    "high": 273.59,
-    "low": 262.92,
-    "previousClose": 265.36,
-    "lastUpdated": "2025-04-24T04:13:58.208710"
+    "ipoYear": null
   },
   "USB": {
     "symbol": "USB",
@@ -2661,15 +1517,7 @@
     "marketCap": 58986258432,
     "country": "United States",
     "website": "https://www.usbank.com",
-    "ipoYear": null,
-    "currentPrice": 39.51,
-    "change": 0.51,
-    "percentChange": 1.3077,
-    "open": 40,
-    "high": 41.15,
-    "low": 39.315,
-    "previousClose": 39,
-    "lastUpdated": "2025-04-24T04:13:58.281247"
+    "ipoYear": null
   },
   "NEM": {
     "symbol": "NEM",
@@ -2679,15 +1527,7 @@
     "marketCap": 61965484032,
     "country": "United States",
     "website": "https://www.newmont.com",
-    "ipoYear": null,
-    "currentPrice": 53.15,
-    "change": -1.39,
-    "percentChange": -2.5486,
-    "open": 51.75,
-    "high": 53.5,
-    "low": 51.6407,
-    "previousClose": 54.54,
-    "lastUpdated": "2025-04-24T04:13:58.338802"
+    "ipoYear": null
   },
   "REGN": {
     "symbol": "REGN",
@@ -2697,15 +1537,7 @@
     "marketCap": 60585725952,
     "country": "United States",
     "website": "https://www.regeneron.com",
-    "ipoYear": null,
-    "currentPrice": 587.85,
-    "change": 2.36,
-    "percentChange": 0.4031,
-    "open": 595.87,
-    "high": 603.77,
-    "low": 584.45,
-    "previousClose": 585.49,
-    "lastUpdated": "2025-04-24T04:13:58.413965"
+    "ipoYear": null
   },
   "BDX": {
     "symbol": "BDX",
@@ -2715,15 +1547,7 @@
     "marketCap": 57938100224,
     "country": "United States",
     "website": "https://www.bd.com",
-    "ipoYear": null,
-    "currentPrice": 202.32,
-    "change": 2.44,
-    "percentChange": 1.2207,
-    "open": 202.57,
-    "high": 208.035,
-    "low": 201.05,
-    "previousClose": 199.88,
-    "lastUpdated": "2025-04-24T04:13:58.469605"
+    "ipoYear": null
   },
   "EMR": {
     "symbol": "EMR",
@@ -2733,15 +1557,7 @@
     "marketCap": 56666312704,
     "country": "United States",
     "website": "https://www.emerson.com",
-    "ipoYear": null,
-    "currentPrice": 101.07,
-    "change": 1.28,
-    "percentChange": 1.2827,
-    "open": 103.31,
-    "high": 106.79,
-    "low": 100.79,
-    "previousClose": 99.79,
-    "lastUpdated": "2025-04-24T04:13:58.517738"
+    "ipoYear": null
   },
   "TRV": {
     "symbol": "TRV",
@@ -2751,15 +1567,7 @@
     "marketCap": 55536164864,
     "country": "United States",
     "website": "https://www.travelers.com",
-    "ipoYear": null,
-    "currentPrice": 259.08,
-    "change": -2.23,
-    "percentChange": -0.8534,
-    "open": 260.93,
-    "high": 263.42,
-    "low": 257.64,
-    "previousClose": 261.31,
-    "lastUpdated": "2025-04-24T04:13:58.599713"
+    "ipoYear": null
   },
   "APO": {
     "symbol": "APO",
@@ -2769,15 +1577,7 @@
     "marketCap": 71834836992,
     "country": "United States",
     "website": "https://www.apollo.com/institutional/homepage",
-    "ipoYear": null,
-    "currentPrice": 126.55,
-    "change": 2.84,
-    "percentChange": 2.2957,
-    "open": 130,
-    "high": 133.31,
-    "low": 126.19,
-    "previousClose": 123.71,
-    "lastUpdated": "2025-04-24T04:13:58.668213"
+    "ipoYear": null
   },
   "ADSK": {
     "symbol": "ADSK",
@@ -2787,15 +1587,7 @@
     "marketCap": 55049850880,
     "country": "United States",
     "website": "https://www.autodesk.com",
-    "ipoYear": null,
-    "currentPrice": 264.44,
-    "change": 3.3,
-    "percentChange": 1.2637,
-    "open": 265.49,
-    "high": 270.8,
-    "low": 263.58,
-    "previousClose": 261.14,
-    "lastUpdated": "2025-04-24T04:13:58.721188"
+    "ipoYear": null
   },
   "AEP": {
     "symbol": "AEP",
@@ -2805,15 +1597,7 @@
     "marketCap": 55871164416,
     "country": "United States",
     "website": "https://www.aep.com",
-    "ipoYear": null,
-    "currentPrice": 107.02,
-    "change": -1.13,
-    "percentChange": -1.0448,
-    "open": 107.58,
-    "high": 108.125,
-    "low": 105.565,
-    "previousClose": 108.15,
-    "lastUpdated": "2025-04-24T04:13:58.783514"
+    "ipoYear": null
   },
   "BK": {
     "symbol": "BK",
@@ -2823,15 +1607,7 @@
     "marketCap": 55567757312,
     "country": "United States",
     "website": "https://www.bny.com",
-    "ipoYear": null,
-    "currentPrice": 77.73,
-    "change": 1.42,
-    "percentChange": 1.8608,
-    "open": 77.91,
-    "high": 79.68,
-    "low": 77.48,
-    "previousClose": 76.31,
-    "lastUpdated": "2025-04-24T04:13:58.843594"
+    "ipoYear": null
   },
   "CSX": {
     "symbol": "CSX",
@@ -2841,15 +1617,7 @@
     "marketCap": 52791844864,
     "country": "United States",
     "website": "https://www.csx.com",
-    "ipoYear": null,
-    "currentPrice": 27.59,
-    "change": -0.19,
-    "percentChange": -0.6839,
-    "open": 28.275,
-    "high": 28.51,
-    "low": 27.46,
-    "previousClose": 27.78,
-    "lastUpdated": "2025-04-24T04:13:58.896873"
+    "ipoYear": null
   },
   "AFL": {
     "symbol": "AFL",
@@ -2859,15 +1627,7 @@
     "marketCap": 58309414912,
     "country": "United States",
     "website": "https://www.aflac.com",
-    "ipoYear": null,
-    "currentPrice": 108.43,
-    "change": 0.12,
-    "percentChange": 0.1108,
-    "open": 108.55,
-    "high": 110.31,
-    "low": 107.855,
-    "previousClose": 108.31,
-    "lastUpdated": "2025-04-24T04:13:58.951427"
+    "ipoYear": null
   },
   "CPRT": {
     "symbol": "CPRT",
@@ -2877,15 +1637,7 @@
     "marketCap": 57811005440,
     "country": "United States",
     "website": "https://www.copart.com",
-    "ipoYear": null,
-    "currentPrice": 61.045,
-    "change": 0.635,
-    "percentChange": 1.0512,
-    "open": 61.215,
-    "high": 61.95,
-    "low": 60.63,
-    "previousClose": 60.41,
-    "lastUpdated": "2025-04-24T04:13:59.001918"
+    "ipoYear": null
   },
   "MAR": {
     "symbol": "MAR",
@@ -2895,15 +1647,7 @@
     "marketCap": 62019506176,
     "country": "United States",
     "website": "https://www.marriott.com",
-    "ipoYear": null,
-    "currentPrice": 229.79,
-    "change": 9.2,
-    "percentChange": 4.1706,
-    "open": 228.88,
-    "high": 236.44,
-    "low": 228.36,
-    "previousClose": 220.59,
-    "lastUpdated": "2025-04-24T04:13:59.061549"
+    "ipoYear": null
   },
   "ALL": {
     "symbol": "ALL",
@@ -2913,15 +1657,7 @@
     "marketCap": 51030757376,
     "country": "United States",
     "website": "https://www.allstate.com",
-    "ipoYear": null,
-    "currentPrice": 194.73,
-    "change": 0.83,
-    "percentChange": 0.4281,
-    "open": 194.7,
-    "high": 196.41,
-    "low": 192.85,
-    "previousClose": 193.9,
-    "lastUpdated": "2025-04-24T04:13:59.117567"
+    "ipoYear": null
   },
   "HLT": {
     "symbol": "HLT",
@@ -2931,15 +1667,7 @@
     "marketCap": 50896408576,
     "country": "United States",
     "website": "https://www.hilton.com",
-    "ipoYear": null,
-    "currentPrice": 215.36,
-    "change": 4.72,
-    "percentChange": 2.2408,
-    "open": 217.165,
-    "high": 221.99,
-    "low": 213.82,
-    "previousClose": 210.64,
-    "lastUpdated": "2025-04-24T04:13:59.164784"
+    "ipoYear": null
   },
   "OKE": {
     "symbol": "OKE",
@@ -2949,15 +1677,7 @@
     "marketCap": 51568791552,
     "country": "United States",
     "website": "https://www.oneok.com/",
-    "ipoYear": null,
-    "currentPrice": 84.66,
-    "change": 0.61,
-    "percentChange": 0.7258,
-    "open": 85.21,
-    "high": 87.29,
-    "low": 84.03,
-    "previousClose": 84.05,
-    "lastUpdated": "2025-04-24T04:13:59.224211"
+    "ipoYear": null
   },
   "JCI": {
     "symbol": "JCI",
@@ -2967,15 +1687,7 @@
     "marketCap": 51306004480,
     "country": "Ireland",
     "website": "https://www.johnsoncontrols.com",
-    "ipoYear": null,
-    "currentPrice": 78.28,
-    "change": 1.67,
-    "percentChange": 2.1799,
-    "open": 78.96,
-    "high": 80.33,
-    "low": 78.12,
-    "previousClose": 76.61,
-    "lastUpdated": "2025-04-24T04:13:59.277552"
+    "ipoYear": null
   },
   "HWM": {
     "symbol": "HWM",
@@ -2985,15 +1697,7 @@
     "marketCap": 50899238912,
     "country": "United States",
     "website": "https://www.howmet.com",
-    "ipoYear": null,
-    "currentPrice": 129.7,
-    "change": 5.4,
-    "percentChange": 4.3443,
-    "open": 129.19,
-    "high": 132.31,
-    "low": 127.505,
-    "previousClose": 124.3,
-    "lastUpdated": "2025-04-24T04:13:59.332281"
+    "ipoYear": null
   },
   "KMI": {
     "symbol": "KMI",
@@ -3003,15 +1707,7 @@
     "marketCap": 58817662976,
     "country": "United States",
     "website": "https://www.kindermorgan.com",
-    "ipoYear": null,
-    "currentPrice": 26.6,
-    "change": 0,
-    "percentChange": 0,
-    "open": 26.85,
-    "high": 27.125,
-    "low": 26.41,
-    "previousClose": 26.6,
-    "lastUpdated": "2025-04-24T04:13:59.390192"
+    "ipoYear": null
   },
   "ABNB": {
     "symbol": "ABNB",
@@ -3021,15 +1717,7 @@
     "marketCap": 71168286720,
     "country": "United States",
     "website": "https://www.airbnb.com",
-    "ipoYear": null,
-    "currentPrice": 118.28,
-    "change": 3.37,
-    "percentChange": 2.9327,
-    "open": 119.7,
-    "high": 122.32,
-    "low": 116.72,
-    "previousClose": 114.91,
-    "lastUpdated": "2025-04-24T04:13:59.445674"
+    "ipoYear": null
   },
   "NSC": {
     "symbol": "NSC",
@@ -3039,15 +1727,7 @@
     "marketCap": 49389797376,
     "country": "United States",
     "website": "https://www.norfolksouthern.com",
-    "ipoYear": null,
-    "currentPrice": 221.95,
-    "change": 1.95,
-    "percentChange": 0.8864,
-    "open": 225,
-    "high": 231.205,
-    "low": 221.8334,
-    "previousClose": 220,
-    "lastUpdated": "2025-04-24T04:13:59.518986"
+    "ipoYear": null
   },
   "RSG": {
     "symbol": "RSG",
@@ -3057,15 +1737,7 @@
     "marketCap": 76217434112,
     "country": "United States",
     "website": "https://www.republicservices.com",
-    "ipoYear": null,
-    "currentPrice": 241.37,
-    "change": -1.2,
-    "percentChange": -0.4947,
-    "open": 243.21,
-    "high": 244.53,
-    "low": 239.27,
-    "previousClose": 242.57,
-    "lastUpdated": "2025-04-24T04:13:59.569815"
+    "ipoYear": null
   },
   "AIG": {
     "symbol": "AIG",
@@ -3075,15 +1747,7 @@
     "marketCap": 47851872256,
     "country": "United States",
     "website": "https://www.aig.com",
-    "ipoYear": null,
-    "currentPrice": 81.65,
-    "change": 0.01,
-    "percentChange": 0.0122,
-    "open": 82.28,
-    "high": 82.37,
-    "low": 81.16,
-    "previousClose": 81.64,
-    "lastUpdated": "2025-04-24T04:13:59.641503"
+    "ipoYear": null
   },
   "COR": {
     "symbol": "COR",
@@ -3093,15 +1757,7 @@
     "marketCap": 55078412288,
     "country": "United States",
     "website": "https://www.cencora.com",
-    "ipoYear": null,
-    "currentPrice": 284.71,
-    "change": -1.56,
-    "percentChange": -0.5449,
-    "open": 284.79,
-    "high": 284.99,
-    "low": 275.16,
-    "previousClose": 286.27,
-    "lastUpdated": "2025-04-24T04:13:59.702322"
+    "ipoYear": null
   },
   "WDAY": {
     "symbol": "WDAY",
@@ -3111,15 +1767,7 @@
     "marketCap": 60251660288,
     "country": "United States",
     "website": "https://www.workday.com",
-    "ipoYear": null,
-    "currentPrice": 224.87,
-    "change": 3.88,
-    "percentChange": 1.7557,
-    "open": 226,
-    "high": 230.76,
-    "low": 223.72,
-    "previousClose": 220.99,
-    "lastUpdated": "2025-04-24T04:13:59.752425"
+    "ipoYear": null
   },
   "CARR": {
     "symbol": "CARR",
@@ -3129,15 +1777,7 @@
     "marketCap": 51199926272,
     "country": "United States",
     "website": "https://www.corporate.carrier.com",
-    "ipoYear": null,
-    "currentPrice": 58.6,
-    "change": -0.87,
-    "percentChange": -1.4629,
-    "open": 60.28,
-    "high": 60.88,
-    "low": 58.57,
-    "previousClose": 59.47,
-    "lastUpdated": "2025-04-24T04:13:59.811632"
+    "ipoYear": null
   },
   "RCL": {
     "symbol": "RCL",
@@ -3147,15 +1787,7 @@
     "marketCap": 51675455488,
     "country": "United States",
     "website": "https://www.rclinvestor.com",
-    "ipoYear": null,
-    "currentPrice": 207.5,
-    "change": 7.83,
-    "percentChange": 3.9215,
-    "open": 209.36,
-    "high": 218.06,
-    "low": 206.73,
-    "previousClose": 199.67,
-    "lastUpdated": "2025-04-24T04:13:59.868482"
+    "ipoYear": null
   },
   "O": {
     "symbol": "O",
@@ -3165,15 +1797,7 @@
     "marketCap": 49243488256,
     "country": "United States",
     "website": "https://www.realtyincome.com",
-    "ipoYear": null,
-    "currentPrice": 58.05,
-    "change": -0.47,
-    "percentChange": -0.8031,
-    "open": 58.36,
-    "high": 58.66,
-    "low": 57.42,
-    "previousClose": 58.52,
-    "lastUpdated": "2025-04-24T04:13:59.922742"
+    "ipoYear": null
   },
   "TFC": {
     "symbol": "TFC",
